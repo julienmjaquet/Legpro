@@ -5,6 +5,11 @@ Authors: [Pascal Sciarini](mailto:pascal.sciarini@unige.ch), [Roy Gava](mailto:r
 
 See the [codebook](https://julienmjaquet.github.io/legpro)
 
+Please use the following citation if you use the data: <br/>
+Sciarini, Pascal, Gava, Roy and Jaquet, Julien M. (2018). Swiss Legislative Processes
+(1987-2015) (LegPro) [database]. Department of Political Science and International Relations,
+University of Geneva.
+
 <p align="center">
   <img src="images/data_structure.png" style="width: 200px;"/>
 </p>
