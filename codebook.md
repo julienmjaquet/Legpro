@@ -149,7 +149,7 @@ University of Geneva.
 
 <br/>
 <div align="right">
-    <b><a href="#----">↥ back to top</a></b>
+    <b><a href="Swiss Legislative Processes Codebook (LegPro)">↥ back to top</a></b>
 </div>
 <br/>
 
