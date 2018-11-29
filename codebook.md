@@ -41,7 +41,7 @@ The following translation table clarifies some basic terminology.
 
 ### Content of data folder
 - `Bills` main database <br/>
-- Secondary databases: `proposals`, `pre-parliamentary phases`, `consultations`, `parliamentary interventions`,`international organizations`, `MPs`, `MPs' individual votes`, `popular votes`, `legislation` and `abrogated legislation`
+- Secondary databases: `proposals`, `pre-parliamentary phases`, `consultations`, `parliamentary interventions`,`international organizations`, `MPs`, `MPs' individual votes`, `popular votes`, `legislation`, `abrogated legislation` and `Federal councillors`
 - Folder with proposals (PDF format, filename = `proposal_id`, see below). Before 1999-06, input bills are included in the proposal file. <br/>
 - Folder with input bills and output bills (PDF format, filename = `bill_id`, see below)
 
@@ -94,9 +94,9 @@ University of Geneva.
 |-------------|----------------------------------------------------|
 | [`bill_id`](#bill-id) | Bill unique ID |
 | [`proposal_id`](#proposal-id)|Legislative proposal official ID in long form |
-| [`bill_title`](#billtitle)| Title of the bill (in French) |
-| [`bill_title_de`](#billtitlede)| Title of the bill (in German)|
-| [`bill_date`](#billdate)| Bill date (i.e. when the legislative proposal was submitted to Parliament)  |
+| [`bill_title`](#bill-title)| Title of the bill (in French) |
+| [`bill_title_de`](#bill-title-de)| Title of the bill (in German)|
+| [`bill_date`](#bill-date)| Bill date (i.e. when the legislative proposal was submitted to Parliament)  |
 | [`bill_legislature`](#billlegislature)| Legislature during which the bill was submitted to Parliament |
 | [`bill_parl_decision_date`](#parldecisiondate)| Date of Parliament's final decision (end of the parliamentary phase)|
 | [`proposal_total_bils`](#proposalnbills)| Number of bills associated with the legislative proposal |
@@ -156,9 +156,9 @@ University of Geneva.
 |-------------|---------------------------------------------------|
 | <h4 id="bill-id"> `bill_id` </h4> | Bill unique ID formed by `proposal_id` and `bill_proposal_number`	|
 | <h4 id="proposal-id"> `proposal_id` </h4> | Legislative proposal official ID in long form (can be the Federal Council's report ID or the Parliamentary Committee's report ID). <br/> Allow the match of this dataset with the dataset [Proposals](#overviewproposals) and the dataset [Parliamentary Votes](#overviewparlvotes). |
-| [`bill_title`]{#billtitle}| Title of the bill (in French) |
-| [`bill_title_de`]{#billtitlede}| Title of the bill (in German)|
-| [`bill_date`]{#billdate}| Bill date, i.e. when the legislative proposal was submitted to Parliament. This is the date of the Federal Council's report or the date of its functional equivalent, the Parliamentary Committee's report. Format `YYYY-MM-DD`. |
+| <h4 id="bill-title"> `bill_title` </h4> | Title of the bill (in French) |
+| <h4 id="bill-title"> `bill_title_de` </h4> | Title of the bill (in German)|
+| <h4 id="bill-date"> `bill_date` </h4> | Bill date, i.e. when the legislative proposal was submitted to Parliament. This is the date of the Federal Council's report or the date of its functional equivalent, the Parliamentary Committee's report. Format `YYYY-MM-DD`. |
 | [`bill_legislature`]{#billlegislature}| Legislature during which the bill was submitted to Parliament. However, the bill might have been adopted/refused during a subsequent legislature. <br/> `43` = 1987-1991 <br/> `44` = 1991-1995 <br/> `45` = 1995-1999 <br/> `46` = 1999-2003 <br/> `47` = 2003-2007 <br/> `48` = 2007-2011 <br/> `49` = 2011-2015 |
 | [`bill_parl_decision_date`]{#parldecisiondate}| Date of Parliament's final decision (end of the parliamentary phase). This date usually refers to the date of the final vote in the second Chamber. However, it might also indicate the date of refusal at an earlier stage. Format `YYYY-MM-DD` |
 | [`proposal_total_bils`]{#proposalnbills}| Number of bills associated with the legislative proposal. |
