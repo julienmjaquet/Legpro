@@ -93,7 +93,7 @@ University of Geneva.
 | Variable | Short Description  | 
 |-------------|----------------------------------------------------|
 | [`bill_id`](#bill-id) | Bill unique ID |
-| [`proposal_id`](#idproposal)|Legislative proposal official ID in long form |
+| [`proposal_id`](#proposal-id)|Legislative proposal official ID in long form |
 | [`bill_title`](#billtitle)| Title of the bill (in French) |
 | [`bill_title_de`](#billtitlede)| Title of the bill (in German)|
 | [`bill_date`](#billdate)| Bill date (i.e. when the legislative proposal was submitted to Parliament)  |
@@ -155,7 +155,7 @@ University of Geneva.
 | Variable | Description 
 |-------------|---------------------------------------------------|
 | <h4 id="bill-id"> `bill_id` </h4> | Bill unique ID formed by `proposal_id` and `bill_proposal_number`	|
-| [`proposal_id`]{#idproposal}| Legislative proposal official ID in long form (can be the Federal Council's report ID or the Parliamentary Committee's report ID). <br/> Allow the match of this dataset with the dataset [Proposals](#overviewproposals) and the dataset [Parliamentary Votes](#overviewparlvotes). |
+| <h4 id="proposal-id"> `proposal_id` </h4> | Legislative proposal official ID in long form (can be the Federal Council's report ID or the Parliamentary Committee's report ID). <br/> Allow the match of this dataset with the dataset [Proposals](#overviewproposals) and the dataset [Parliamentary Votes](#overviewparlvotes). |
 | [`bill_title`]{#billtitle}| Title of the bill (in French) |
 | [`bill_title_de`]{#billtitlede}| Title of the bill (in German)|
 | [`bill_date`]{#billdate}| Bill date, i.e. when the legislative proposal was submitted to Parliament. This is the date of the Federal Council's report or the date of its functional equivalent, the Parliamentary Committee's report. Format `YYYY-MM-DD`. |
