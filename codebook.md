@@ -2,22 +2,13 @@
 
 
 <p align="center">
-  <b>Some Links:</b><br>
+  <b>Authors:</b><br>
   <a href="https://unige.ch/sciences-societe/speri/membres/pascal-sciarini/">Pascal Sciarini</a> |
-  <a href="#">Roy Gava</a> |
-  <a href="#">Julien Jaquet</a>
+  <a href="http://roygava.com/">Roy Gava</a> |
+  <a href="https://www.unige.ch/sciences-societe/speri/membres/template-pp-2-ass5/">Julien Jaquet</a>
   <br><br>
   </p>
   
-  
-[Pascal Sciarini](https://unige.ch/sciences-societe/speri/membres/pascal-sciarini/)
-[Roy Gava](http://roygava.com/)
-[Julien M. Jaquet](https://www.unige.ch/sciences-societe/speri/membres/template-pp-2-ass5/)
-
-
-[Contact the authors](mailto:pascal.sciarini@unige.ch)
-
-
 
 1. [Summary](#summary)
 2. [Acknowledgements](#acknowledgements)
