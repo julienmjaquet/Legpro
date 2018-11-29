@@ -123,8 +123,8 @@ University of Geneva.
 | [`bill_treatment_outcome`](#treatmentoutcome) | Outcome of the parliamentary process |
 | [`bill_international`](#actinternat)| Type of internationalization|
 | [`bill_eu`](#eu)|Type of Europeanization |
-| [`bill_eu_implementation`](#euimplement)| Implementation of EU law? (see Jenni 2014)   |
-| [`bill_eu_adaptation`](#euadaptation)| Horizontal dimension of Europeanization (see Jenni 2014)|
+| [`bill_eu_implementation`](#euimplement)| Implementation of EU law? (see [Jenni 2014](#bibliography))   |
+| [`bill_eu_adaptation`](#euadaptation)| Horizontal dimension of Europeanization (see [Jenni 2014](#bibliography))|
 | [`bill_initiation_date`](#initiationdate)| Initiation date |
 | [`bill_initiation_actor_type`](#initiationactor)| Actor who initiated the process (not to be confused with the drafter of the bill) |
 | [`bill_nc_vote_date`](#ncvotedate) | Date of the final vote in the National Council| 
@@ -155,7 +155,7 @@ University of Geneva.
 | Variable | Description 
 |-------------|---------------------------------------------------|
 | <h4 id="bill-id"> `bill_id` </h4> | Bill unique ID formed by `proposal_id` and `bill_proposal_number`	|
-| <h4 id="proposal-id"> `proposal_id` </h4> | Legislative proposal official ID in long form (can be the Federal Council's report ID or the Parliamentary Committee's report ID). <br/> Allow the match of this dataset with the dataset [Proposals](#overviewproposals) and the dataset [Parliamentary Votes](#overviewparlvotes). |
+| <h4 id="proposal-id"> `proposal_id` </h4> | Legislative proposal official ID in long form (can be the Federal Council's report ID or the Parliamentary Committee's report ID). <br/> Allow the match of this dataset with the dataset [Proposals](#proposals-dataset) and the dataset [Parliamentary Votes](#parliamentary-votes-dataset). |
 | <h4 id="bill-title"> `bill_title` </h4> | Title of the bill (in French) |
 | <h4 id="bill-title"> `bill_title_de` </h4> | Title of the bill (in German)|
 | <h4 id="bill-date"> `bill_date` </h4> | Bill date, i.e. when the legislative proposal was submitted to Parliament. This is the date of the Federal Council's report or the date of its functional equivalent, the Parliamentary Committee's report. Format `YYYY-MM-DD`. |
@@ -166,7 +166,7 @@ University of Geneva.
 | <h4 id="bill-act-type-detail-descr"> `bill_type_description` </h4> | Type of legislation (description): same categories as previous variable |
 | <h4 id="bill-dd"> `bill_direct_democracy` </h4> | Bill submitted to direct democracy? <br/> `yes` or `no` |
 | <h4 id="bill-dd-type"> `bill_dd_type` </h4> | If submitted to direct democracy, to which kind? <br/> `initiative` = popular initiative <br/> `mandatory` = mandatory referendum  <br/> `optional` = optional referendum <br/> `none` = not submitted to direct democracy |
-| <h4 id="relateddepartment"> `proposal_related_department` </h4> | Responsible federal department (see [glossary](#glossary)): <br/> `ChF` (Federal Chancellery), `DDPS`, `DEFR`, `DETEC`, `DFAE`, `DFF`, `DFI`, `DFJP` or `Parl` (Parliament) |
+| <h4 id="relateddepartment"> `proposal_related_department` </h4> | Responsible federal department (see [glossary](#glossary-and-abbreviations)): <br/> `ChF` (Federal Chancellery), `DDPS`, `DEFR`, `DETEC`, `DFAE`, `DFF`, `DFI`, `DFJP` or `Parl` (Parliament) |
 | [`proposal_descriptors`]{#descriptors} | Keywords related to the legislative proposal (in German) given by the [Parliamentary Services](http://www.parlament.ch/e/service-presse/parlamentsdienste/Pages/default.aspx) |
 | [`rs_id`]{#billrs}| Reference to the legislative act in the [Systematic Compilation of Federal Legislation](https://www.admin.ch/gov/fr/accueil/droit-federal/recueil-systematique.html). <br/> Allow the match of this dataset with the dataset [Legislation](#overviewlegislation) and [Abrogated Legislation](#overviewabroglegislation) |
 | [`bill_ro`]{#billro}| Reference to the legislative act in the [Official Compilation of Federal Legislation](https://www.admin.ch/gov/fr/accueil/droit-federal/recueil-officiel.html)|
