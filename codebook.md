@@ -155,7 +155,7 @@ University of Geneva.
 | Variable | Description 
 |-------------|---------------------------------------------------|
 | <h4 id="bill-id"> `bill_id` </h4> | Bill unique ID formed by `proposal_id` and `bill_proposal_number`	|
-| <h4 id="proposal-id"> `proposal_id` </h4> | Legislative proposal official ID in long form (can be the Federal Council's report ID or the Parliamentary Committee's report ID). <br/> Allow the match of this dataset with the dataset [Proposals](#proposals-dataset) and the dataset [Parliamentary Votes](#parliamentary-votes-dataset). |
+| <h4 id="proposal-id"> `proposal_id` </h4> | Legislative proposal official ID in long form (can be the Federal Council's report ID or the Parliamentary Committee's report ID). <br/> Allow the match of this dataset with the dataset [Proposals](#proposals-dataset) and the dataset [Parliamentary Votes](#parliamentary-votes). |
 | <h4 id="bill-title"> `bill_title` </h4> | Title of the bill (in French) |
 | <h4 id="bill-title"> `bill_title_de` </h4> | Title of the bill (in German)|
 | <h4 id="bill-date"> `bill_date` </h4> | Bill date, i.e. when the legislative proposal was submitted to Parliament. This is the date of the Federal Council's report or the date of its functional equivalent, the Parliamentary Committee's report. Format `YYYY-MM-DD`. |
@@ -179,7 +179,7 @@ University of Geneva.
 | [`bill_ff_page_start`]{#ffpagestart} | First page of the bill within the PDF file of the proposal (bills before 1999 are part of the same PDF file as the proposal) |
 | [`bill_ff_page_end`]{#ffpagestart} | Last page of the bill within the PDF file of the proposal (bills before 1999 are part of the same PDF file as the proposal) |
 | [`bill_priority_council`]{#firstcouncil} | Priority council in parliament (*Krippendorff's alpha: 0.95*): <br/> `CE/SC` = Council of States (upper chamber, cantons chamber) <br/> `CN/NC` = National Council (lower chamber, people chamber) |
-| [`bill_treatment_category`]{#treatmentcategory} | [Treatment category](http://www.parlament.ch/f/wissen/parlamentswoerterbuch/pages/behandlungskategorie.aspx) of the bill in the National Council (*Krippendorff's alpha: 0.99*) <br/> `I` = free debate <br/> `II` = organized debate <br/> `IIIa` = group debate <br/> `IIIb` = reduced group debate <br/> `IV` = brief debate <br/> `V` = written procedure  |
+| [`bill_treatment_category`]{#treatmentcategory} | [Debate category](https://www.parlament.ch/en/%C3%BCber-das-parlament/parlamentsw%C3%B6rterbuch/parlamentsw%C3%B6rterbuch-detail?WordId=64) of the bill in the National Council (*Krippendorff's alpha: 0.99*) <br/> `I` = free debate <br/> `II` = organized debate <br/> `IIIa` = group debate <br/> `IIIb` = reduced group debate <br/> `IV` = brief debate <br/> `V` = written procedure  |
 | [`bill_navettes`]{#navettes} | Number of "navettes" between the legislative chambers (*Krippendorff's alpha: 0.91*): <br/> `0`, `0.5`, `1`, `1.5` or `2` (before 1992, can have more) |
 | [`bill_conciliation`]{#conciliationcommitte} | Was there a conciliation committee? <br/> `yes` or `no` |
 | [`bill_treatment_outcome`]{#treatmentoutcome} | Outcome of the parliamentary process: <br/>  `parl_adopted` = adopted by the parliament <br/> `parl_refusal` = refused by the parliament <br/> `file_or_return` = draft bill sent back to the Federal Council or the parliamentary committee, or <br/> `non-consideration` = consideration of the draft bill refused by the parliament <br/> `other_adopted` = bill adopted following a different procedure (e.g., only one chamber needed to approved the bill in some cases) `other_non_adopted` = bill did not pass for other reasons. <br/> `withdrawal` = legislative proposal withdrawn by its author (e.g., if it comes from a parliamentary initiative) |
@@ -201,10 +201,10 @@ University of Geneva.
 | [`bill_urgence_clause`]{#urgenceclause} | Does the bill was declared urgent? <br/> `demanded_accepted` or `none` | 
 | [`bill_consultations_count`]{#consultcount} | Number of consultation procedures during the preparatory phase (*Krippendorff's alpha: 0.79*) |
 | [`bill_preparl_steps_count`]{#pppsteps} | Number of preparliamentary steps during the preparatory phase (*Krippendorff's alpha: 0.68*) |
-| [`majortopic`]{#majortopic}| Issue topic according to the [CAP coding scheme](http://www.comparativeagendas.info) (major category). See the coding procedure in the section [Automated Coding of CAP Topics](#cap). |
-| [`intervention_id`]{#interventionid} | Id of the parliamentary interventions (if at the origin of the decision-making process) (*Krippendorff's alpha: 0.84*) <br/> Allow the match of this dataset with the dataset [Parliamentary Interventions](#overviewparlinterv) |
-| [`consultation_id`]{#consultationid} | Id of the consultation procedure (if any) (*Krippendorff's alpha: 0.79*) <br/> Allow the match of this dataset with the dataset [Consultations](#overviewconsultations) |
-| [`io_id`]{#ioid} | Id of the international organization (if related to any) (*Krippendorff's alpha: 0.63*) <br/> Allow the match of this dataset with the dataset [International Organizations](#overviewios) |
+| [`majortopic`]{#majortopic}| Issue topic according to the [CAP coding scheme](http://www.comparativeagendas.info) (major category). See the coding procedure in the section [Automated Coding of CAP Topics](#6-automated-coding-of-cap-topics). |
+| [`intervention_id`]{#interventionid} | Id of the parliamentary interventions (if at the origin of the decision-making process) (*Krippendorff's alpha: 0.84*) <br/> Allow the match of this dataset with the dataset [Parliamentary Interventions](#parliamentary-interventions-dataset) |
+| [`consultation_id`]{#consultationid} | Id of the consultation procedure (if any) (*Krippendorff's alpha: 0.79*) <br/> Allow the match of this dataset with the dataset [Consultations](#consultations-dataset) |
+| [`io_id`]{#ioid} | Id of the international organization (if related to any) (*Krippendorff's alpha: 0.63*) <br/> Allow the match of this dataset with the dataset [International Organizations](#international-organizations-dataset) |
 | [`bill_coder_comments`]{#comments}| Comments on the coding (in french) |
 
 [↥ back to top](#swiss-legislative-processes-codebook-legpro)
@@ -254,7 +254,7 @@ University of Geneva.
 [↥ back to top](#swiss-legislative-processes-codebook-legpro)
 
 
-## Parliamentary votes
+## Parliamentary votes dataset
 
 | Variable | Description 
 |-------------|---------------------------------------------------|
@@ -319,7 +319,7 @@ University of Geneva.
 | `related_department_id` | Responsible Federal Department. See the [glossary](#7-glossary-and-abbreviations)  |
 | `related_department_name` | Responsible Federal Department. See the [glossary](#7-glossary-and-abbreviations)  |
 | `author_type` | `canton` <br/> `committee` (legislative committee) <br/> `councillor` (MP) <br/> `faction` (parliamentary group) <br/> `external` (other) |
-| `author_faction_abbreviation` | See [glossary](#glossary) |
+| `author_faction_abbreviation` | See [glossary](#7-glossary-and-abbreviations) |
 | `author_faction_id` | `99` = non affiliated. For the rest, see the [glossary](#7-glossary-and-abbreviations) |
 | `author_faction_name` | Parliamentary group's name (in french) |
 | `author_name` | MP's fullname or group name |
@@ -447,27 +447,21 @@ University of Geneva.
 ### Coders' supplementary information
 
 
-<center>
+
 **Figure 2: decision tree for variable ``bill_international``**
+<p align="center">
+  <img src="images/int.png" style="width: 500px;"/>
+</p>
 
-![](D:/Dropbox/Legpro codebook/working directory/int.png){width=500px}
-
-</center>
-
-<center>
 **Figure 3: decision tree for variable ``bill_eu``**
+<p align="center">
+  <img src="images/eu.png" style="width: 500px;"/>
+</p>
 
-![](D:/Dropbox/Legpro codebook/working directory/eu.png){width=500px}
-
-</center>
-
-<center>
 **Figure 4: decision tree for variable ``bill_eu_implementation`` (drawing on Jenni 2014)**
-
-![](D:/Dropbox/Legpro codebook/working directory/eu_tree.png){width=500px}
-
-
-</center>
+<p align="center">
+  <img src="images/eu_tree.png" style="width: 500px;"/>
+</p>
 
 
 [↥ back to top](#swiss-legislative-processes-codebook-legpro)
