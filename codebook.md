@@ -117,7 +117,7 @@ University of Geneva.
 | [`bill_ff_page_start`](#ffpagestart) | First page of the bill within the PDF file of the proposal (bills before 1999 are part of the same PDF file as the proposal) |
 | [`bill_ff_page_end`](#ffpagestart) | Last page of the bill within the PDF file of the proposal (bills before 1999 are part of the same PDF file as the proposal) |
 | [`bill_priority_council`](#firstcouncil) | Priority Council in parliament |
-| [`bill_treatment_category`](#treatmentcategory) | [Treatment category](http://www.parlament.ch/f/wissen/parlamentswoerterbuch/pages/behandlungskategorie.aspx) of the bill in the National Council|
+| [`bill_treatment_category`](#treatmentcategory) | [Debate category](https://www.parlament.ch/en/%C3%BCber-das-parlament/parlamentsw%C3%B6rterbuch/parlamentsw%C3%B6rterbuch-detail?WordId=64) of the bill in the National Council|
 | [`bill_navettes`](#navettes) | Number of "navettes" between the two Councils |
 | [`bill_conciliation`](#conciliationcommitte) | Was there a conciliation committee? |
 | [`bill_treatment_outcome`](#treatmentoutcome) | Outcome of the parliamentary process |
@@ -167,15 +167,15 @@ University of Geneva.
 | <h4 id="bill-dd"> `bill_direct_democracy` </h4> | Bill submitted to direct democracy? <br/> `yes` or `no` |
 | <h4 id="bill-dd-type"> `bill_dd_type` </h4> | If submitted to direct democracy, to which kind? <br/> `initiative` = popular initiative <br/> `mandatory` = mandatory referendum  <br/> `optional` = optional referendum <br/> `none` = not submitted to direct democracy |
 | <h4 id="relateddepartment"> `proposal_related_department` </h4> | Responsible federal department (see [glossary](#glossary-and-abbreviations)): <br/> `ChF` (Federal Chancellery), `DDPS`, `DEFR`, `DETEC`, `DFAE`, `DFF`, `DFI`, `DFJP` or `Parl` (Parliament) |
-| [`proposal_descriptors`]{#descriptors} | Keywords related to the legislative proposal (in German) given by the [Parliamentary Services](http://www.parlament.ch/e/service-presse/parlamentsdienste/Pages/default.aspx) |
-| [`rs_id`]{#billrs}| Reference to the legislative act in the [Systematic Compilation of Federal Legislation](https://www.admin.ch/gov/fr/accueil/droit-federal/recueil-systematique.html). <br/> Allow the match of this dataset with the dataset [Legislation](#overviewlegislation) and [Abrogated Legislation](#overviewabroglegislation) |
-| [`bill_ro`]{#billro}| Reference to the legislative act in the [Official Compilation of Federal Legislation](https://www.admin.ch/gov/fr/accueil/droit-federal/recueil-officiel.html)|
-| [`bill_ro_url`]{#billrourl} | Web link to the [Official Compilation of Federal Legislation](https://www.admin.ch/gov/fr/accueil/droit-federal/recueil-officiel.html) (output bill) |
-| [`ff_input_id`]{#ffinputid} | Id in the [Federal Gazette](https://www.admin.ch/gov/fr/accueil/droit-federal/feuille-federale.html) (input bill) |
-| [`ff_output_id`]{#ffoutputid} | Id in the [Federal Gazette](https://www.admin.ch/gov/fr/accueil/droit-federal/feuille-federale.html) (output bill) |
-| [`bill_ff_output`]{#ffoutput} | Official Id in the [Federal Gazette](https://www.admin.ch/gov/fr/accueil/droit-federal/feuille-federale.html) (output bill). Format `FF YYYY PPPP` (Y = year, P = page). Before 1999-06: `FF YYYY V PPPP` (V = volume in roman numerals) |
-| [`bill_ff_output_url`]{#ffoutputurl} | Web link in the [Federal Gazette](https://www.admin.ch/gov/fr/accueil/droit-federal/feuille-federale.html) (output bill) |
-| [`bill_proposal_url_manual`]{#manuallinkproposal}| Manual web link of the proposal (to identify bills if not included in the original proposal)|
+| <h4 id="descriptors"> proposal_descriptors` </h4> | Keywords related to the legislative proposal (in German) given by the [Parliamentary Services](http://www.parlament.ch/e/service-presse/parlamentsdienste/Pages/default.aspx) |
+| <h4 id="billrs"> `rs_id` </h4> | Reference to the legislative act in the [Systematic Compilation of Federal Legislation](https://www.admin.ch/gov/fr/accueil/droit-federal/recueil-systematique.html). <br/> Allow the match of this dataset with the dataset [Legislation](#legislation) and [Abrogated Legislation](#abrogated-legislation) |
+| <h4 id="bill-ro"> `bill_ro` </h4> | Reference to the legislative act in the [Official Compilation of Federal Legislation](https://www.admin.ch/gov/fr/accueil/droit-federal/recueil-officiel.html)|
+| <h4 id="billrourl"> `bill_ro_url` </h4> | Web link to the [Official Compilation of Federal Legislation](https://www.admin.ch/gov/fr/accueil/droit-federal/recueil-officiel.html) (output bill) |
+| <h4 id="ffinputid"> `ff_input_id` </h4> | Id in the [Federal Gazette](https://www.admin.ch/gov/fr/accueil/droit-federal/feuille-federale.html) (input bill) |
+| <h4 id="ffoutputid"> `ff_output_id` </h4> | Id in the [Federal Gazette](https://www.admin.ch/gov/fr/accueil/droit-federal/feuille-federale.html) (output bill) |
+| <h4 id="ffoutput"> `bill_ff_output` </h4> | Official Id in the [Federal Gazette](https://www.admin.ch/gov/fr/accueil/droit-federal/feuille-federale.html) (output bill). Format `FF YYYY PPPP` (Y = year, P = page). Before 1999-06: `FF YYYY V PPPP` (V = volume in roman numerals) |
+| <h4 id="ffoutputurl"> `bill_ff_output_url` </h4> | Web link in the [Federal Gazette](https://www.admin.ch/gov/fr/accueil/droit-federal/feuille-federale.html) (output bill) |
+| <h4 id="manuallinkproposal"> `bill_proposal_url_manual` </h4> | Manual web link of the proposal (to identify bills if not included in the original proposal)|
 | [`bill_ff_page_start`]{#ffpagestart} | First page of the bill within the PDF file of the proposal (bills before 1999 are part of the same PDF file as the proposal) |
 | [`bill_ff_page_end`]{#ffpagestart} | Last page of the bill within the PDF file of the proposal (bills before 1999 are part of the same PDF file as the proposal) |
 | [`bill_priority_council`]{#firstcouncil} | Priority council in parliament (*Krippendorff's alpha: 0.95*): <br/> `CE/SC` = Council of States (upper chamber, cantons chamber) <br/> `CN/NC` = National Council (lower chamber, people chamber) |
