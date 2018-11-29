@@ -209,7 +209,8 @@ University of Geneva.
 | [`io_id`]{#ioid} | Id of the international organization (if related to any) (*Krippendorff's alpha: 0.63*) <br/> Allow the match of this dataset with the dataset [International Organizations](#overviewios) |
 | [`bill_coder_comments`]{#comments}| Comments on the coding (in french) |
 
-[Back to the top](#summary)
+[↥ back to top](#swiss-legislative-processes-codebook-legpro)
+
 
 ## Proposals dataset{#detailsproposals}  
 
@@ -224,7 +225,8 @@ University of Geneva.
 | `proposal_parl_url` | Web link to [Curia Vista](https://www.parlament.ch/fr/ratsbetrieb/curia-vista), the database of parliamentary proceedings of the Parliament web services.  |
 | `proposal_url` | Web link to the [Federal Gazette](https://www.admin.ch/gov/fr/accueil/droit-federal/feuille-federale.html)  |
 
-[Back to the top](#summary)
+[↥ back to top](#swiss-legislative-processes-codebook-legpro)
+
 
 ## Preparliamentary phase dataset{#detailspreparl}
 
@@ -238,7 +240,7 @@ University of Geneva.
 | `preparl_phases_end_date` | Date of the end of this preparliamentary sub-phase. Format `YYYY-MM-DD`. |
 | `preparl_phases_count`  | Number of preparliamentary steps associated with this bill |
 
-[Back to the top](#summary)
+[↥ back to top](#swiss-legislative-processes-codebook-legpro)
 
 
 ## Consultations dataset{#detailsconsultations}
@@ -251,7 +253,8 @@ University of Geneva.
 | `consultation_date_start` | Opening date of the consultation procedure. Format `YYYY-MM-DD` |
 | `consultation_date_end` | Closing date of the consultation procedure. Format `YYYY-MM-DD` |
 
-[Back to the top](#summary)
+[↥ back to top](#swiss-legislative-processes-codebook-legpro)
+
 
 ## Parliamentary votes{#detailsparlvotes}
 
@@ -272,7 +275,7 @@ University of Geneva.
 | `mp_id` | MP's ID  |
 | `mp_name` | MP's fullname |
 
-[Back to the top](#summary)
+[↥ back to top](#swiss-legislative-processes-codebook-legpro)
 
 
 ## MPs dataset{#detailsmps}
@@ -297,8 +300,7 @@ University of Geneva.
 | `membership_entry_date` | Parliament's mandate start date |
 | `membership_leaving_date` | Parliament's mandate end date |
 
-
-[Back to the top](#summary)
+[↥ back to top](#swiss-legislative-processes-codebook-legpro)
 
 
 ## Parliamentary interventions dataset{#detailsparlinterv}
@@ -324,8 +326,7 @@ University of Geneva.
 | `author_faction_name` | Parliamentary group's name (in french) |
 | `author_name` | MP's fullname or group name |
 
-
-[Back to the top](#summary)
+[↥ back to top](#swiss-legislative-processes-codebook-legpro)
 
 
 ## Popular votes dataset{#detailspopvotes}
@@ -339,7 +340,8 @@ University of Geneva.
 | `vote_legal_type` | `1` = Mandatory referendum <br/> `2` = Optional referendum <br/>  `3` = Popular initiative <br/> `4` = Counter-proposal to a popular initiative |
 | `vote_result` | Popular vote result: <br/> `1` = accepted <br/> `0` = refused  |
 
-[Back to the top](#summary)
+
+[↥ back to top](#swiss-legislative-processes-codebook-legpro)
 
 
 ## Legislation dataset{#detailslegislation}
@@ -365,7 +367,7 @@ University of Geneva.
 | `international` | `1` = international law <br/> `0` = domestic law |
 
 
-[Back to the top](#summary)
+[↥ back to top](#swiss-legislative-processes-codebook-legpro)
 
 
 ## Abrogated legislation dataset{#detailsabroglegislation}
@@ -383,7 +385,7 @@ University of Geneva.
 | `abrogated` | Date of the abrogation of the law. Format `YYYY-MM-DD` |
 
 
-[Back to the top](#summary)
+[↥ back to top](#swiss-legislative-processes-codebook-legpro)
 
 
 ## International organizations dataset{#detailsios}
@@ -401,8 +403,7 @@ University of Geneva.
 | `io_type_III` | Type of international organization (classification III) |
 | `io_yearbook_url` | Web link to the [yearbook of international organizations](http://ybio.brillonline.com/ybio/)  |
 
-
-[Back to the top](#summary)
+[↥ back to top](#swiss-legislative-processes-codebook-legpro)
 
 
 # 5. Summary of Coders Instructions
@@ -433,9 +434,7 @@ University of Geneva.
 | `bill_treatment_category`{#treatmentcat2}|Information available on the [Curia Vista](http://www.parlament.ch/f/suche/Pages/curia-vista.aspx) webpage (=> "cat?gorie objet"). If more than one category is mentioned, code the "smaller" category (e.g. `I` insted of `II`, *i.e.* the more important category)|
 | `bill_coder_comments`{#comments2} |If necessary, make (short) comments (e.g. regarding any debatable decision you have made) |
 
-
-
-[Back to the top](#summary)
+[↥ back to top](#swiss-legislative-processes-codebook-legpro)
 
 
 ### Coders' supplementary information{#codesup}
@@ -464,31 +463,31 @@ University of Geneva.
 </center>
 
 
-[Back to the top](#summary)
+[↥ back to top](#swiss-legislative-processes-codebook-legpro)
 
 
 # 6. Automated Coding of CAP topics
 
-The coding of topics is based on the coding scheme of the [Comparative Agendas Project](https://www.comparativeagendas.net/). While for a long time CAP scholars have mostly relied on human coding, a trend towards automated coding has emerged since the last two decades. Several automated-coding approaches have been tested within the CAP community and beyond (see e.g., Quinn et al. 2010), but the algorithmns and techniques are increasingly complex, so that they sometimes obscure what is actually measured. Therefore, following Sevenans et al. (2014) we opted for a ``simpler'' dictionary-based approach. An important advantage of such an approach is that it is clear about what it counts and one can make the case that policy topics are relatively easily identified using a finite set of keywords (Ibid., 2014:3).
+The coding of topics is based on the coding scheme of the [Comparative Agendas Project](https://www.comparativeagendas.net/). While for a long time CAP scholars have mostly relied on human coding, a trend towards automated coding has emerged since the last two decades. Several automated-coding approaches have been tested within the CAP community and beyond (see e.g., Quinn et al. 2010), but the algorithmns and techniques are increasingly complex, so that they sometimes obscure what is actually measured. Therefore, following Sevenans et al. (2014) we opted for a simpler dictionary-based approach. An important advantage of such an approach is that it is clear about what it counts and one can make the case that policy topics are relatively easily identified using a finite set of keywords (Ibid., 2014:3).
 
 To build our dictionary, we first translated into french the english dictionary developed by Sevenans et al. (2014), which is available online ([lexicoder](http://lexicoder.com/download.html)). We  added some words relevant to the Swiss context. Then, we took advantage of a sample of 369 human-coded bills (as part of another SNF-funded project, see [section acknowledgements](#acknowledgements)) to explore the most commons words of each major topic. Finally, on the basis of the term frequency-inverse document frequency (tf-idf) computed by topic (and not by document), we removed words that did not allow to identify one unique topic.
 
-To validate our approach we computed ``precision``, ``recall`` and ``F1 score``, statistics often used in the context of automated text anlysis (Grimmer \& Stuart, 2013) on the basis of the human-coded sample. The ``recall``
-stastistics indicates the number of bills correctly classified in a given topic, divided by the total number of bills that human coded in this topic. The ``precision`` statistics computes the number of bills correctly classified in a given topic, divided by the total number of bills that the dictionnary classified in this topic. Finally, the ``F1-score`` combines the two latter measures to produce an unique measure of classification quality, and is given by:
+To validate our approach we computed *precision*, *recall* and *F1 score*, statistics often used in the context of automated text anlysis (Grimmer \& Stuart, 2013) on the basis of the human-coded sample. The *recall*
+stastistics indicates the number of bills correctly classified in a given topic, divided by the total number of bills that human coded in this topic. The *precision* statistics computes the number of bills correctly classified in a given topic, divided by the total number of bills that the dictionnary classified in this topic. Finally, the *F1-score* combines the two latter measures to produce an unique measure of classification quality, and is given by:
 
 <center>
 $F1_{score} = \frac{2 \times (P \times R)}{(P + R)}$
 </center>
 
-All those measures represent percentages and thus take values between 0 and 1. ``Figure 5`` presents graphically the results for each of the 21 CAP topics.
+All those measures represent percentages and thus take values between 0 and 1. *Figure 5* presents graphically the results for each of the 21 CAP topics.
 
 <center>
 **Figure 5: F1 score, recall and precision for bills**
 
-![**Figure 1: F1 score for bills**](D:/Dropbox/Legpro codebook/working directory/validation3.png){width=1000px} 
+![**Figure 1: F1 score for bills**](/validation3.png){width=1000px} 
 </center>
 
-As it is clear from ``figure 5``, there is a great variation across topics. While such a variation is partly explained by the number of available documents for each topic, another problem relates to topic-specific words. In other words, it is easier to find words that uniquely identify a topic for some issues, than for other issues. In general, our dictionary-based approach produced average results, with a mean recall of 0.49, mean precision of 0.61 and mean f1-score of 0.5. However, it is not clear if a perfect score is actually desirable considering that there might be some degree of error in the human coding as well (Sevenans et al. 2014).
+As it is clear from *figure 5*, there is a great variation across topics. While such a variation is partly explained by the number of available documents for each topic, another problem relates to topic-specific words. In other words, it is easier to find words that uniquely identify a topic for some issues, than for other issues. In general, our dictionary-based approach produced average results, with a mean recall of 0.49, mean precision of 0.61 and mean f1-score of 0.5. However, it is not clear if a perfect score is actually desirable considering that there might be some degree of error in the human coding as well (Sevenans et al. 2014).
 
 In sum, we still need to work on our French dictionary applied to the Swiss context. Therefore, while our data includes the CAP major topics for 1,660 bills over the period 1999-2015  computed through our dictionary-based approach, that information should be used with caution.
 
@@ -578,7 +577,7 @@ In sum, we still need to work on our French dictionary applied to the Swiss cont
 | VD | Vaud | Vaud | Waadt |
 | VS | Valais | Valais | Wallis |
 | ZG | Zug | Zoug | Zug |
-| ZH | Z?rich | Zurich | Zurich |
+| ZH | Zürich | Zurich | Zurich |
 
 
 
