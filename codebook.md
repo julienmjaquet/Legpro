@@ -8,7 +8,7 @@
 
   
 
-1. [Summary](#summary)
+1. [Summary](#1-summary)
 2. [Acknowledgements](#acknowledgements)
 3. [Suggested Citation](#citation)
 4. [LegPro Codebook](#codebook)
