@@ -9,13 +9,13 @@
   
 
 1. [Summary](#1-summary)
-2. [Acknowledgements](#acknowledgements)
-3. [Suggested Citation](#citation)
-4. [LegPro Codebook](#codebook)
-5. [Summary of Coders Instructions](#codersinstructions)
-6. [Automated Coding of CAP Topics](#cap)
-7. [Glossary and Abbreviations](#glossary)
-8. [Bibliography](#references)
+2. [Acknowledgements](#2-acknowledgements)
+3. [Suggested Citation](#3-citation)
+4. [LegPro Codebook](#4-codebook)
+5. [Summary of Coders Instructions](#5-codersinstructions)
+6. [Automated Coding of CAP Topics](#6-cap)
+7. [Glossary and Abbreviations](#7-glossary)
+8. [Bibliography](#8-references)
 
 
 
@@ -59,7 +59,7 @@ Figure 1 below presents the data structure and the links between each database. 
 </p>
 
 
-# 2. Acknowledgements{#acknowledgements}
+# 2. Acknowledgements
 
 The LegPro database is an output of the project *Re-parliamentarization? A quantitative assessment of the Swiss Parliament's legislative function, 1987-2015* funded by the Swiss National Science Foundation (ref. 100018_159370). We thank the four coders --- Julien Christe, Thibault Bachmann, Matteo Roberti and Maxime Walder --- for their work. We are grateful to [Prof. Fr?d?ric Varone](mailto:frederic.varone@unige.ch) and [Prof. Simon Hug](https://unige.ch/sciences-societe/speri/membres/simon-hug/) for their valuable inputs. We also thank the Swiss Parliament's Library Chief, J?r?mie Leuthold for fruitful exchanges.
 
@@ -68,13 +68,13 @@ The data stems from several sources: [Swissvotes](http://www.swissvotes.ch), the
 The CAP coding part of the document relies on the project *Agenda-Setting in Switzerland* funded by the Swiss National Science Foundation (ref. 105511-119245/1), which was part of the EUROCORES project *The Politics of Attention: West European Politics in Times of Change* funded by the European Science Foundation.
 
 
-# 3. Suggested citation{#citation}
+# 3. Suggested citation
 
 Sciarini, Pascal, Gava, Roy and Jaquet, Julien M. (2018). Swiss Legislative Processes
 (1987-2015) (LegPro) [database]. Department of Political Science and International Relations,
 University of Geneva.
 
-# 4. LegPro Codebook{#codebook}
+# 4. LegPro Codebook
 
 - Bills dataset: [overview](#overviewbills) or [detailed information](#detailsbills)
 - [Proposals dataset](#detailsproposals)  
@@ -402,7 +402,7 @@ University of Geneva.
 [Back to the top](#summary)
 
 
-# 5. Summary of Coders Instructions{#codersinstructions}
+# 5. Summary of Coders Instructions
 
 | Step | General instructions (proposals between the years 1995 and 2015)|
 |------|-----------------------------------------------------------------|
@@ -464,7 +464,7 @@ University of Geneva.
 [Back to the top](#summary)
 
 
-# 6. Automated Coding of CAP topics{#cap}
+# 6. Automated Coding of CAP topics
 
 The coding of topics is based on the coding scheme of the [Comparative Agendas Project](https://www.comparativeagendas.net/). While for a long time CAP scholars have mostly relied on human coding, a trend towards automated coding has emerged since the last two decades. Several automated-coding approaches have been tested within the CAP community and beyond (see e.g., Quinn et al. 2010), but the algorithmns and techniques are increasingly complex, so that they sometimes obscure what is actually measured. Therefore, following Sevenans et al. (2014) we opted for a ``simpler'' dictionary-based approach. An important advantage of such an approach is that it is clear about what it counts and one can make the case that policy topics are relatively easily identified using a finite set of keywords (Ibid., 2014:3).
 
@@ -491,7 +491,7 @@ In sum, we still need to work on our French dictionary applied to the Swiss cont
 
 [Back to the top](#summary)
 
-# 7. Glossary and abbreviations{#glossary}
+# 7. Glossary and abbreviations
 
 | Abbreviation  | English                               | French                                      | German                                                     |
 |---------------|---------------------------------------|---------------------------------------------|------------------------------------------------------------|
@@ -583,7 +583,7 @@ In sum, we still need to work on our French dictionary applied to the Swiss cont
 
 
 
-# 8. Bibliography{#references}
+# 8. Bibliography
 
 * Grimmer, J. and Stewart, B. M. (2013). Text as Data: The Promise and Pitfalls of Automatic Content Analysis Methods for Texts. *Political Analysis* 21(3): 267-297.
 
