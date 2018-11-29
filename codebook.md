@@ -42,7 +42,6 @@ The following translation table clarifies some basic terminology.
 ### Content of data folder
 - `Bills` main database <br/>
 - Secondary databases: `proposals`, `pre-parliamentary phases`, `consultations`, `parliamentary interventions`,`international organizations`, `MPs`, `MPs' individual votes`, `popular votes`, `legislation` and `abrogated legislation`
-- Codebook <br/>
 - Folder with proposals (PDF format, filename = `proposal_id`, see below). Before 1999-06, input bills are included in the proposal file. <br/>
 - Folder with input bills and output bills (PDF format, filename = `bill_id`, see below)
 
@@ -50,10 +49,8 @@ The following translation table clarifies some basic terminology.
 
 Figure 1 below presents the data structure and the links between each database. It shows the links between common `id variables`.
 
-<center>
-**Figure 1: Overview of data structure**
 
-![**Figure 1**]
+**Figure 1: Overview of data structure**
 <p align="center">
   <img src="images/data_structure.png" style="width: 200px;"/>
 </p>
@@ -544,7 +541,7 @@ In sum, we still need to work on our French dictionary applied to the Swiss cont
 | E   | Evangelical and Independent | Groupe évangélique et indépendant   | Evangelische und unabhängige Fraktion  |
 | F   | Swiss Freedom Party    | Groupe du Parti suisse de la liberté  | Fraktion der Freiheitspartei der Schweiz|
 | G   | Green Group             | Groupe des Verts               | Grüne Fraktion       |
-| GL  | Green liberal Group     | Groupe vert'lib?ral                       | Grünliberale Fraktion    |
+| GL  | Green liberal Group     | Groupe vert'libéral                       | Grünliberale Fraktion    |
 | L   | Liberal Group          | Groupe libéral                         |  Liberale Fraktion         |
 | R   | Free Democratic Group   | Groupe radical                         |  Freisinnige Fraktion  |
 | RL  | FDP. The Liberal Group  |   Groupe libéral-radical                       |  FDP-Liberale Fraktion            |
@@ -556,12 +553,12 @@ In sum, we still need to work on our French dictionary applied to the Swiss cont
 | AI | Appenzell Innerrhoden | Appenzell Rhodes-Intérieures | Appenzell Innerrhoden |
 | AR | Appenzell Ausserrhoden | Appenzell Rhodes-Extérieures | Appenzell Ausserrhoden |
 | BE | Bern | Berne | Bern |
-| BL | Basel-Landschaft | B?le-Campagne | Basel-Landschaft |
+| BL | Basel-Landschaft | Bâle-Campagne | Basel-Landschaft |
 | BS | Basel-Stadt | Bâle-Ville | Basel-Stadt |
 | FR | Fribourg | Fribourg | Freiburg |
 | GE | Geneva | Genève | Genf |
 | GL | Glarus | Glaris | Glarus |
-| GR | Grisons | Grisons | Graub?nden |
+| GR | Grisons | Grisons | Graubünden |
 | JU | Jura | Jura | Jura |
 | LU | Luzern | Lucerne | Luzern |
 | NE | Neuchâtel | Neuchâtel | Neuenburg |
