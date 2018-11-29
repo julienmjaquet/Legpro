@@ -52,7 +52,7 @@ Figure 1 below presents the data structure and the links between each database. 
 
 **Figure 1: Overview of data structure**
 <p align="center">
-  <img src="images/data_structure.png" style="width: 200px;"/>
+  <img src="images/data_structure.png" style="width: 400px;"/>
 </p>
 
 
@@ -438,7 +438,7 @@ University of Geneva.
 | `bill_initiation_actor_type`{#initactortype2} | Not to be confused with the variable `bill_drafter`. If more than one actor are at the origin of the legislative process, code the one who initiated the earliest (provided no interruption of several years was observed).|
 | `bill_initiation_date`{#initdate2} | Code the date the actor initiated the process. If only a month was mentionned, code ``YYYY-MM-15``. If only a year was mentionned, code ``YYYY-06-30``. If a parliamentary request is at the origin of the legislative process, we used the deposit date.|
 | `preparl_phases_type` | If more than half of the group composition comes from outside the federal administration, code it as an expert committee. If not, then this is an internal working group of the federal administration, which should not be coded as expert committee. `Consultations`: Includes official consultation procedures + official hearing procedure. `Preconsultations`: Non official consultation, at the very beginning of the pre-parliamentary process |
-| `bill_treatment_category`{#treatmentcat2}|Information available on the [Curia Vista](http://www.parlament.ch/f/suche/Pages/curia-vista.aspx) webpage (=> "cat?gorie objet"). If more than one category is mentioned, code the "smaller" category (e.g. `I` insted of `II`, *i.e.* the more important category)|
+| `bill_treatment_category`{#treatmentcat2}|Information available on the [Curia Vista](http://www.parlament.ch/f/suche/Pages/curia-vista.aspx) webpage (=> "catégorie objet"). If more than one category is mentioned, code the "smaller" category (e.g. `I` insted of `II`, *i.e.* the more important category)|
 | `bill_coder_comments`{#comments2} |If necessary, make (short) comments (e.g. regarding any debatable decision you have made) |
 
 [↥ back to top](#swiss-legislative-processes-codebook-legpro)
@@ -450,17 +450,17 @@ University of Geneva.
 
 **Figure 2: decision tree for variable ``bill_international``**
 <p align="center">
-  <img src="images/int.png" style="width: 500px;"/>
+  <img src="images/int.png" style="width: 300px;"/>
 </p>
 
 **Figure 3: decision tree for variable ``bill_eu``**
 <p align="center">
-  <img src="images/eu.png" style="width: 500px;"/>
+  <img src="images/eu.png" style="width: 300px;"/>
 </p>
 
 **Figure 4: decision tree for variable ``bill_eu_implementation`` (drawing on Jenni 2014)**
 <p align="center">
-  <img src="images/eu_tree.png" style="width: 500px;"/>
+  <img src="images/eu_tree.png" style="width: 30px;"/>
 </p>
 
 
