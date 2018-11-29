@@ -64,8 +64,11 @@ Figure 1 below presents the data structure and the links between each database. 
 <center>
 **Figure 1: Overview of data structure**
 
-![**Figure 1**](D:/Dropbox/Legpro codebook/working directory/data_structure.png){width=1000px}
-</center>
+![**Figure 1**]
+<p align="center">
+  <img src="images/data_structure.png" style="width: 200px;"/>
+</p>
+
 
 # 2. Acknowledgements{#acknowledgements}
 
