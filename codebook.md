@@ -147,7 +147,11 @@ University of Geneva.
 | [`io_id`](#ioid) | Id of the international organization (if related to any) |
 | [`bill_coder_comments`](#comments)| Comments on the coding (in french) |
 
-[Back to the top](#summary)
+<br/>
+<div align="right">
+    <b><a href="#----">↥ back to top</a></b>
+</div>
+<br/>
 
 ## Bills dataset: detailed information{#detailsbills}
 
