@@ -156,9 +156,7 @@ University of Geneva.
 
 | Variable | Description 
 |-------------|---------------------------------------------------|
-| <h4 id="bill-id">
-`bill_id` 
-</h4> `bill_id` | Bill unique ID formed by `proposal_id` and `bill_proposal_number`	|
+| <h4 id="bill-id"> `bill_id` </h4> | Bill unique ID formed by `proposal_id` and `bill_proposal_number`	|
 | [`proposal_id`]{#idproposal}| Legislative proposal official ID in long form (can be the Federal Council's report ID or the Parliamentary Committee's report ID). <br/> Allow the match of this dataset with the dataset [Proposals](#overviewproposals) and the dataset [Parliamentary Votes](#overviewparlvotes). |
 | [`bill_title`]{#billtitle}| Title of the bill (in French) |
 | [`bill_title_de`]{#billtitlede}| Title of the bill (in German)|
