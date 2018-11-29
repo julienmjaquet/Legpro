@@ -1,5 +1,5 @@
 <p align="center">
-  <b><span style="font-size:larger;">Swiss Legislative Processes Codebook (LegPro)</span></b><br>
+  <b><span style="font-size:2em;">Swiss Legislative Processes Codebook (LegPro)</span></b><br>
 </p>
 
 
