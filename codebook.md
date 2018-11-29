@@ -123,8 +123,8 @@ University of Geneva.
 | [`bill_treatment_outcome`](#treatmentoutcome) | Outcome of the parliamentary process |
 | [`bill_international`](#actinternat)| Type of internationalization|
 | [`bill_eu`](#eu)|Type of Europeanization |
-| [`bill_eu_implementation`](#euimplement)| Implementation of EU law? (see [Jenni 2014](#bibliography))   |
-| [`bill_eu_adaptation`](#euadaptation)| Horizontal dimension of Europeanization (see [Jenni 2014](#bibliography))|
+| [`bill_eu_implementation`](#euimplement)| Implementation of EU law? (see [Jenni 2014](#8-bibliography))   |
+| [`bill_eu_adaptation`](#euadaptation)| Horizontal dimension of Europeanization (see [Jenni 2014](#8-bibliography))|
 | [`bill_initiation_date`](#initiationdate)| Initiation date |
 | [`bill_initiation_actor_type`](#initiationactor)| Actor who initiated the process (not to be confused with the drafter of the bill) |
 | [`bill_nc_vote_date`](#ncvotedate) | Date of the final vote in the National Council| 
@@ -417,20 +417,20 @@ University of Geneva.
 
 | Step | General instructions (proposals between the years 1995 and 2015)|
 |------|-----------------------------------------------------------------|
-|1| On the basis of the `proposal_short_id`, identify the legislative proposal on [Curia Vista](http://www.parlament.ch/f/suche/Pages/curia-vista.aspx) (=> "num?ro d'objet")|
+|1| On the basis of the `proposal_short_id`, identify the legislative proposal on [Curia Vista](http://www.parlament.ch/f/suche/Pages/curia-vista.aspx) (=> "numéro d'objet")|
 |2| Code the variables you can with the available information on this webpage. Follow as well the final votes dates' corresponding link to the [official bulletin](http://www.parlament.ch/ab/frameset/f/index.htm)|
 |3| Open the associated message. Read it carefully in order to code the remaining variables|
 
 | Step | General instructions (proposals between the years 1987 and 1994)|
 |------|-----------------------------------------------------------------|
-|1| On the basis of the `proposal_short_id`, check if you can identify the legislative proposal on [Curia Vista](http://www.parlament.ch/f/suche/Pages/curia-vista.aspx) (=> "num?ro d'objet"), but often that is not the case. In some cases, however, some pieces of information may be available. Check as well the [retrospective report](http://www.parlament.ch/F/DOKUMENTATION/BERICHTE/LEGISLATURRUECKBLICKE/Pages/default.aspx) covering whole legislatures|
+|1| On the basis of the `proposal_short_id`, check if you can identify the legislative proposal on [Curia Vista](http://www.parlament.ch/f/suche/Pages/curia-vista.aspx) (=> "numéro d'objet"), but often that is not the case. In some cases, however, some pieces of information may be available. Check as well the [retrospective report](http://www.parlament.ch/F/DOKUMENTATION/BERICHTE/LEGISLATURRUECKBLICKE/Pages/default.aspx) covering whole legislatures|
 |2| Look up the votes' information in the archives of the [official bulletin](http://www.amtsdruckschriften.bar.admin.ch/showHome.do)|
 |3| Find the Federal Council's message within the [Federal Gazette](https://www.admin.ch/gov/fr/accueil/droit-federal/feuille-federale.html). Read it carefully in order to code the remaining variables|
 
 
 | Variables to be coded (non-exhaustive list)| Specific instructions |
 |------|-----------------------------------------------------------------|
-| `bill_url`{#billurl2} | On the webpage of the [Federal Gazette](https://www.admin.ch/gov/fr/accueil/droit-federal/feuille-federale.html?lang=fr), using the message ID (`proposal_ff`), you will find the message. You should be able to locate the legislative act among the (separate) documents following the message |
+| `bill_url`| On the webpage of the [Federal Gazette](https://www.admin.ch/gov/fr/accueil/droit-federal/feuille-federale.html?lang=fr), using the message ID (`proposal_ff`), you will find the message. You should be able to locate the legislative act among the (separate) documents following the message |
 | `bill_ff_page_start`{#billffpagestart2}| Before 1999, the draft bill stands within the message file. After 1999, code the first page of the draft bill (pagination of the pdf file), that is the page where the preamble stands. Be aware that multiple bills may appear within a message.|
 | `bill_ff_page_end`{#billffpageend2}| Idem for the end page. |
 | `bill_international` |  See decision trees below. |
@@ -471,14 +471,14 @@ University of Geneva.
 
 The coding of topics is based on the coding scheme of the [Comparative Agendas Project](https://www.comparativeagendas.net/). While for a long time CAP scholars have mostly relied on human coding, a trend towards automated coding has emerged since the last two decades. Several automated-coding approaches have been tested within the CAP community and beyond (see e.g., Quinn et al. 2010), but the algorithmns and techniques are increasingly complex, so that they sometimes obscure what is actually measured. Therefore, following Sevenans et al. (2014) we opted for a simpler dictionary-based approach. An important advantage of such an approach is that it is clear about what it counts and one can make the case that policy topics are relatively easily identified using a finite set of keywords (Ibid., 2014:3).
 
-To build our dictionary, we first translated into french the english dictionary developed by Sevenans et al. (2014), which is available online ([lexicoder](http://lexicoder.com/download.html)). We  added some words relevant to the Swiss context. Then, we took advantage of a sample of 369 human-coded bills (as part of another SNF-funded project, see [section acknowledgements](#acknowledgements)) to explore the most commons words of each major topic. Finally, on the basis of the term frequency-inverse document frequency (tf-idf) computed by topic (and not by document), we removed words that did not allow to identify one unique topic.
+To build our dictionary, we first translated into french the english dictionary developed by Sevenans et al. (2014), which is available online ([lexicoder](http://lexicoder.com/download.html)). We  added some words relevant to the Swiss context. Then, we took advantage of a sample of 369 human-coded bills (as part of another SNF-funded project, see [section acknowledgements](#2-acknowledgements)) to explore the most commons words of each major topic. Finally, on the basis of the term frequency-inverse document frequency (tf-idf) computed by topic (and not by document), we removed words that did not allow to identify one unique topic.
 
 To validate our approach we computed *precision*, *recall* and *F1 score*, statistics often used in the context of automated text anlysis (Grimmer \& Stuart, 2013) on the basis of the human-coded sample. The *recall*
 stastistics indicates the number of bills correctly classified in a given topic, divided by the total number of bills that human coded in this topic. The *precision* statistics computes the number of bills correctly classified in a given topic, divided by the total number of bills that the dictionnary classified in this topic. Finally, the *F1-score* combines the two latter measures to produce an unique measure of classification quality, and is given by:
 
-<center>
-$F1_{score} = \frac{2 \times (P \times R)}{(P + R)}$
-</center>
+<p align="center">
+  <img src="images/f1scoreformula.png" style="width: 50px;"/>
+</p>
 
 All those measures represent percentages and thus take values between 0 and 1. *Figure 5* presents graphically the results for each of the 21 CAP topics.
 
