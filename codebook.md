@@ -10,12 +10,12 @@
 
 1. [Summary](#1-summary)
 2. [Acknowledgements](#2-acknowledgements)
-3. [Suggested Citation](#3-citation)
-4. [LegPro Codebook](#4-codebook)
-5. [Summary of Coders Instructions](#5-codersinstructions)
-6. [Automated Coding of CAP Topics](#6-cap)
-7. [Glossary and Abbreviations](#7-glossary)
-8. [Bibliography](#8-references)
+3. [Suggested Citation](#3-suggested-citation)
+4. [LegPro Codebook](#4-legpro-codebook)
+5. [Summary of Coders Instructions](#5-summary-of-coders-instructions)
+6. [Automated Coding of CAP Topics](#6-automated-coding-of-cap-topics)
+7. [Glossary and Abbreviations](#7-glossary-and-abbreviations)
+8. [Bibliography](#8-bibliography)
 
 
 
