@@ -97,12 +97,12 @@ University of Geneva.
 | [`bill_title`](#bill-title)| Title of the bill (in French) |
 | [`bill_title_de`](#bill-title-de)| Title of the bill (in German)|
 | [`bill_date`](#bill-date)| Bill date (i.e. when the legislative proposal was submitted to Parliament)  |
-| [`bill_legislature`](#billlegislature)| Legislature during which the bill was submitted to Parliament |
-| [`bill_parl_decision_date`](#parldecisiondate)| Date of Parliament's final decision (end of the parliamentary phase)|
-| [`proposal_total_bils`](#proposalnbills)| Number of bills associated with the legislative proposal |
-| [`bill_act_type_detail`](#acttypedetailcode) | Type of legislation (code) |
-| [`bill_type_description`](#acttypedetaildescr) | Type of legislation (description) |
-| [`bill_direct_democracy`](#dd) | Bill submitted to direct democracy? |
+| [`bill_legislature`](#bill-legislature)| Legislature during which the bill was submitted to Parliament |
+| [`bill_parl_decision_date`](#bill-parldecision-date)| Date of Parliament's final decision (end of the parliamentary phase)|
+| [`proposal_total_bils`](#proposal-nbills)| Number of bills associated with the legislative proposal |
+| [`bill_act_type_detail`](#bill-act-type-detail-code) | Type of legislation (code) |
+| [`bill_type_description`](#bill-act-type-detail-descr) | Type of legislation (description) |
+| [`bill_direct_democracy`](#bill-dd) | Bill submitted to direct democracy? |
 | [`bill_dd_type`](#ddtype) | If submitted to direct democracy, to which kind? |
 | [`proposal_related_department`](#relateddepartment) | Responsible federal department |
 | [`proposal_descriptors`](#descriptors) | Keywords related to the legislative proposal (in German)|
@@ -159,9 +159,9 @@ University of Geneva.
 | <h4 id="bill-title"> `bill_title` </h4> | Title of the bill (in French) |
 | <h4 id="bill-title"> `bill_title_de` </h4> | Title of the bill (in German)|
 | <h4 id="bill-date"> `bill_date` </h4> | Bill date, i.e. when the legislative proposal was submitted to Parliament. This is the date of the Federal Council's report or the date of its functional equivalent, the Parliamentary Committee's report. Format `YYYY-MM-DD`. |
-| [`bill_legislature`]{#billlegislature}| Legislature during which the bill was submitted to Parliament. However, the bill might have been adopted/refused during a subsequent legislature. <br/> `43` = 1987-1991 <br/> `44` = 1991-1995 <br/> `45` = 1995-1999 <br/> `46` = 1999-2003 <br/> `47` = 2003-2007 <br/> `48` = 2007-2011 <br/> `49` = 2011-2015 |
-| [`bill_parl_decision_date`]{#parldecisiondate}| Date of Parliament's final decision (end of the parliamentary phase). This date usually refers to the date of the final vote in the second Chamber. However, it might also indicate the date of refusal at an earlier stage. Format `YYYY-MM-DD` |
-| [`proposal_total_bils`]{#proposalnbills}| Number of bills associated with the legislative proposal. |
+| <h4 id="bill-legislature"> `bill_legislature` </h4> | Legislature during which the bill was submitted to Parliament. However, the bill might have been adopted/refused during a subsequent legislature. <br/> `43` = 1987-1991 <br/> `44` = 1991-1995 <br/> `45` = 1995-1999 <br/> `46` = 1999-2003 <br/> `47` = 2003-2007 <br/> `48` = 2007-2011 <br/> `49` = 2011-2015 |
+| <h4 id="bill-parldecision-date"> `bill_parl_decision_date` </h4> | Date of Parliament's final decision (end of the parliamentary phase). This date usually refers to the date of the final vote in the second Chamber. However, it might also indicate the date of refusal at an earlier stage. Format `YYYY-MM-DD` |
+| <h4 id="proposal-nbills"> `proposal_total_bils` </h4> | Number of bills associated with the legislative proposal. |
 | [`bill_act_type_detail`]{#acttypedetailcode} | Type of legislation (code): <br/> `11` = urgent federal law <br/> `12` = federal law <br/> `21` = ordinance  <br/> `31` = federal decree regarding a popular initiative <br/> `32` = federal decree amending the constitution <br/> `33` = federal decree regarding an international agreement (submitted to the mandatory referendum) <br/> `34` = federal decree regarding an international agreement (submitted to the optional referendum) <br/> `35` = other federal decree <br/> `36` = federal decree proposing a counter-proposal to a popular initiative <br/> `41` = simple federal decree approving an international agreement (not submitted to referendum regarding international treaties) <br/> `42` = simple federal decree regarding a funding decision <br/> `43` = other simple federal decree |
 | [`bill_type_description`]{#acttypedetaildescr} | Type of legislation (description): same categories as previous variable |
 | [`bill_direct_democracy`]{#dd} | Bill submitted to direct democracy? <br/> `yes` or `no` |
