@@ -487,6 +487,17 @@ As it is clear from *figure 5*, there is a great variation across topics. While 
 
 In sum, we still need to work on our French dictionary applied to the Swiss context. Therefore, while our data includes the CAP major topics for 1,660 bills over the period 1999-2015  computed through our dictionary-based approach, that information should be used with caution.
 
+**Figure 5:
+
+| Algorithm | Precision | Recall | F-score | 4-fold cross-validation (mean accuracy)|
+|-----------|-----------|--------|---------|----------------------------------------|
+| MAXENTROPY | 0.65 | 0.65 | 0.65 | 0.41 |
+| LOGITBOOST | 0.66 | 0.63 | 0.62 | 0.87 |
+| SVM | 0.68 | 0.61 | 0.62 | 0.73 |
+| SLDA | 0.66 | 0.61 | 0.62 | 0.71 |
+| FORESTS | 0.6 | 0.55 | 0.56 | 0.69 |
+
+
 [↥ back to top](#swiss-legislative-processes-codebook-legpro)
 
 # 7. Glossary and abbreviations
