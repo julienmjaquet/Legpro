@@ -1,4 +1,5 @@
-<center> Swiss Legislative Processes Codebook (LegPro) </center>
+# Swiss Legislative Processes Codebook (LegPro)
+
 author: <center> [Pascal Sciarini](https://unige.ch/sciences-societe/speri/membres/pascal-sciarini/), [Roy Gava](http://roygava.com/), [Julien M. Jaquet](https://github.com/julienmjaquet) </center>
 date: <center> version `r Sys.Date()` </center>
 
