@@ -166,7 +166,7 @@ University of Geneva.
 | <h4 id="bill-act-type-detail-descr"> `bill_type_description` </h4> | Type of legislation (description): same categories as previous variable |
 | <h4 id="bill-dd"> `bill_direct_democracy` </h4> | Bill submitted to direct democracy? <br/> `yes` or `no` |
 | <h4 id="bill-dd-type"> `bill_dd_type` </h4> | If submitted to direct democracy, to which kind? <br/> `initiative` = popular initiative <br/> `mandatory` = mandatory referendum  <br/> `optional` = optional referendum <br/> `none` = not submitted to direct democracy |
-| <h4 id="relateddepartment"> `proposal_related_department` </h4> | Responsible federal department (see [glossary](#glossary-and-abbreviations)): <br/> `ChF` (Federal Chancellery), `DDPS`, `DEFR`, `DETEC`, `DFAE`, `DFF`, `DFI`, `DFJP` or `Parl` (Parliament) |
+| <h4 id="relateddepartment"> `proposal_related_department` </h4> | Responsible federal department (see [glossary](#7-glossary-and-abbreviations)): <br/> `ChF` (Federal Chancellery), `DDPS`, `DEFR`, `DETEC`, `DFAE`, `DFF`, `DFI`, `DFJP` or `Parl` (Parliament) |
 | <h4 id="descriptors"> proposal_descriptors` </h4> | Keywords related to the legislative proposal (in German) given by the [Parliamentary Services](http://www.parlament.ch/e/service-presse/parlamentsdienste/Pages/default.aspx) |
 | <h4 id="billrs"> `rs_id` </h4> | Reference to the legislative act in the [Systematic Compilation of Federal Legislation](https://www.admin.ch/gov/fr/accueil/droit-federal/recueil-systematique.html). <br/> Allow the match of this dataset with the dataset [Legislation](#legislation) and [Abrogated Legislation](#abrogated-legislation) |
 | <h4 id="bill-ro"> `bill_ro` </h4> | Reference to the legislative act in the [Official Compilation of Federal Legislation](https://www.admin.ch/gov/fr/accueil/droit-federal/recueil-officiel.html)|
@@ -232,7 +232,7 @@ University of Geneva.
 |-------------|---------------------------------------------------|
 | `bill_id` | Bill unique ID formed by `proposal_id` and `bill_proposal_number` |
 | `preparl_phases_id` | Preparliamentary phase ID |
-| `preparl_phases_type` | Type of preparliamentary sub-phase: <br/> `01` = preconsultation <br/> `02` = permanent expert committee <br/> `03` = ad hoc expert committee <br/> `04` = consultation procedure <br/> `05` = other: canton consultation, hearing, conference. <br/> See section [Coders Instructions](#codersinstructions) |
+| `preparl_phases_type` | Type of preparliamentary sub-phase: <br/> `01` = preconsultation <br/> `02` = permanent expert committee <br/> `03` = ad hoc expert committee <br/> `04` = consultation procedure <br/> `05` = other: canton consultation, hearing, conference. <br/> See section [Coders Instructions](#5-coders-instructions) |
 | `preparl_phases_order` | Rank in the pre-parliamentary process |
 | `preparl_phases_start_date` | Date of the beginning of this preparliamentary sub-phase. Format `YYYY-MM-DD`. |
 | `preparl_phases_end_date` | Date of the end of this preparliamentary sub-phase. Format `YYYY-MM-DD`. |
@@ -247,7 +247,7 @@ University of Geneva.
 |-------------|---------------------------------------------------|
 | `consultation_id` | Consultation ID. Format `YYYY-N`. (Y = year, N = number). See the [webpage of the Federal Administration Compilation of Consultation Procedures](https://www.admin.ch/gov/fr/accueil/droit-federal/procedures-consultation.html) |
 | `consultation_title` | Title of the legislative project (does not necessarily match the name of the bill or the proposal associated with this consultation) |
-| `consultation_department` | Federal department in charge of the consultation procedure: </br> `ChF`, `DDPS`, `DEFR`, `DETEC`, `DFAE`, `DFF`, `DFI` or `DFJP`. </br> See the [glossary](#glossary) for the meaning of the departments' acronyms. |
+| `consultation_department` | Federal department in charge of the consultation procedure: </br> `ChF`, `DDPS`, `DEFR`, `DETEC`, `DFAE`, `DFF`, `DFI` or `DFJP`. </br> See the [glossary](#7-glossary-and-abbreviations) for the meaning of the departments' acronyms. |
 | `consultation_date_start` | Opening date of the consultation procedure. Format `YYYY-MM-DD` |
 | `consultation_date_end` | Closing date of the consultation procedure. Format `YYYY-MM-DD` |
 
@@ -286,13 +286,13 @@ University of Geneva.
 | `last_name` | MP's lastname |
 | `gender` | Gender: <br/> `f` = female <br/> `m` = male |
 | `citizenship` | Commune of citizenship  |
-| `canton_abbreviation` | Two-letters canton abbreviation (see [glossary](#glossary)) |
+| `canton_abbreviation` | Two-letters canton abbreviation (see [glossary](#7-glossary-and-abbreviations)) |
 | `council_id` | `1` = National Council <br/> `2` = Council of States <br/> `3` = Federal Council |
 | `council_abbreviation` | `CN` = National Council <br/> `CE` = Council of States <br/> `BR` = Federal Council |
 | `council_type` | `N` = National Council <br/> `S` = Council of States <br/> `B` = Federal Council |
-| `faction_id` | Parliamentary group ID (see [glossary](#glossary)) |
-| `faction_abbreviation` | Parliamentary group abbreviation (see [glossary](#glossary))  |
-| `party_abbreviation` | Political Party MP's affiliation (see [glossary](#glossary)) |
+| `faction_id` | Parliamentary group ID (see [glossary](#7-glossary-and-abbreviations)) |
+| `faction_abbreviation` | Parliamentary group abbreviation (see [glossary](#7-glossary-and-abbreviations))  |
+| `party_abbreviation` | Political Party MP's affiliation (see [glossary](#7-glossary-and-abbreviations)) |
 | `birth_date` | Birth date. Format `YYYY-MM-DD` |
 | `death_date` | Death date (if any). Format `YYYY-MM-DD` |
 | `membership_entry_date` | Parliament's mandate start date |
@@ -315,12 +315,12 @@ University of Geneva.
 | `affair_type_abbreviation` | Type of parliamentary interventions (= procedural request, see the [lexicon](https://www.parlament.ch/en/%C3%BCber-das-parlament/parlamentsw%C3%B6rterbuch/parlamentsw%C3%B6rterbuch-detail?WordId=238) of the Swiss Parliament)    |
 | `affair_type_id` | Type of parliamentary interventions. |
 | `affair_type_name` | Type of parliamentary interventions: <br/> `Heure des questions. Question` or `Question` <br/> `Question ordinaire` (ordinary question) <br/> `Question urgente` (urgent question) <br/> `Question ordinaire urgente` (urgent ordinary question) <br/> `Initiative cantonale` (Canton's initiative) <br/> `Initiative parlementaire` (parliamentary initiative: MP or committee) <br/> `Interpellation` <br/> `Interpellation urgente` (urgent interpellation) <br/> `Motion` <br/> `Postulat` <br/> `P?tition` <br/> `Recommandation` (recommendation)   |
-| `related_department_abbreviation` |Responsible Federal Department. See the [glossary](#glossary) |
-| `related_department_id` | Responsible Federal Department. See the [glossary](#glossary)  |
-| `related_department_name` | Responsible Federal Department. See the [glossary](#glossary)  |
+| `related_department_abbreviation` |Responsible Federal Department. See the [glossary](#7-glossary-and-abbreviations) |
+| `related_department_id` | Responsible Federal Department. See the [glossary](#7-glossary-and-abbreviations)  |
+| `related_department_name` | Responsible Federal Department. See the [glossary](#7-glossary-and-abbreviations)  |
 | `author_type` | `canton` <br/> `committee` (legislative committee) <br/> `councillor` (MP) <br/> `faction` (parliamentary group) <br/> `external` (other) |
 | `author_faction_abbreviation` | See [glossary](#glossary) |
-| `author_faction_id` | `99` = non affiliated. For the rest, see the [glossary](#glossary) |
+| `author_faction_id` | `99` = non affiliated. For the rest, see the [glossary](#7-glossary-and-abbreviations) |
 | `author_faction_name` | Parliamentary group's name (in french) |
 | `author_name` | MP's fullname or group name |
 
