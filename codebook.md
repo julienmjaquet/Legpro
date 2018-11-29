@@ -482,11 +482,6 @@ stastistics indicates the number of bills correctly classified in a given topic,
 
 All those measures represent percentages and thus take values between 0 and 1. *Figure 5* presents graphically the results for each of the 21 CAP topics.
 
-<center>
-**Figure 5: F1 score, recall and precision for bills**
-
-![**Figure 1: F1 score for bills**](/validation3.png){width=1000px} 
-</center>
 
 As it is clear from *figure 5*, there is a great variation across topics. While such a variation is partly explained by the number of available documents for each topic, another problem relates to topic-specific words. In other words, it is easier to find words that uniquely identify a topic for some issues, than for other issues. In general, our dictionary-based approach produced average results, with a mean recall of 0.49, mean precision of 0.61 and mean f1-score of 0.5. However, it is not clear if a perfect score is actually desirable considering that there might be some degree of error in the human coding as well (Sevenans et al. 2014).
 
