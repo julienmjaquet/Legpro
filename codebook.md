@@ -477,7 +477,7 @@ To validate our approach we computed *precision*, *recall* and *F1 score*, stati
 stastistics indicates the number of bills correctly classified in a given topic, divided by the total number of bills that human coded in this topic. The *precision* statistics computes the number of bills correctly classified in a given topic, divided by the total number of bills that the dictionnary classified in this topic. Finally, the *F1-score* combines the two latter measures to produce an unique measure of classification quality, and is given by:
 
 <p align="center">
-  <img src="images/f1scoreformula.png" style="width: 50px;"/>
+  <img src="images/f1scoreformula.gif" style="width: 50px;"/>
 </p>
 
 All those measures represent percentages and thus take values between 0 and 1. *Figure 5* presents graphically the results for each of the 21 CAP topics.
