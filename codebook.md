@@ -487,7 +487,7 @@ As it is clear from *figure 5*, there is a great variation across topics. While 
 
 In sum, we still need to work on our French dictionary applied to the Swiss context. Therefore, while our data includes the CAP major topics for 1,660 bills over the period 1999-2015  computed through our dictionary-based approach, that information should be used with caution.
 
-**Figure 5:
+**Figure 5:**
 
 | Algorithm | Precision | Recall | F-score | 4-fold cross-validation (mean accuracy)|
 |-----------|-----------|--------|---------|----------------------------------------|
