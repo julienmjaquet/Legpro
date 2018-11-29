@@ -94,7 +94,7 @@ University of Geneva.
 
 | Variable | Short Description  | 
 |-------------|----------------------------------------------------|
-| [bill_id](#bill-id) | Bill unique ID |
+| [`bill_id`](#bill-id) | Bill unique ID |
 | [`proposal_id`](#idproposal)|Legislative proposal official ID in long form |
 | [`bill_title`](#billtitle)| Title of the bill (in French) |
 | [`bill_title_de`](#billtitlede)| Title of the bill (in German)|
