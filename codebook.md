@@ -499,6 +499,7 @@ In sum, we still need to work on our French dictionary applied to the Swiss cont
 
 **Figure 6**
 |        | n-Ensemble coverage | n-Ensemble recall |
+|--------|---------------------|-------------------|
 | 3 algorithms agree | 0.88 | 0.80 |
 | 2 algorithms agree | 0.99 | 0.75 |
 
