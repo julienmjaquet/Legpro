@@ -73,17 +73,18 @@ University of Geneva.
 
 # 4. LegPro Codebook
 
-- Bills dataset: [overview](#bills-dataset-overview) or [detailed information](#detailsbills)
-- [Proposals dataset](#detailsproposals)  
-- [Preparliamentary phase dataset](#detailspreparl)  
-- [Consultations dataset](#detailsconsultations)  
-- [Parliamentary votes](#detailsparlvotes)
-- [MPs dataset](#detailsmps)
-- [Parliamentary interventions dataset](#detailsparlinterv)
-- [Popular votes dataset](#detailspopvotes)  
-- [Legislation dataset](#detailslegislation)
-- [Abrogated legislation dataset](#detailsabroglegislation)
-- [International organizations dataset](#detailsios)  
+- Bills dataset: [overview](#bills-dataset-overview) or [detailed information](#bills-dataset-detailed-information)
+- [Proposals dataset](#proposals-dataset)  
+- [Preparliamentary phase dataset](#preparliamentary-phase-dataset)  
+- [Consultations dataset](#consultations-dataset)  
+- [Parliamentary votes](#parliamentary-votes)
+- [MPs dataset](#mps-dataset)
+- [Parliamentary interventions dataset](#parliamentary-interventions-dataset)
+- [Popular votes dataset](#popular-votes-dataset)  
+- [Legislation dataset](#legislation-dataset)
+- [Abrogated legislation dataset](#abrogated-legislation-dataset)
+- [International organizations dataset](#international-organizations-dataset)
+- [Federal Councillors dataset](#federal-councillors-dataset)
 
 
 ## Bills dataset: overview
@@ -149,7 +150,7 @@ University of Geneva.
 
 
 
-## Bills dataset: detailed information{#detailsbills}
+## Bills dataset: detailed information
 
 | Variable | Description 
 |-------------|---------------------------------------------------|
@@ -209,7 +210,7 @@ University of Geneva.
 [↥ back to top](#swiss-legislative-processes-codebook-legpro)
 
 
-## Proposals dataset{#detailsproposals}  
+## Proposals dataset
 
 | Variable | Description 
 |-------------|---------------------------------------------------|
@@ -225,7 +226,7 @@ University of Geneva.
 [↥ back to top](#swiss-legislative-processes-codebook-legpro)
 
 
-## Preparliamentary phase dataset{#detailspreparl}
+## Preparliamentary phase dataset
 
 | Variable | Description 
 |-------------|---------------------------------------------------|
@@ -240,7 +241,7 @@ University of Geneva.
 [↥ back to top](#swiss-legislative-processes-codebook-legpro)
 
 
-## Consultations dataset{#detailsconsultations}
+## Consultations dataset
 
 | Variable | Description 
 |-------------|---------------------------------------------------|
@@ -253,7 +254,7 @@ University of Geneva.
 [↥ back to top](#swiss-legislative-processes-codebook-legpro)
 
 
-## Parliamentary votes{#detailsparlvotes}
+## Parliamentary votes
 
 | Variable | Description 
 |-------------|---------------------------------------------------|
@@ -275,7 +276,7 @@ University of Geneva.
 [↥ back to top](#swiss-legislative-processes-codebook-legpro)
 
 
-## MPs dataset{#detailsmps}
+## MPs dataset
 
 | Variable | Description 
 |-------------|---------------------------------------------------|
@@ -300,7 +301,7 @@ University of Geneva.
 [↥ back to top](#swiss-legislative-processes-codebook-legpro)
 
 
-## Parliamentary interventions dataset{#detailsparlinterv}
+## Parliamentary interventions dataset
 
 | Variable | Description 
 |-------------|---------------------------------------------------|
@@ -326,7 +327,7 @@ University of Geneva.
 [↥ back to top](#swiss-legislative-processes-codebook-legpro)
 
 
-## Popular votes dataset{#detailspopvotes}
+## Popular votes dataset
 
 | Variable | Description 
 |-------------|---------------------------------------------------|
@@ -341,7 +342,7 @@ University of Geneva.
 [↥ back to top](#swiss-legislative-processes-codebook-legpro)
 
 
-## Legislation dataset{#detailslegislation}
+## Legislation dataset
 
 | Variable | Description 
 |-------------|---------------------------------------------------|
@@ -367,7 +368,7 @@ University of Geneva.
 [↥ back to top](#swiss-legislative-processes-codebook-legpro)
 
 
-## Abrogated legislation dataset{#detailsabroglegislation}
+## Abrogated legislation dataset
 
 | Variable | Description 
 |-------------|---------------------------------------------------|
@@ -385,7 +386,7 @@ University of Geneva.
 [↥ back to top](#swiss-legislative-processes-codebook-legpro)
 
 
-## International organizations dataset{#detailsios}
+## International organizations dataset
 
 | Variable | Description 
 |-------------|---------------------------------------------------|
@@ -399,6 +400,15 @@ University of Geneva.
 | `io_type_II` | Type of international organization (classification II) |
 | `io_type_III` | Type of international organization (classification III) |
 | `io_yearbook_url` | Web link to the [yearbook of international organizations](http://ybio.brillonline.com/ybio/)  |
+
+[↥ back to top](#swiss-legislative-processes-codebook-legpro)
+
+## Federal Councillors dataset
+
+| Variable | Description 
+|-------------|---------------------------------------------------|
+| `From`   |                                             |
+| `To`     |                                           |
 
 [↥ back to top](#swiss-legislative-processes-codebook-legpro)
 
@@ -434,7 +444,7 @@ University of Geneva.
 [↥ back to top](#swiss-legislative-processes-codebook-legpro)
 
 
-### Coders' supplementary information{#codesup}
+### Coders' supplementary information
 
 
 <center>
