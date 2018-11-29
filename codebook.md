@@ -147,11 +147,10 @@ University of Geneva.
 | [`io_id`](#ioid) | Id of the international organization (if related to any) |
 | [`bill_coder_comments`](#comments)| Comments on the coding (in french) |
 
-<br/>
-<div align="right">
-    <b>[↥ back to top](#swiss-legislative-processes-codebook-legpro)</b>
-</div>
-<br/>
+
+[↥ back to top](#swiss-legislative-processes-codebook-legpro)
+
+
 
 ## Bills dataset: detailed information{#detailsbills}
 
