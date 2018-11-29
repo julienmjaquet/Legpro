@@ -506,6 +506,32 @@ In sum, we still need to work on our French dictionary applied to the Swiss cont
 | 2 algorithms agree | 0.99 | 0.75 |
 
 
+**Figure 7**
+
+| CAP majortopic | Mean F-score (3 best algorithms) |
+|--------|---------------------|
+| 1 | 0.87 |
+| 2 | 0.41 |
+| 3 | 0.35 |
+| 4 | 0.68 |
+| 5 | 0.75 |
+| 6 | 0.83 |
+| 7 | 0.56 |
+| 8 | 0.77 |
+| 9 | 0.84 |
+| 10 | 0.84 |
+| 12 | 0.77 |
+| 13 | 0.73 |
+| 14 | 0.83 |
+| 15 | 0.63 |
+| 16 | 0.80 |
+| 17 | 0.49 |
+| 18 | 0.84 |
+| 19 | 0.39 |
+| 20 | 0.77 |
+| 21 | NA  |
+
+
 [↥ back to top](#swiss-legislative-processes-codebook-legpro)
 
 # 7. Glossary and abbreviations
