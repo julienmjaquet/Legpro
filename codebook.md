@@ -232,7 +232,7 @@ University of Geneva.
 |-------------|---------------------------------------------------|
 | `bill_id` | Bill unique ID formed by `proposal_id` and `bill_proposal_number` |
 | `preparl_phases_id` | Preparliamentary phase ID |
-| `preparl_phases_type` | Type of preparliamentary sub-phase: <br/> `01` = preconsultation <br/> `02` = permanent expert committee <br/> `03` = ad hoc expert committee <br/> `04` = consultation procedure <br/> `05` = other: canton consultation, hearing, conference. <br/> See section [Coders Instructions](#5-coders-instructions) |
+| `preparl_phases_type` | Type of preparliamentary sub-phase: <br/> `01` = preconsultation <br/> `02` = permanent expert committee <br/> `03` = ad hoc expert committee <br/> `04` = consultation procedure <br/> `05` = other: canton consultation, hearing, conference. <br/> See section [Coders Instructions](#5-summary-of-coders-instructions) |
 | `preparl_phases_order` | Rank in the pre-parliamentary process |
 | `preparl_phases_start_date` | Date of the beginning of this preparliamentary sub-phase. Format `YYYY-MM-DD`. |
 | `preparl_phases_end_date` | Date of the end of this preparliamentary sub-phase. Format `YYYY-MM-DD`. |
