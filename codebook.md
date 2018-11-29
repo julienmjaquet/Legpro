@@ -1,10 +1,19 @@
 # Swiss Legislative Processes Codebook (LegPro)
 
-<center>
+
+<p align="center">
+  <b>Some Links:</b><br>
+  <a href="https://unige.ch/sciences-societe/speri/membres/pascal-sciarini/">Pascal Sciarini</a> |
+  <a href="#">Roy Gava</a> |
+  <a href="#">Julien Jaquet</a>
+  <br><br>
+  </p>
+  
+  
 [Pascal Sciarini](https://unige.ch/sciences-societe/speri/membres/pascal-sciarini/)
 [Roy Gava](http://roygava.com/)
 [Julien M. Jaquet](https://www.unige.ch/sciences-societe/speri/membres/template-pp-2-ass5/)
-</center>
+
 
 [Contact the authors](mailto:pascal.sciarini@unige.ch)
 
