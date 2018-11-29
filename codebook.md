@@ -27,11 +27,11 @@ The following translation table clarifies some basic terminology.
 
 |English|French|German|
 |------------|------------------------------|----------------------------|
-|Bill|Projet d'acte l?gislatif|Gesetzentwurf|
-|Draft bill|Avant projet d'acte l?gislatif|Vorentwurf eines Gesetzes|
-|Legislative act|Acte l?gislatif|gesetzgeberischer Akt|
-|Proposal|Objet du Conseil f?d?ral / Objet du Parlement|Bundesratsgesch?ft / Parlamentsgesch?ft |
-|Report| Message du Conseil f?d?ral / Rapport des commissions parlementaires|Botschaft des Bundesrates / Bericht der parlamentarischen Kommissionen |
+|Bill|Projet d'acte législatif|Gesetzentwurf|
+|Draft bill|Avant projet d'acte législatif|Vorentwurf eines Gesetzes|
+|Legislative act|Acte législatif|gesetzgeberischer Akt|
+|Proposal|Objet du Conseil fédéral / Objet du Parlement|Bundesratsgeschäft / Parlamentsgeschäft |
+|Report| Message du Conseil fédéral / Rapport des commissions parlementaires|Botschaft des Bundesrates / Bericht der parlamentarischen Kommissionen |
 
 
 - Character encoding: `UTF-8`
@@ -491,48 +491,48 @@ As it is clear from *figure 5*, there is a great variation across topics. While 
 
 In sum, we still need to work on our French dictionary applied to the Swiss context. Therefore, while our data includes the CAP major topics for 1,660 bills over the period 1999-2015  computed through our dictionary-based approach, that information should be used with caution.
 
-[Back to the top](#summary)
+[↥ back to top](#swiss-legislative-processes-codebook-legpro)
 
 # 7. Glossary and abbreviations
 
 | Abbreviation  | English                               | French                                      | German                                                     |
 |---------------|---------------------------------------|---------------------------------------------|------------------------------------------------------------|
-|         | **Federal Department**   |  **D?partement Federal**   | **Eidgen?ssisches Departement**   |
-| FDFA/DFAE/EDA | Federal Department of Foreign Affairs | D?partement f?d?ral des affaires ?trang?res | Eidgen?ssisches Departement f?r ausw?rtige Angelegenheiten |
-| FDHA/DFI/EDI  | Federal Department of Home Affairs    | D?partement f?d?ral de l'int?rieur          | Eidgen?ssisches Departement des Innern   |
-|FDJP/DFJP/EJPD|Federal Department of Justice and Police|D?partement f?d?ral de justice et police|Eidgen?ssisches Justiz- and Polizeidepartement|
-|DDPS/DDPS/VBS|Federal Department of Defence, Civil Protection and Sport|D?partement f?d?ral de la d?fense, de la protection de la population et des sports|Eidgen?ssisches Departement f?r Verteidigung, Bev?lkerungsschutz und Sport|
-|FDF/DFF/EFD|Federal Department of Finance|D?partement f?d?ral des finances|Eidgen?ssisches Finanzdepartement|
-|EAER/DEFR/WBF|Federal Department of Economic Affairs, Education and Research|D?partement f?d?ral de l'?conomie, de la formation et de la recherche|Eidgen?ssisches Departement f?r Wirtschaft, Bildung und Forschung|
-|DETEC/DETEC/UVEK|Federal Department of the Environment, Transport, Energy and Communications|D?partement f?d?ral de l'environnement, des transports, de l'?nergie et de la communication|Eidgen?ssisches Departement f?r Umwelt, Verkehr, Energie und Kommunikation|
-|         | **Federal Assembly**   |  **Assembl?e f?d?rale**   | **Bundesversammlung**   |
+|         | **Federal Department**   |  **Département Fédéral**   | **Eidgenössisches Departement**   |
+| FDFA/DFAE/EDA | Federal Department of Foreign Affairs | Département fédéral des affaires ?trang?res | Eidgenössisches Departement für auswärtige Angelegenheiten |
+| FDHA/DFI/EDI  | Federal Department of Home Affairs    | Département fédéral de l'intérieur          | Eidgenössisches Departement des Innern   |
+|FDJP/DFJP/EJPD|Federal Department of Justice and Police|Département fédéral de justice et police|Eidgenössisches Justiz- and Polizeidepartement|
+|DDPS/DDPS/VBS|Federal Department of Defence, Civil Protection and Sport|Département fédéral de la défense, de la protection de la population et des sports|Eidgenössisches Departement für Verteidigung, Bevölkerungsschutz und Sport|
+|FDF/DFF/EFD|Federal Department of Finance|Département fédéral des finances|Eidgenössisches Finanzdepartement|
+|EAER/DEFR/WBF|Federal Department of Economic Affairs, Education and Research|Département fédéral de l'économie, de la formation et de la recherche|Eidgenössisches Departement für Wirtschaft, Bildung und Forschung|
+|DETEC/DETEC/UVEK|Federal Department of the Environment, Transport, Energy and Communications|Département fédéral de l'environnement, des transports, de l'énergie et de la communication|Eidgenössisches Departement für Umwelt, Verkehr, Energie und Kommunikation|
+|         | **Federal Assembly**   |  **Assemblée fédérale**   | **Bundesversammlung**   |
 |NC/CN/NR|National Council|Conseil national|National Rat|
-|CS/CE/SR|Council of States|Conseil des Etats|St?nderat|
+|CS/CE/SR|Council of States|Conseil des Etats|Ständerat|
 |         | **Parliament's Committee** | **Commission du parlement** | **Parlamentskommission** |
 |FC/CdF/FK|Finance Committee|Commission des finances|Finanzkommission|
-|CC/CdG/GPK|Control Committee|Commission de gestion|Gesch?ftspr?fungskommission|
-|FAC/CPE/APK|Foreign Affairs Committee|Commission de politique ext?rieure|Aussenpolitische Kommission|
-|CSEC/CSEC/WBK|Committee for Science, Education and Culture|Commission de la science, de l'?ducation et de la culture|Kommission f?r Wissenschaft, Bildung und Kultur|
-|CSSH/CSSS/SGK|Committee for Social Security and Health|Commission de la s?curit? sociale et de la sant? publique|Kommission f?r soziale Sicherheit und Gesundheit|
-|CESPE/CEATE/UREK|Committee for the Environment, Spatial Planning and Energy|Commission de l'environnement, de l'am?nagement du territoire et de l'?nergie|Kommission f?r Umwelt, Raumplanung und Energie|
-|DefC/CPS/SiK|Defence Committee|Commission de la politique de s?curit?|Sicherheitspolitische Kommission|
-|CTT/CTT/KVF|Committee for Transportation and Telecommunications|Commission des transports et des t?l?communications|Kommission f?r Verkehr und Fernmeldewesen|
-|CEAT/CER/WAK|Committee for Economic Affairs and Taxation|Commission de l'?conomie et des redevances|Kommission f?r Wirtschaft und Abgaben|
+|CC/CdG/GPK|Control Committee|Commission de gestion|Geschäftsprüfungskommission|
+|FAC/CPE/APK|Foreign Affairs Committee|Commission de politique extérieure|Aussenpolitische Kommission|
+|CSEC/CSEC/WBK|Committee for Science, Education and Culture|Commission de la science, de l'éducation et de la culture|Kommission für Wissenschaft, Bildung und Kultur|
+|CSSH/CSSS/SGK|Committee for Social Security and Health|Commission de la sécurité sociale et de la santé publique|Kommission für soziale Sicherheit und Gesundheit|
+|CESPE/CEATE/UREK|Committee for the Environment, Spatial Planning and Energy|Commission de l'environnement, de l'aménagement du territoire et de l'énergie|Kommission f?r Umwelt, Raumplanung und Energie|
+|DefC/CPS/SiK|Defence Committee|Commission de la politique de sécurité|Sicherheitspolitische Kommission|
+|CTT/CTT/KVF|Committee for Transportation and Telecommunications|Commission des transports et des t?l?communications|Kommission für Verkehr und Fernmeldewesen|
+|CEAT/CER/WAK|Committee for Economic Affairs and Taxation|Commission de l'économie et des redevances|Kommission für Wirtschaft und Abgaben|
 |PIC/CIP/SPK|Political Institutions Committee|Commission des institutions politiques|Staatspolitische Kommission|
-|CLA/CAJ/RK|Committee for Legal Affairs|Commission des affaires juridiques|Kommission f?r Rechtsfragen|
-|CPB/CCP/K?B|Committee for Public Buildings|Commission des constructions publiques|Kommission f?r ?ffentliche Bauten|
+|CLA/CAJ/RK|Committee for Legal Affairs|Commission des affaires juridiques|Kommission für Rechtsfragen|
+|CPB/CCP/KöB|Committee for Public Buildings|Commission des constructions publiques|Kommission für öffentliche Bauten|
 |        | **Political party** | **Parti politique** | **Politische Partei** |
-|SVP/UDC | Swiss People's Party | Union d?mocratique du centre | Schweizerische Volkspartei |
+|SVP/UDC | Swiss People's Party | Union démocratique du centre | Schweizerische Volkspartei |
 |SP/PS| Social Democrats | Parti socialiste | Sozialdemokratische Partei |
-|FDP/PLR | Liberal democrats | Parti lib?ral-radical | Freisinnig-Demokratische Partei. Die Liberalen |
-|CVP/PDC | Christian democrats | Parti d?mocrate-chr?tien | Christlichdemokratische Volkspartei |
-|GPS/Verts | Green Party | Les Verts | Gr?ne Partei der Schweiz |
-|BDP/PBD | Conservative Democratic Party | Parti bourgeois d?mocratique | B?rgerlich-Demokratische Partei |
-|GLP/Verts lib?raux | Green Liberals | Verts lib?raux | Gr?neliberale Partei |
-|EVP/PEV |Evangelical People's Party| Parti ?vang?lique | Evangelische Volkspartei |
-|CSP/PCS | Christian Social Party | Parti chr?tien-social | Christlich-soziale Partei |
+|FDP/PLR | Liberal democrats | Parti libéral-radical | Freisinnig-Demokratische Partei. Die Liberalen |
+|CVP/PDC | Christian democrats | Parti démocrate-chrétien | Christlichdemokratische Volkspartei |
+|GPS/Verts | Green Party | Les Verts | Grüne Partei der Schweiz |
+|BDP/PBD | Conservative Democratic Party | Parti bourgeois démocratique | B?rgerlich-Demokratische Partei |
+|GLP/Verts lib?raux | Green Liberals | Verts libéraux | Grüneliberale Partei |
+|EVP/PEV |Evangelical People's Party| Parti évangélique | Evangelische Volkspartei |
+|CSP/PCS | Christian Social Party | Parti chrétien-social | Christlich-soziale Partei |
 |Lega | Ticino League | Lega (dei Ticinesi) | Lega dei Ticinesi |
-|MCG | Geneva Citizens' Movement | Mouvement citoyens genevois | Genfer B?rgerbewegung |
+|MCG | Geneva Citizens' Movement | Mouvement citoyens genevois | Genfer Bürgerbewegung |
 |PdAS/PST-POP | Swiss Party of Labour | Parti suisse du travail - Parti ouvrier et populaire | Partei der Arbeit der Schweiz |
 |     | **Parliamentary group** | **Groupe parlementaire** | **Fraktion** | 
 | A   | Swiss Drivers Party                        | Groupe du parti des automobilistes  | Fraktion der Autopartei |
@@ -540,31 +540,31 @@ In sum, we still need to work on our French dictionary applied to the Swiss cont
 | C   | Christian Democrats     | Groupe PDC              | CVP-Fraktion  |
 | CE  | Christian Democrats     | Groupe PDC/PEV/PVL        | CVP/EVP/GLP Fraktion  |
 | CEG | Christian Democrats     | Groupe PDC/PEV/PVL         | CVP/EVP/GLP Fraktion  |
-| D   | Swiss Democrats         | Groupe des D?mocrates suisses   | Fraktion der Schweizer Demoktraten  |
-| E   | Evangelical and Independent | Groupe ?vang?lique et ind?pendant   | Evangelische und unabh?ngige Fraktion  |
-| F   | Swiss Freedom Party    | Groupe du Parti suisse de la libert?  | Fraktion der Freiheitspartei der Schweiz|
-| G   | Green Group             | Groupe des Verts               | Gr?ne Fraktion       |
-| GL  | Green liberal Group     | Groupe vert'lib?ral                       | Gr?nliberale Fraktion    |
-| L   | Liberal Group          | Groupe lib?ral                         |  Liberale Fraktion         |
+| D   | Swiss Democrats         | Groupe des Démocrates suisses   | Fraktion der Schweizer Demoktraten  |
+| E   | Evangelical and Independent | Groupe évangélique et indépendant   | Evangelische und unabhängige Fraktion  |
+| F   | Swiss Freedom Party    | Groupe du Parti suisse de la liberté  | Fraktion der Freiheitspartei der Schweiz|
+| G   | Green Group             | Groupe des Verts               | Grüne Fraktion       |
+| GL  | Green liberal Group     | Groupe vert'lib?ral                       | Grünliberale Fraktion    |
+| L   | Liberal Group          | Groupe libéral                         |  Liberale Fraktion         |
 | R   | Free Democratic Group   | Groupe radical                         |  Freisinnige Fraktion  |
-| RL  | FDP. The Liberal Group  |   Groupe lib?ral-radical                       |  FDP-Liberale Fraktion            |
+| RL  | FDP. The Liberal Group  |   Groupe libéral-radical                       |  FDP-Liberale Fraktion            |
 | S   | Social Democrats        |   Groupe socialiste                       |  Sozialdemoktratische Fraktion  |
 | U   | Evangelical Popular Group                        |  Groupe Adl/PEP                        | LdU/EVP-Fraktion       |
 | V   | Swiss People's party          |  Groupe de l'Union d?mocratique du centre      | Fraktion der Schweizerischen Volkpartei   |
 |     | **Canton** | **Canton** | **Kanton** |
 | AG | Aargau | Argovie | Aargau |
-| AI | Appenzell Innerrhoden | Appenzell Rhodes-Int?rieures | Appenzell Innerrhoden |
-| AR | Appenzell Ausserrhoden | Appenzell Rhodes-Ext?rieures | Appenzell Ausserrhoden |
+| AI | Appenzell Innerrhoden | Appenzell Rhodes-Intérieures | Appenzell Innerrhoden |
+| AR | Appenzell Ausserrhoden | Appenzell Rhodes-Extérieures | Appenzell Ausserrhoden |
 | BE | Bern | Berne | Bern |
 | BL | Basel-Landschaft | B?le-Campagne | Basel-Landschaft |
-| BS | Basel-Stadt | B?le-Ville | Basel-Stadt |
+| BS | Basel-Stadt | Bâle-Ville | Basel-Stadt |
 | FR | Fribourg | Fribourg | Freiburg |
-| GE | Geneva | Gen?ve | Genf |
+| GE | Geneva | Genève | Genf |
 | GL | Glarus | Glaris | Glarus |
 | GR | Grisons | Grisons | Graub?nden |
 | JU | Jura | Jura | Jura |
 | LU | Luzern | Lucerne | Luzern |
-| NE | Neuch?tel | Neuch?tel | Neuenburg |
+| NE | Neuchâtel | Neuchâtel | Neuenburg |
 | NW | Nidwalden | Nidwald | Nidwald |
 | OW | Obwalden | Obwald | Obwalden |
 | SG | St. Gallen | Saint-Gall | Sankt Gallen |
@@ -577,11 +577,11 @@ In sum, we still need to work on our French dictionary applied to the Swiss cont
 | VD | Vaud | Vaud | Waadt |
 | VS | Valais | Valais | Wallis |
 | ZG | Zug | Zoug | Zug |
-| ZH | Zürich | Zurich | Zurich |
+| ZH | Zurich | Zurich | Zürich |
 
 
 
-[Back to the top](#summary)
+[↥ back to top](#swiss-legislative-processes-codebook-legpro)
 
 
 
@@ -595,4 +595,6 @@ In sum, we still need to work on our French dictionary applied to the Swiss cont
 
 * Sevenans, J., Albaugh, Q., Shahaf, T., Soroka, S. and Walgrave, S. (2014). The Automated Coding of Policy Agendas: A Dictionary Based Approach (v. 2.0.). Paper prepared for the CAP Conference 2014, Konstanz.
 
-[Back to the top](#summary)
+
+
+[↥ back to top](#swiss-legislative-processes-codebook-legpro)
