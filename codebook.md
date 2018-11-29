@@ -498,7 +498,7 @@ In sum, we still need to work on our French dictionary applied to the Swiss cont
 | FORESTS | 0.60 | 0.55 | 0.56 | 0.69 |
 
 **Figure 6**
-|        | n-Ensemble coverage | n-Ensemble recall |
+| n-algorithms agree  | n-Ensemble coverage | n-Ensemble recall |
 |--------|---------------------|-------------------|
 | 3 algorithms agree | 0.88 | 0.80 |
 | 2 algorithms agree | 0.99 | 0.75 |
