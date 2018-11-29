@@ -73,7 +73,7 @@ University of Geneva.
 
 # 4. LegPro Codebook
 
-- Bills dataset: [overview](#overviewbills) or [detailed information](#detailsbills)
+- Bills dataset: [overview](#bills-dataset-overview) or [detailed information](#detailsbills)
 - [Proposals dataset](#detailsproposals)  
 - [Preparliamentary phase dataset](#detailspreparl)  
 - [Consultations dataset](#detailsconsultations)  
@@ -86,7 +86,7 @@ University of Geneva.
 - [International organizations dataset](#detailsios)  
 
 
-## Bills dataset: overview{#overviewbills}
+## Bills dataset: overview
 
 
 | Variable | Short Description  | 
