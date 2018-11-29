@@ -3,8 +3,6 @@ Legpro is a relational database which is an output of the project ``Re-parliamen
 Parliament's legislative function, 1987-2015'' funded by the Swiss National Science Fundation. <br/>
 Authors: [Pascal Sciarini](mailto:pascal.sciarini@unige.ch), [Roy Gava](mailto:roy.gava@unige.ch), [Julien Jaquet](mailto:julien.jaquet@unige.ch)
 
-See the [codebook](https://julienmjaquet.github.io/legpro)
-
 Please use the following citation if you use the data: <br/>
 Sciarini, Pascal, Gava, Roy and Jaquet, Julien M. (2018). Swiss Legislative Processes
 (1987-2015) (LegPro) [database]. Department of Political Science and International Relations,
