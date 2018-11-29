@@ -1,5 +1,6 @@
+<p align="center">
 # Swiss Legislative Processes Codebook (LegPro)
-
+</p>
 
 <p align="center">
   <b>Authors:</b><br>
