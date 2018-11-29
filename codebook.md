@@ -19,7 +19,7 @@
 
 
 
-# 1. Summary{#summary}
+# 1. Summary
 
 The LegPro relational database includes detailed information about legislative processes in Switzerland. It covers all bills the Swiss parliament dealt with from 1987 to 2015. The database links several datasets (see figure 1 below). Part of the data was gathered by means of web scraping from the [Swiss parliament website](http://www.parlament.ch/e/suche/Pages/curia-vista.aspx), the [Federal administration website](https://www.bk.admin.ch/index.html?lang=en), the [Parliamentary Services of the Federal Assembly, Bern](https://www.parlament.ch/en/services/open-data-webservices) and the [Yearbook of International Organizations](http://ybio.brillonline.com/ybio/). Information about the pre-parliamentary (preparatory) phase of legislation, and part of the information regarding the parliamentary phase, was gathered by four coders based on the reading of the report of the Federal Council (or the report of the legislative committee). Coders' reliability measures are reported if applicable.
 
