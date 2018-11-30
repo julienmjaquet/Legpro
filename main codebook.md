@@ -407,8 +407,18 @@ University of Geneva.
 
 | Variable | Description 
 |-------------|---------------------------------------------------|
-| `From`   |                                             |
-| `To`     |                                           |
+| `Councillor` | Federal Councillor's (FC) last name |
+| `Sex` | `M` or `W` |
+| `Yearborn` | `YYYY`: Year of birth |
+| `Canton` | Canton of residence at the time of election. See [glossary](#7. Glossary and abbreviations) |
+| `Parliament_experience_years` | Years of experience in Parliament before election to Federal Council |
+| `Federal_Council_elected` | Date of election to Federal Council <br/> format: `YYYY-MM-DD` |
+| `election_score` | Percentage of votes in Parliament (out of 246 MPs) <br/> format: value between 0 and 1 |
+| `election_round` | Round of election <br/> See the [election rules](https://www.admin.ch/gov/en/start/federal-council/election-federal-council.html) |
+| `Party` | See [glossary](#7. Glossary and abbreviations) |
+| `Department`  | Federal Department whose FC is in charge (french acronym, see [glossary](#7. Glossary and abbreviations) | 
+| `From`   | Date of entry into function  <br/> format: `YYYY-MM-DD`  |
+| `To`     | Termination date of the mandate <br/> format: `YYYY-MM-DD` <br/> Note that some Councillors may appear more than one time in the date (because of a change in Department or Party) |
 
 [↥ back to top](#swiss-legislative-processes-codebook-legpro)
 
