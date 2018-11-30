@@ -441,15 +441,15 @@ University of Geneva.
 | Variables to be coded (non-exhaustive list)| Specific instructions |
 |------|-----------------------------------------------------------------|
 | `bill_url`| On the webpage of the [Federal Gazette](https://www.admin.ch/gov/fr/accueil/droit-federal/feuille-federale.html?lang=fr), using the message ID (`proposal_ff`), you will find the message. You should be able to locate the legislative act among the (separate) documents following the message |
-| `bill_ff_page_start`{#billffpagestart2}| Before 1999, the draft bill stands within the message file. After 1999, code the first page of the draft bill (pagination of the pdf file), that is the page where the preamble stands. Be aware that multiple bills may appear within a message.|
-| `bill_ff_page_end`{#billffpageend2}| Idem for the end page. |
+| `bill_ff_page_start`| Before 1999, the draft bill stands within the message file. After 1999, code the first page of the draft bill (pagination of the pdf file), that is the page where the preamble stands. Be aware that multiple bills may appear within a message.|
+| `bill_ff_page_end`| Idem for the end page. |
 | `bill_international` |  See decision trees below. |
 | `bill_eu` <br/> *and other associated variables* | See decision trees below. In the message, find the section concerning the relation to EU law. The relation to EU law should be mentionned here and/or in the preamble. |
 | `bill_initiation_actor_type`{#initactortype2} | Not to be confused with the variable `bill_drafter`. If more than one actor are at the origin of the legislative process, code the one who initiated the earliest (provided no interruption of several years was observed).|
-| `bill_initiation_date`{#initdate2} | Code the date the actor initiated the process. If only a month was mentionned, code ``YYYY-MM-15``. If only a year was mentionned, code ``YYYY-06-30``. If a parliamentary request is at the origin of the legislative process, we used the deposit date.|
+| `bill_initiation_date` | Code the date the actor initiated the process. If only a month was mentionned, code ``YYYY-MM-15``. If only a year was mentionned, code ``YYYY-06-30``. If a parliamentary request is at the origin of the legislative process, we used the deposit date.|
 | `preparl_phases_type` | If more than half of the group composition comes from outside the federal administration, code it as an expert committee. If not, then this is an internal working group of the federal administration, which should not be coded as expert committee. `Consultations`: Includes official consultation procedures + official hearing procedure. `Preconsultations`: Non official consultation, at the very beginning of the pre-parliamentary process |
-| `bill_treatment_category`{#treatmentcat2}|Information available on the [Curia Vista](http://www.parlament.ch/f/suche/Pages/curia-vista.aspx) webpage (=> "catégorie objet"). If more than one category is mentioned, code the "smaller" category (e.g. `I` insted of `II`, *i.e.* the more important category)|
-| `bill_coder_comments`{#comments2} |If necessary, make (short) comments (e.g. regarding any debatable decision you have made) |
+| `bill_treatment_category`|Information available on the [Curia Vista](http://www.parlament.ch/f/suche/Pages/curia-vista.aspx) webpage (=> "catégorie objet"). If more than one category is mentioned, code the "smaller" category (e.g. `I` insted of `II`, *i.e.* the more important category)|
+| `bill_coder_comments` |If necessary, make (short) comments (e.g. regarding any debatable decision you have made) |
 
 [↥ back to top](#swiss-legislative-processes-codebook-legpro)
 
