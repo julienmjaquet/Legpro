@@ -641,10 +641,12 @@ In sum, we still need to work on our French dictionary applied to the Swiss cont
 * Grimmer, J. and Stewart, B. M. (2013). Text as Data: The Promise and Pitfalls of Automatic Content Analysis Methods for Texts. *Political Analysis* 21(3): 267-297.
 
 * Jenni, S. (2014). Europeanization of Swiss Law-Making: Empirics and Rhetoric are Drifting Apart. *Swiss Political Science Review* 20(2): 208-215.
+*Jurka, T. P., Collingwood, L., Boydstun, A. E., Grossman, E. and van Atteveldt, W. (2012). RTextTools: Automatic Text Classification via Supervised Learning. R package. http://CRAN.R-project.org/package=RTextTools
 
-* Quinn, K. M, Monroe, B. L., Colaresi, M., Crespin, M. H. and Radev, D. R. (2010). How to Analyze Political Attention with Minimal Assumptions and Costs. *American Journal of Political Science* 54(1): 209-228.
 
-* Sevenans, J., Albaugh, Q., Shahaf, T., Soroka, S. and Walgrave, S. (2014). The Automated Coding of Policy Agendas: A Dictionary Based Approach (v. 2.0.). Paper prepared for the CAP Conference 2014, Konstanz.
+<!-- * Quinn, K. M, Monroe, B. L., Colaresi, M., Crespin, M. H. and Radev, D. R. (2010). How to Analyze Political Attention with Minimal Assumptions and Costs. *American Journal of Political Science* 54(1): 209-228.
+
+* Sevenans, J., Albaugh, Q., Shahaf, T., Soroka, S. and Walgrave, S. (2014). The Automated Coding of Policy Agendas: A Dictionary Based Approach (v. 2.0.). Paper prepared for the CAP Conference 2014, Konstanz.-->
 
 
 
