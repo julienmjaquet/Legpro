@@ -155,7 +155,7 @@ University of Geneva.
 | Variable | Description 
 |-------------|---------------------------------------------------|
 | <h4 id="bill-id"> `bill_id` </h4> | Bill unique ID formed by `proposal_id` and `bill_proposal_number`	|
-| <h4 id="proposal-id"> `proposal_id` </h4> | Legislative proposal official ID in long form (can be the Federal Council's report ID or the Parliamentary Committee's report ID). <br/> Allow the match of this dataset with the dataset [Proposals](#proposals-dataset) and the dataset [Parliamentary Votes](#parliamentary-votes). |
+| <h4 id="proposal-id"> `proposal_id` </h4> | Legislative proposal official ID in long form (can be the Federal Council's report ID or the Parliamentary Committee's report ID). <br/> Allow the match of this dataset with the dataset [Proposals](#proposals-dataset) and the dataset [Parliamentary Votes](#parliamentary-votes-dataset). |
 | <h4 id="bill-title"> `bill_title` </h4> | Title of the bill (in French) |
 | <h4 id="bill-title"> `bill_title_de` </h4> | Title of the bill (in German)|
 | <h4 id="bill-date"> `bill_date` </h4> | Bill date, i.e. when the legislative proposal was submitted to Parliament. This is the date of the Federal Council's report or the date of its functional equivalent, the Parliamentary Committee's report. Format `YYYY-MM-DD`. |
