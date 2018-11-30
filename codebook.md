@@ -190,22 +190,22 @@ University of Geneva.
 | <h4 id="initiationdate"> `bill_initiation_date` </h4> | Iinitiation date of the legislative process (*Krippendorff's alpha: 0.63* for the exact date (*0.72* for the *year* only.). Format `YYYY-MM-DD` |
 | <h4 id="initiationactor"> `bill_initiation_actor_type` </h4> | Type of actor initiating the legislative process (*Krippendorff's alpha: 0.84*): <br/> `government` = Government / Administration <br/> `parliament`  = Parliamentary committee <br/> `mp` = MP <br/> `party`= party or parliamentary faction <br/> `people` = People (through a popular initiative) <br/> `canton` = Canton <br/> `international` = Foreign state or international organization |
 | <h4 id="ncvotedate"> `bill_nc_vote_date` </h4> | Date of the final vote in the National Council (*Krippendorff's alpha: 0.94*). Format `YYYY-MM-DD` | 
-| <h4 id="ncyes"> `bill_nc_yes` | Number of votes in favour of the enactement of the bill (final vote in the National Council). (*Krippendorff's alpha: 0.99*) |
-| <h4 id="ncno"> `bill_nc_no` | Number of votes against the enactement of the bill (final vote in the National Council). (*Krippendorff's alpha: 0.99*)| 
-| [`bill_nc_abs`]{#ncabs} | Number of abstentions (final vote in the National Council). (*Krippendorff's alpha: 0.99*)| 
-| [`bill_sc_vote_date`]{#scvotedate}|Date of the final vote in the Council of States (*Krippendorff's alpha: 0.93*). Format `YYYY-MM-DD`|
-| [`bill_sc_yes`]{#scyes}|Number of votes in favour of the enactement of the bill (final vote in the Coucil of States). (*Krippendorff's alpha: 0.99*)|
-| [`bill_sc_no`]{#scno} |Number of votes against the enactement of the bill (final vote in the Council of States). (*Krippendorff's alpha: 0.99*) |
-| [`bill_sc_abs`]{#scabs} | Number of abstentions (final vote in the Council of States). (*Krippendorff's alpha: 0.99*)| 
-| [`bill_referendum_launched`]{#referendumlaunched} | Does the bill was challenged by a referendum? (if bill submitted to optional referendum) <br/> `yes` or `no` |
-| [`bill_urgence_clause`]{#urgenceclause} | Does the bill was declared urgent? <br/> `demanded_accepted` or `none` | 
-| [`bill_consultations_count`]{#consultcount} | Number of consultation procedures during the preparatory phase (*Krippendorff's alpha: 0.79*) |
-| [`bill_preparl_steps_count`]{#pppsteps} | Number of preparliamentary steps during the preparatory phase (*Krippendorff's alpha: 0.68*) |
-| [`majortopic`]{#majortopic}| Issue topic according to the [CAP coding scheme](http://www.comparativeagendas.info) (major category). See the coding procedure in the section [Automated Coding of CAP Topics](#6-automated-coding-of-cap-topics). |
-| [`intervention_id`]{#interventionid} | Id of the parliamentary interventions (if at the origin of the decision-making process) (*Krippendorff's alpha: 0.84*) <br/> Allow the match of this dataset with the dataset [Parliamentary Interventions](#parliamentary-interventions-dataset) |
-| [`consultation_id`]{#consultationid} | Id of the consultation procedure (if any) (*Krippendorff's alpha: 0.79*) <br/> Allow the match of this dataset with the dataset [Consultations](#consultations-dataset) |
-| [`io_id`]{#ioid} | Id of the international organization (if related to any) (*Krippendorff's alpha: 0.63*) <br/> Allow the match of this dataset with the dataset [International Organizations](#international-organizations-dataset) |
-| [`bill_coder_comments`]{#comments}| Comments on the coding (in french) |
+| <h4 id="ncyes"> `bill_nc_yes` </h4> | Number of votes in favour of the enactement of the bill (final vote in the National Council). (*Krippendorff's alpha: 0.99*) |
+| <h4 id="ncno"> `bill_nc_no` </h4> | Number of votes against the enactement of the bill (final vote in the National Council). (*Krippendorff's alpha: 0.99*)| 
+| <h4 id="ncabs"> `bill_nc_abs` </h4> | Number of abstentions (final vote in the National Council). (*Krippendorff's alpha: 0.99*)| 
+| <h4 id="scvotedate"> `bill_sc_vote_date` </h4> |Date of the final vote in the Council of States (*Krippendorff's alpha: 0.93*). Format `YYYY-MM-DD`|
+| <h4 id="scyes"> `bill_sc_yes` </h4> |Number of votes in favour of the enactement of the bill (final vote in the Coucil of States). (*Krippendorff's alpha: 0.99*)|
+| <h4 id="scno"> `bill_sc_no` </h4> |Number of votes against the enactement of the bill (final vote in the Council of States). (*Krippendorff's alpha: 0.99*) |
+| <h4 id="scabs"> `bill_sc_abs` </h4> | Number of abstentions (final vote in the Council of States). (*Krippendorff's alpha: 0.99*)| 
+| <h4 id="referendumlaunched"> `bill_referendum_launched` </h4> | Does the bill was challenged by a referendum? (if bill submitted to optional referendum) <br/> `yes` or `no` |
+| <h4 id="urgenceclause"> `bill_urgence_clause` </h4> | Does the bill was declared urgent? <br/> `demanded_accepted` or `none` | 
+| <h4 id="consultcount"> `bill_consultations_count` </h4> | Number of consultation procedures during the preparatory phase (*Krippendorff's alpha: 0.79*) |
+| <h4 id="pppsteps"> `bill_preparl_steps_count` </h4> | Number of preparliamentary steps during the preparatory phase (*Krippendorff's alpha: 0.68*) |
+| <h4 id="majortopic"> `majortopic` </h4> | Issue topic according to the [CAP coding scheme](http://www.comparativeagendas.info) (major category). See the coding procedure in the section [Automated Coding of CAP Topics](#6-automated-coding-of-cap-topics). |
+| <h4 id="interventionid"> `intervention_id` </h4> | Id of the parliamentary interventions (if at the origin of the decision-making process) (*Krippendorff's alpha: 0.84*) <br/> Allow the match of this dataset with the dataset [Parliamentary Interventions](#parliamentary-interventions-dataset) |
+| <h4 id="consultationid"> `consultation_id` </h4> | Id of the consultation procedure (if any) (*Krippendorff's alpha: 0.79*) <br/> Allow the match of this dataset with the dataset [Consultations](#consultations-dataset) |
+| <h4 id="ioid"> `io_id` </h4> | Id of the international organization (if related to any) (*Krippendorff's alpha: 0.63*) <br/> Allow the match of this dataset with the dataset [International Organizations](#international-organizations-dataset) |
+| <h4 id="comments"> `bill_coder_comments` </h4> | Comments on the coding (in french) |
 
 [↥ back to top](#swiss-legislative-processes-codebook-legpro)
 
