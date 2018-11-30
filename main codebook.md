@@ -418,7 +418,7 @@ University of Geneva.
 | `Party` | See [glossary](#7. Glossary and abbreviations) |
 | `Department`  | Federal Department whose FC is in charge (french acronym, see [glossary](#7. Glossary and abbreviations) | 
 | `From`   | Date of entry into function  <br/> format: `YYYY-MM-DD`  |
-| `To`     | Termination date of the mandate <br/> format: `YYYY-MM-DD` <br/> Note that some Councillors may appear more than one time in the date (because of a change in Department or Party) |
+| `To`     | Termination date of the mandate <br/> format: `YYYY-MM-DD` <br/> Note that some Councillors may appear more than once within the data (because of a change in Department or Party) |
 
 [↥ back to top](#swiss-legislative-processes-codebook-legpro)
 
