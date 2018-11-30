@@ -642,7 +642,7 @@ In sum, we still need to work on our French dictionary applied to the Swiss cont
 
 * Jenni, S. (2014). Europeanization of Swiss Law-Making: Empirics and Rhetoric are Drifting Apart. *Swiss Political Science Review* 20(2): 208-215.
 
-*Jurka, T. P., Collingwood, L., Boydstun, A. E., Grossman, E. and van Atteveldt, W. (2012). RTextTools: Automatic Text Classification via Supervised Learning. R package. http://CRAN.R-project.org/package=RTextTools
+* Jurka, T. P., Collingwood, L., Boydstun, A. E., Grossman, E. and van Atteveldt, W. (2012). RTextTools: Automatic Text Classification via Supervised Learning. R package. http://CRAN.R-project.org/package=RTextTools
 
 
 <!-- * Quinn, K. M, Monroe, B. L., Colaresi, M., Crespin, M. H. and Radev, D. R. (2010). How to Analyze Political Attention with Minimal Assumptions and Costs. *American Journal of Political Science* 54(1): 209-228.
