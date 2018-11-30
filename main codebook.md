@@ -641,6 +641,7 @@ In sum, we still need to work on our French dictionary applied to the Swiss cont
 * Grimmer, J. and Stewart, B. M. (2013). Text as Data: The Promise and Pitfalls of Automatic Content Analysis Methods for Texts. *Political Analysis* 21(3): 267-297.
 
 * Jenni, S. (2014). Europeanization of Swiss Law-Making: Empirics and Rhetoric are Drifting Apart. *Swiss Political Science Review* 20(2): 208-215.
+
 *Jurka, T. P., Collingwood, L., Boydstun, A. E., Grossman, E. and van Atteveldt, W. (2012). RTextTools: Automatic Text Classification via Supervised Learning. R package. http://CRAN.R-project.org/package=RTextTools
 
 
