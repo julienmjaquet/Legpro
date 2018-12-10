@@ -499,7 +499,7 @@ In sum, we still need to work on our French dictionary applied to the Swiss cont
 
 **Figure 5:**
 
-| Algorithm | Precision | Recall | F-score | 4-fold cross-validation (mean accuracy)|
+| Algorithm | Precision | Recall | F1-score | 4-fold cross-validation (mean accuracy)|
 |-----------|-----------|--------|---------|----------------------------------------|
 | MAXENTROPY | 0.65 | 0.65 | 0.65 | 0.41 |
 | LOGITBOOST | 0.66 | 0.63 | 0.62 | 0.87 |
@@ -518,7 +518,7 @@ In sum, we still need to work on our French dictionary applied to the Swiss cont
 
 **Figure 7**
 
-| CAP majortopic | N | F1| 
+| CAP majortopic | N | F1-score| 
 |--------|----------|----------|
 | 1 | 76 | 0.87 |
 | 2 | 6 | 0.33 |
