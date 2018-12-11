@@ -511,6 +511,8 @@ All those measures represent percentages and thus take values between 0 and 1. *
 
 | n-algorithms agree  | n-Ensemble coverage | n-Ensemble recall |
 |--------|---------------------|-------------------|
+| 5 algoritms agree | 0.57 | 0.93 | 
+| 4 algorithms agree | 0.72 | 0.89 |
 | 3 algorithms agree | 0.88 | 0.80 |
 | 2 algorithms agree | 0.99 | 0.75 |
 
