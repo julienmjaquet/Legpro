@@ -21,7 +21,7 @@
 
 # 1. Summary
 
-The LegPro relational database includes detailed information about legislative processes in Switzerland. It covers all bills the Swiss parliament dealt with from 1987 to 2015. The database links several datasets (see figure 1 below). Part of the data was gathered by means of web scraping from the [Swiss parliament website](http://www.parlament.ch/e/suche/Pages/curia-vista.aspx), the [Federal administration website](https://www.bk.admin.ch/index.html?lang=en), the [Parliamentary Services of the Federal Assembly, Bern](https://www.parlament.ch/en/services/open-data-webservices) and the [Yearbook of International Organizations](http://ybio.brillonline.com/ybio/). Information about the pre-parliamentary (preparatory) phase of legislation, and part of the information regarding the parliamentary phase, was gathered by four coders based on the reading of the report of the Federal Council (or the report of the legislative committee). Coders' reliability measures are reported if applicable.
+The LegPro relational database includes detailed information about legislative processes in Switzerland. It covers all bills (= 3,460) the Swiss parliament dealt with from 1987 to 2015. The database links several datasets (see figure 1 below). Part of the data was gathered by means of web scraping from the [Swiss parliament website](http://www.parlament.ch/e/suche/Pages/curia-vista.aspx), the [Federal administration website](https://www.bk.admin.ch/index.html?lang=en), the [Parliamentary Services of the Federal Assembly, Bern](https://www.parlament.ch/en/services/open-data-webservices) and the [Yearbook of International Organizations](http://ybio.brillonline.com/ybio/). Information about the pre-parliamentary (preparatory) phase of legislation, and part of the information regarding the parliamentary phase, was gathered by four coders based on the reading of the report of the Federal Council (or the report of the legislative committee). Coders' reliability measures are reported if applicable.
 
 The following translation table clarifies some basic terminology.
 
@@ -479,23 +479,25 @@ University of Geneva.
 
 # 6. Automated Coding of CAP topics
 
-The coding of topics is based on the coding scheme of the [Comparative Agendas Project](https://www.comparativeagendas.net/). While for a long time CAP scholars have mostly relied on human coding, a trend towards automated coding has emerged since the last two decades. Several automated-coding approaches have been tested within the CAP community and beyond (see e.g., Quinn et al. 2010), but the algorithmns and techniques are increasingly complex, so that they sometimes obscure what is actually measured. Therefore, following Sevenans et al. (2014) we opted for a simpler dictionary-based approach. An important advantage of such an approach is that it is clear about what it counts and one can make the case that policy topics are relatively easily identified using a finite set of keywords (Ibid., 2014:3).
+The coding of topics is based on the coding scheme of the [Comparative Agendas Project](https://www.comparativeagendas.net/). While for a long time CAP scholars have mostly relied on human coding, a trend towards automated coding has emerged since the last two decades. Several automated-coding approaches have been tested within the CAP community and beyond (see e.g., Quinn et al. 2010).
 
-To build our dictionary, we first translated into french the english dictionary developed by Sevenans et al. (2014), which is available online ([lexicoder](http://lexicoder.com/download.html)). We  added some words relevant to the Swiss context. Then, we took advantage of a sample of 369 human-coded bills (as part of another SNF-funded project, see [section acknowledgements](#2-acknowledgements)) to explore the most commons words of each major topic. Finally, on the basis of the term frequency-inverse document frequency (tf-idf) computed by topic (and not by document), we removed words that did not allow to identify one unique topic.
+In this research, we relied on different coding strategies. A first sample of 2,003 out of 3,460 obervations was coded using a correspondence table between the [classified Compilation of federal law](https://www.admin.ch/gov/en/start/federal-law/classified-compilation.html)'s classification scheme (RS codes) and the major CAP topics. In order to get those RS codes, we used three methods: part of the data was originally manually coded by human coders as part of another research project. However, given that there is no common id variable, the match was performed using the title of the bill (which is case-sensitive) and the date of its adoption. This strategy allowed to code about 350 observations. Second, another part was coded through web-scraping (about 1,400 observations) while some of these observations were manually corrected by our team of coders. Third, about 250 observations were automatically retrieved from the first page's footnote of the bill which often indicates a RS code. 
+
+The remaining sample was automatically coded through machine learning. We used the algorithmns provided in the R package *RTextTools*. On the basis of the french title of the bill, we were able to coded 1,112 additional observations (we keep track of observations coded through machine learning with the variable `machine_learning_coded`). 
+
+The precise coding procedure is described hereunder. The known sample was divdied into a training sample (75 \% of observations) and a test sample (25 \%). 
+
+
+<!--To build our dictionary, we first translated into french the english dictionary developed by Sevenans et al. (2014), which is available online ([lexicoder](http://lexicoder.com/download.html)). We  added some words relevant to the Swiss context. Then, we took advantage of a sample of 369 human-coded bills (as part of another SNF-funded project, see [section acknowledgements](#2-acknowledgements)) to explore the most commons words of each major topic. Finally, on the basis of the term frequency-inverse document frequency (tf-idf) computed by topic (and not by document), we removed words that did not allow to identify one unique topic.-->
 
 To validate our approach we computed *precision*, *recall* and *F1 score*, statistics often used in the context of automated text anlysis (Grimmer \& Stuart, 2013) on the basis of the human-coded sample. The *recall*
-stastistics indicates the number of bills correctly classified in a given topic, divided by the total number of bills that human coded in this topic. The *precision* statistics computes the number of bills correctly classified in a given topic, divided by the total number of bills that the dictionnary classified in this topic. Finally, the *F1-score* combines the two latter measures to produce an unique measure of classification quality, and is given by:
+stastistics indicates the number of bills correctly classified in a given topic, divided by the total number of bills that was coded in this topic through the correspondence table strategy. The *precision* statistics computes the number of bills correctly classified in a given topic, divided by the total number of bills that the algorithm classified in this topic. Finally, the *F1-score* combines the two latter measures to produce an unique measure of classification quality, and is given by:
 
 <p align="center">
   <img src="images/f1scoreformula.gif" style="width: 50px;"/>
 </p>
 
-All those measures represent percentages and thus take values between 0 and 1. *Figure 5* presents graphically the results for each of the 21 CAP topics.
-
-
-As it is clear from *figure 5*, there is a great variation across topics. While such a variation is partly explained by the number of available documents for each topic, another problem relates to topic-specific words. In other words, it is easier to find words that uniquely identify a topic for some issues, than for other issues. In general, our dictionary-based approach produced average results, with a mean recall of 0.49, mean precision of 0.61 and mean f1-score of 0.5. However, it is not clear if a perfect score is actually desirable considering that there might be some degree of error in the human coding as well (Sevenans et al. 2014).
-
-In sum, we still need to work on our French dictionary applied to the Swiss context. Therefore, while our data includes the CAP major topics for 1,660 bills over the period 1999-2015  computed through our dictionary-based approach, that information should be used with caution.
+All those measures represent percentages and thus take values between 0 and 1. *Figure 5* presents the results for each of the 5 algoritms we relied on.
 
 **Figure 5:**
 
@@ -507,6 +509,7 @@ In sum, we still need to work on our French dictionary applied to the Swiss cont
 | SLDA | 0.66 | 0.61 | 0.62 | 0.71 |
 | FORESTS | 0.60 | 0.55 | 0.56 | 0.69 |
 
+*Figure 6* presents measures of classification quality when several algoritms agree.
 
 **Figure 6**
 
@@ -515,6 +518,8 @@ In sum, we still need to work on our French dictionary applied to the Swiss cont
 | 3 algorithms agree | 0.88 | 0.80 |
 | 2 algorithms agree | 0.99 | 0.75 |
 
+
+Finally, *figure 7* presents results for each topic when at least 3 alogirthms agree. As it is clear from the figure, there is a great variation across topics. Such a variation is partly explained by the number of available documents for each topic. Then, it is not clear if a perfect score is actually desirable considering that there might be some degree of error in the first sample coding as well.
 
 **Figure 7**
 
@@ -645,10 +650,11 @@ In sum, we still need to work on our French dictionary applied to the Swiss cont
 * Jurka, T. P., Collingwood, L., Boydstun, A. E., Grossman, E. and van Atteveldt, W. (2012). RTextTools: Automatic Text Classification via Supervised Learning. R package. http://CRAN.R-project.org/package=RTextTools
 
 
-<!-- * Quinn, K. M, Monroe, B. L., Colaresi, M., Crespin, M. H. and Radev, D. R. (2010). How to Analyze Political Attention with Minimal Assumptions and Costs. *American Journal of Political Science* 54(1): 209-228.
-
-* Sevenans, J., Albaugh, Q., Shahaf, T., Soroka, S. and Walgrave, S. (2014). The Automated Coding of Policy Agendas: A Dictionary Based Approach (v. 2.0.). Paper prepared for the CAP Conference 2014, Konstanz.-->
 
 
+<!-- * Quinn, K. M, Monroe, B. L., Colaresi, M., Crespin, M. H. and Radev, D. R. (2010). How to Analyze Political Attention with Minimal Assumptions and Costs. *American Journal of Political Science* 54(1): 209-228. 
+
+* Sevenans, J., Albaugh, Q., Shahaf, T., Soroka, S. and Walgrave, S. (2014). The Automated Coding of Policy Agendas: A Dictionary Based Approach (v. 2.0.). Paper prepared for the CAP Conference 2014, Konstanz.
+-->
 
 [↥ back to top](#swiss-legislative-processes-codebook-legpro)
