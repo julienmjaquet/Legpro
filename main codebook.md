@@ -505,13 +505,15 @@ All those measures represent percentages and thus take values between 0 and 1. *
 | SLDA | 0.66 | 0.61 | 0.62 | 0.71 |
 | FORESTS | 0.60 | 0.55 | 0.56 | 0.69 |
 
+In order to code the remaining unknown sample, we retained the code when several algorithms agree on the coding
+
 *Figure 6* presents measures of classification quality when several algoritms agree.
 
 **Figure 6**
 
 | n-algorithms agree  | n-Ensemble coverage | n-Ensemble recall |
 |--------|---------------------|-------------------|
-| 5 algoritms agree | 0.57 | 0.93 | 
+| 5 algorithms agree | 0.57 | 0.93 | 
 | 4 algorithms agree | 0.72 | 0.89 |
 | 3 algorithms agree | 0.88 | 0.80 |
 | 2 algorithms agree | 0.99 | 0.75 |
