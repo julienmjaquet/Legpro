@@ -505,9 +505,7 @@ All those measures represent percentages and thus take values between 0 and 1. *
 | SLDA | 0.66 | 0.61 | 0.62 | 0.71 |
 | FORESTS | 0.60 | 0.55 | 0.56 | 0.69 |
 
-In order to code the remaining unknown sample, we retained the code when several algorithms agree on the coding
-
-*Figure 6* presents measures of classification quality when several algoritms agree.
+In order to code the remaining unknown sample, we used those 5 algorithms. We retained the code predicted by the algorithms when several algorithms agree on the coding: a first part was coded when 5 algorithms agree, then four 4, and finally 3. *Figure 6* presents measures of classification quality when several algoritms agree.
 
 **Figure 6**
 
@@ -519,7 +517,7 @@ In order to code the remaining unknown sample, we retained the code when several
 | 2 algorithms agree | 0.99 | 0.75 |
 
 
-Finally, *figure 7* presents results for each topic when at least 3 alogirthms agree. As it is clear from the figure, there is a great variation across topics. Such a variation is partly explained by the number of available documents for each topic. Then, it is not clear if a perfect score is actually desirable considering that there might be some degree of error in the first sample coding as well.
+Finally, *figure 7* presents results for each topic when at least 3 algorithms agree. As it is clear from the figure, there is a great variation across topics. Such a variation is partly explained by the number of available documents for each topic. Then, it is not clear if a perfect score is actually desirable considering that there might be some degree of error in the first sample coding as well.
 
 **Figure 7**
 
