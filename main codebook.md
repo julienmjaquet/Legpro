@@ -485,17 +485,13 @@ In this research, we relied on different coding strategies. A first sample of 2,
 
 The remaining sample was automatically coded through machine learning. We used the algorithmns provided in the R package *RTextTools*. On the basis of the french title of the bill, we were able to coded 1,112 additional observations (we keep track of observations coded through machine learning with the variable `machine_learning_coded`). 
 
-The precise coding procedure is described hereunder. The known sample was divdied into a training sample (75 \% of observations) and a test sample (25 \%). 
-
-
-<!--To build our dictionary, we first translated into french the english dictionary developed by Sevenans et al. (2014), which is available online ([lexicoder](http://lexicoder.com/download.html)). We  added some words relevant to the Swiss context. Then, we took advantage of a sample of 369 human-coded bills (as part of another SNF-funded project, see [section acknowledgements](#2-acknowledgements)) to explore the most commons words of each major topic. Finally, on the basis of the term frequency-inverse document frequency (tf-idf) computed by topic (and not by document), we removed words that did not allow to identify one unique topic.-->
-
-To validate our approach we computed *precision*, *recall* and *F1 score*, statistics often used in the context of automated text anlysis (Grimmer \& Stuart, 2013) on the basis of the human-coded sample. The *recall*
-stastistics indicates the number of bills correctly classified in a given topic, divided by the total number of bills that was coded in this topic through the correspondence table strategy. The *precision* statistics computes the number of bills correctly classified in a given topic, divided by the total number of bills that the algorithm classified in this topic. Finally, the *F1-score* combines the two latter measures to produce an unique measure of classification quality, and is given by:
+The precise coding procedure is described hereunder. The known sample (2,003 observations) was divided into a training sample (75 \% of observations) and a test sample (25 \%). To validate our approach we computed *precision*, *recall* and *F1 score*, statistics often used in the context of automated text anlysis (Grimmer \& Stuart, 2013) on the basis of the human-coded sample. The *recall* stastistics indicates the number of bills correctly classified in a given topic, divided by the total number of bills that was coded in this topic through the correspondence table strategy. The *precision* statistics computes the number of bills correctly classified in a given topic, divided by the total number of bills that the algorithm classified in this topic. Finally, the *F1-score* combines the two latter measures to produce an unique measure of classification quality, and is given by:
 
 <p align="center">
   <img src="images/f1scoreformula.gif" style="width: 50px;"/>
 </p>
+
+<!--To build our dictionary, we first translated into french the english dictionary developed by Sevenans et al. (2014), which is available online ([lexicoder](http://lexicoder.com/download.html)). We  added some words relevant to the Swiss context. Then, we took advantage of a sample of 369 human-coded bills (as part of another SNF-funded project, see [section acknowledgements](#2-acknowledgements)) to explore the most commons words of each major topic. Finally, on the basis of the term frequency-inverse document frequency (tf-idf) computed by topic (and not by document), we removed words that did not allow to identify one unique topic.-->
 
 All those measures represent percentages and thus take values between 0 and 1. *Figure 5* presents the results for each of the 5 algoritms we relied on.
 
