@@ -568,9 +568,9 @@ Finally, *figure 7* presents results for each topic when at least 3 algorithms a
 |FAC/CPE/APK|Foreign Affairs Committee|Commission de politique extérieure|Aussenpolitische Kommission|
 |CSEC/CSEC/WBK|Committee for Science, Education and Culture|Commission de la science, de l'éducation et de la culture|Kommission für Wissenschaft, Bildung und Kultur|
 |CSSH/CSSS/SGK|Committee for Social Security and Health|Commission de la sécurité sociale et de la santé publique|Kommission für soziale Sicherheit und Gesundheit|
-|CESPE/CEATE/UREK|Committee for the Environment, Spatial Planning and Energy|Commission de l'environnement, de l'aménagement du territoire et de l'énergie|Kommission f?r Umwelt, Raumplanung und Energie|
+|CESPE/CEATE/UREK|Committee for the Environment, Spatial Planning and Energy|Commission de l'environnement, de l'aménagement du territoire et de l'énergie|Kommission für Umwelt, Raumplanung und Energie|
 |DefC/CPS/SiK|Defence Committee|Commission de la politique de sécurité|Sicherheitspolitische Kommission|
-|CTT/CTT/KVF|Committee for Transportation and Telecommunications|Commission des transports et des t?l?communications|Kommission für Verkehr und Fernmeldewesen|
+|CTT/CTT/KVF|Committee for Transportation and Telecommunications|Commission des transports et des télécommunications|Kommission für Verkehr und Fernmeldewesen|
 |CEAT/CER/WAK|Committee for Economic Affairs and Taxation|Commission de l'économie et des redevances|Kommission für Wirtschaft und Abgaben|
 |PIC/CIP/SPK|Political Institutions Committee|Commission des institutions politiques|Staatspolitische Kommission|
 |CLA/CAJ/RK|Committee for Legal Affairs|Commission des affaires juridiques|Kommission für Rechtsfragen|
