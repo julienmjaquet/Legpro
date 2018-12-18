@@ -479,13 +479,14 @@ University of Geneva.
 
 # 6. Automated Coding of CAP topics
 
-The coding of topics is based on the coding scheme of the [Comparative Agendas Project](https://www.comparativeagendas.net/). While for a long time CAP scholars have mostly relied on human coding, a trend towards automated coding has emerged since the last two decades. Several automated-coding approaches have been tested within the CAP community and beyond (see e.g., Quinn et al. 2010).
+The coding of issue topics is based on the coding scheme of the  [Comparative Agendas Project](https://www.comparativeagendas.net/). While for a long time CAP scholars have mostly relied on human coding, a trend towards automated coding has developed in the last two decades. Several automated-coding approaches have been tested within the CAP community and beyond (see e.g., Quinn et al. 2010).
 
-In this research, we relied on different coding strategies. A first sample of 2,003 out of 3,460 observations was coded using a correspondence table between the [classified Compilation of federal law](https://www.admin.ch/gov/en/start/federal-law/classified-compilation.html)'s classification scheme (RS codes) and the major CAP topics. In order to get those RS codes, we used three methods: part of the data was originally manually coded by human coders as part of another research project. However, given that there is no common id variable, the match was performed using the title of the bill (which is case-sensitive) and the date of its adoption. This strategy allowed to code about 350 observations. Second, another part was coded through web-scraping (about 1,400 observations) while some of these observations were manually corrected by our team of coders. Third, about 250 observations were automatically retrieved from the bill first page's footnote, which often indicates a RS code.
+In our research, we relied on different coding strategies. A first set of 2,003 out of 3,460 observations was coded using a correspondence table between the [classified Compilation of federal law](https://www.admin.ch/gov/en/start/federal-law/classified-compilation.html)'s classification scheme (RS codes) and the major CAP topics. 
 
-The remaining sample was automatically coded through machine learning. We used the algorithmns provided in the R package *RTextTools*. On the basis of the french title of the bill, we were able to code 1,112 additional observations (we keep track of observations coded through machine learning with the variable `machine_learning_coded`). 
+The remaining set of bills was automatically coded with machine learning, using the algorithms provided in the R package 
+*RTextTools*. On the basis of the french title of the bill, we were able to code 1,112 additional observations (we keep track of observations coded through machine learning with the variable `machine_learning_coded`). 
 
-The precise coding procedure is described hereunder. The known sample (2,003 observations) was divided into a training sample (75 \% of observations) and a test sample (25 \%). To validate our approach we computed *precision*, *recall* and *F1 score*, statistics often used in the context of automated text analysis (Grimmer \& Stuart, 2013) on the basis of the human-coded sample. The *recall* stastistics indicates the number of bills correctly classified in a given topic, divided by the total number of bills that was coded in this topic through the correspondence table strategy. The *precision* statistics computes the number of bills correctly classified in a given topic, divided by the total number of bills that the algorithm classified in this topic. Finally, the *F1-score* combines the two latter measures to produce an unique measure of classification quality, and is given by:
+The coding procedure was as follows. First, we divided the 2,003 bills for which we the CAP topic was available into a training sample (75 % of observations) and a test sample (25 %). To validate our approach, we computed *precision*, *recall* and *F1 score* (Grimmer & Stuart, 2013). The recall stastistics indicates the number of bills correctly classified in a given topic, divided by the total number of bills that were attributed to that topic according to the correspondence table. The precision statistics computes the number of bills correctly classified in a given topic, divided by the total number of bills that the algorithm classified in this topic. Finally, the F1-score combines the two latter measures to produce a synthetic measure of classification quality, which is given by:
 
 <p align="center">
   <img src="images/f1scoreformula.gif" style="width: 50px;"/>
@@ -493,7 +494,7 @@ The precise coding procedure is described hereunder. The known sample (2,003 obs
 
 <!--To build our dictionary, we first translated into french the english dictionary developed by Sevenans et al. (2014), which is available online ([lexicoder](http://lexicoder.com/download.html)). We  added some words relevant to the Swiss context. Then, we took advantage of a sample of 369 human-coded bills (as part of another SNF-funded project, see [section acknowledgements](#2-acknowledgements)) to explore the most commons words of each major topic. Finally, on the basis of the term frequency-inverse document frequency (tf-idf) computed by topic (and not by document), we removed words that did not allow to identify one unique topic.-->
 
-All these measures represent percentages and thus take values between 0 and 1. *Figure 5* presents the results for each of the 5 algoritms we relied on.
+All these measures represent percentages and thus take values between 0 and 1. *Figure 5* presents the results for each of the 5 algorithms we relied on, as well as the results of an additional test (cross-validation).
 
 **Figure 5:**
 
@@ -505,7 +506,7 @@ All these measures represent percentages and thus take values between 0 and 1. *
 | SLDA | 0.66 | 0.61 | 0.62 | 0.71 |
 | FORESTS | 0.60 | 0.55 | 0.56 | 0.69 |
 
-In order to code the remaining unknown sample, we used these 5 algorithms. We retained the code predicted by the algorithms when several algorithms agree on the coding: a first part was coded when 5 algorithms agree, then four 4, and finally 3. *Figure 6* presents measures of classification quality when several algoritms agree.
+Next, we used these 5 algorithms to code the issue topic of the remaining set of bills. We retained the issue topic predicted by the algorithms when several algorithms agree on the coding: a first subset was coded when 5 algorithms agree, then four 4, and finally 3. *Figure 6* presents measures of classification quality when several algoritms agree.
 
 **Figure 6**
 
@@ -516,8 +517,7 @@ In order to code the remaining unknown sample, we used these 5 algorithms. We re
 | 3 algorithms agree | 0.88 | 0.80 |
 | 2 algorithms agree | 0.99 | 0.75 |
 
-
-Finally, *figure 7* presents results for each topic when at least 3 algorithms agree. As it is clear from the figure, there is a great variation across topics. Such a variation is partly explained by the number of available documents for each topic. Then, it is not clear if a perfect score is actually desirable considering that there might be some degree of error in the first sample coding as well.
+Finally, *figure 7* presents results for each issue topic when at least 3 algorithms agree. As it clearly transpires from figure 7, there is a great variation across topics. Such a variation is partly explained by the number of available documents for each topic
 
 **Figure 7**
 
