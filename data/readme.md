@@ -5,7 +5,7 @@
 |------------|-----------|------------|
 | Bills       |  [chap. 4.1](https://github.com/julienmjaquet/Legpro/blob/master/main%20codebook.md#bills-dataset-detailed-information)     |               |
 | Proposals | [chap. 4.2](https://github.com/julienmjaquet/Legpro/blob/master/main%20codebook.md#proposals-dataset)  |      |
-| Preparliamentary phase | [chap. 4.3](https://github.com/julienmjaquet/Legpro/blob/master/main%20codebook.md#preparliamentary-phase-dataset)      |       |
+| [Preparliamentary phase](https://github.com/julienmjaquet/Legpro/blob/master/data/csv/preparl_phases.csv) | [chap. 4.3](https://github.com/julienmjaquet/Legpro/blob/master/main%20codebook.md#preparliamentary-phase-dataset)      | [preparl_phases.csv](https://raw.githubusercontent.com/julienmjaquet/Legpro/master/data/csv/preparl_phases.csv)      |
 | [Consultations](https://github.com/julienmjaquet/Legpro/blob/master/data/csv/consultations.csv) | [chap. 4.4](https://github.com/julienmjaquet/Legpro/blob/master/main%20codebook.md#consultations-dataset)         | [consultations.csv](https://raw.githubusercontent.com/julienmjaquet/Legpro/master/data/csv/consultations.csv)      |
 | MPs        | [chap. 4.5](https://github.com/julienmjaquet/Legpro/blob/master/main%20codebook.md#mps-dataset)           |       |
 | [Parliamentary interventions](https://github.com/julienmjaquet/Legpro/blob/master/data/csv/parl_interventions.csv)     |  [chap. 4.6](https://github.com/julienmjaquet/Legpro/blob/master/main%20codebook.md#parliamentary-votes-dataset)          |  [parl_interventions.csv](https://raw.githubusercontent.com/julienmjaquet/Legpro/master/data/csv/parl_interventions.csv)          |
