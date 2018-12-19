@@ -77,7 +77,7 @@ University of Geneva.
 - [Proposals dataset](#proposals-dataset)  
 - [Preparliamentary phase dataset](#preparliamentary-phase-dataset)  
 - [Consultations dataset](#consultations-dataset)  
-- [Parliamentary votes](#parliamentary-votes)
+- [Parliamentary votes](#parliamentary-votes-dataset)
 - [MPs dataset](#mps-dataset)
 - [Parliamentary interventions dataset](#parliamentary-interventions-dataset)
 - [Popular votes dataset](#popular-votes-dataset)  
