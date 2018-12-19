@@ -7,10 +7,10 @@
 | Proposals | [chap. 4.2](https://github.com/julienmjaquet/Legpro/blob/master/main%20codebook.md#proposals-dataset)  |      |
 | Preparliamentary phase | [chap. 4.3](https://github.com/julienmjaquet/Legpro/blob/master/main%20codebook.md#preparliamentary-phase-dataset)      |       |
 | Consultations | [chap. 4.4](https://github.com/julienmjaquet/Legpro/blob/master/main%20codebook.md#consultations-dataset)         |       |
-| MPs        | [chap. 4.5]           |       |
-| Parliamentary interventions     |  [chap. 4.6]          |            |
-| Popular votes           | [chap. 4.7]           |            |
-| Legislation           | [chap. 4.8]           |            |
-| Abrogated legislation     |  [chap. 4.9]          |            |
-| International organizations           | [chap. 4.10]           |            |
-| [Federal Councillors](https://github.com/julienmjaquet/Legpro/blob/master/data/csv/federal_councillors.csv) | [chap. 4.11]    |  [federal_councillors.csv](https://raw.githubusercontent.com/julienmjaquet/Legpro/master/data/csv/federal_councillors.csv)      |
+| MPs        | [chap. 4.5](https://github.com/julienmjaquet/Legpro/blob/master/main%20codebook.md#mps-dataset)           |       |
+| Parliamentary interventions     |  [chap. 4.6](https://github.com/julienmjaquet/Legpro/blob/master/main%20codebook.md#parliamentary-votes-dataset)          |            |
+| Popular votes           | [chap. 4.7](https://github.com/julienmjaquet/Legpro/blob/master/main%20codebook.md#popular-votes-dataset)           |            |
+| Legislation           | [chap. 4.8](https://github.com/julienmjaquet/Legpro/blob/master/main%20codebook.md#legislation-dataset)           |            |
+| Abrogated legislation     |  [chap. 4.9](https://github.com/julienmjaquet/Legpro/blob/master/main%20codebook.md#abrogated-legislation-dataset)          |            |
+| International organizations           | [chap. 4.10](https://github.com/julienmjaquet/Legpro/blob/master/main%20codebook.md#international-organizations-dataset)           |            |
+| [Federal Councillors](https://github.com/julienmjaquet/Legpro/blob/master/data/csv/federal_councillors.csv) | [chap. 4.11](https://github.com/julienmjaquet/Legpro/blob/master/main%20codebook.md#federal-councillors-dataset)    |  [federal_councillors.csv](https://raw.githubusercontent.com/julienmjaquet/Legpro/master/data/csv/federal_councillors.csv)      |
