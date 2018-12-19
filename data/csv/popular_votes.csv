@@ -1,0 +1,246 @@
+vote_id,vote_date,vote_title,vote_legal_type,vote_result,bill_id
+355,1988-12-04,Volksinitiative «für die Begrenzung der Einwanderung»,3,0,19870071-1
+354,1988-12-04,Volksinitiative «zur Herabsetzung der Arbeitszeit»,3,0,19870044-1
+356,1989-06-04,Volksinitiative «für ein naturnahes Bauern - gegen Tierfabriken (Kleinbauern-Initiative)»,3,0,19880005-1
+357,1989-11-26,Volksinitiative «für eine Schweiz ohne Armee und für eine umfassende Friedenspolitik»,3,0,19880041-1
+358,1989-11-26,Volksinitiative «pro Tempo 130/100»,3,0,19870047-1
+359,1990-04-01,Volksinitiative «Stopp dem Beton - für eine Begrenzung des Strassenbaus!»,3,0,19880060-1
+363,1990-04-01,Bundesbeschluss über den Rebbau,2,0,19880081-1
+362,1990-04-01,Volksinitiative «für eine freie Aarelandschaft zwischen Biel und Solothurn/Zuchwil»,3,0,19890009-3
+361,1990-04-01,Volksinitiative «für ein autobahnfreies Knonauer Amt»,3,0,19890009-2
+364,1990-04-01,Bundesgesetz über die Organisation der Bundesrechtspflege,2,0,19850040-1
+360,1990-04-01,Volksinitiative «für eine autobahnfreie Landschaft zwischen Murten und Yverdon»,3,0,19890009-1
+368,1990-09-23,Bundesgesetz über den Strassenverkehr,2,1,19860043-1
+366,1990-09-23,Volksinitiative «Stopp dem Atomkraftwerkbau (Moratorium)»,3,1,19890032-1
+367,1990-09-23,Bundesbeschluss über den Energieartikel in der Bundesverfassung,1,1,19870075-1
+365,1990-09-23,Volksinitiative «für den Ausstieg aus der Atomenergie»,3,0,19890032-2
+370,1991-03-03,Volksinitiative «zur Förderung des öffentlichen Verkehrs»,3,0,19890015-1
+369,1991-03-03,Bundesbeschluss über die Herabsetzung des Stimm- und Wahlrechtsalters auf 18 Jahre,1,1,19900220-1
+372,1991-06-02,Militärstrafgesetz (MStG),2,1,19870043-1
+371,1991-06-02,Bundesbeschluss über die Neuordnung der Bundesfinanzen,1,0,19890041-1
+373,1992-02-16,Volksinitiative «für eine finanziell tragbare Krankenversicherung (Krankenkasseninitiative)»,3,0,19880014-1
+374,1992-02-16,Volksinitiative «zur drastischen und schrittweisen Einschränkung der Tierversuche (Weg vom Tierversuch!)»,3,0,19890010-1
+379,1992-05-17,Gegenentwurf der Bundesversammlung zur Volksinitiative «gegen Missbräuche der Fortpflanzungs- und Gentechnologie beim Menschen»,4,1,19890067-1
+376,1992-05-17,Bundesgesetz über die Mitwirkung der Schweiz an den Institutionen von Bretton Woods,2,1,19910035-2
+375,1992-05-17,Bundesbeschluss über den Beitritt der Schweiz zu den Institutionen von Bretton Woods,2,1,19910035-1
+380,1992-05-17,Bundesbeschluss über die Einführung eines Zivildienstes für Dienstverweigerer,4,1,19910408-1
+378,1992-05-17,Volksinitiative «zur Rettung unserer Gewässer»,3,0,19870036-2
+377,1992-05-17,"Bundesgesetz über den Schutz der Gewässer (Gewässerschutzgesetz, GSchG)",2,1,19870036-1
+381,1992-05-17,"Schweizerisches Strafgesetzbuch, Militärstrafgesetz (Strafbare Handlungen gegen die sexuelle Integrität)",2,1,19850047-2
+382,1992-09-27,Bundesbeschluss über den Bau der schweizerischen Eisenbahn-Alpentransversale (Alpentransit-Beschluss),2,1,19900040-1
+386,1992-09-27,Bundesgesetz über die Stempelabgaben,2,1,19910426-1
+383,1992-09-27,"Bundesgesetz über den Geschäftsverkehr der Bundesversammlung sowie über die Form, die Bekanntmachung und das Inkrafttreten ihrer Erlasse (Geschäftsverkehrsgesetz)",2,1,19900228-1
+384,1992-09-27,Bundesgesetz über die Bezüge der Mitglieder der eidgenössischen Räte und über die Beiträge an die Fraktionen (Entschädigungsgesetz),2,0,19900228-5
+387,1992-09-27,Bundesgesetz über das bäuerliche Bodenrecht,2,1,19880066-1
+385,1992-09-27,Bundesgesetz über die Beiträge an die Infrastrukturkosten der Fraktionen und der Mitglieder der eidgenössischen Räte (Infrastrukturgesetz),2,0,19900062-1
+388,1992-12-06,Bundesbeschluss über den Europäischen Wirtschaftsraum (EWR),1,0,19920052-1
+391,1993-03-07,Volksinitiative «zur Abschaffung der Tierversuche»,3,0,19920032-1
+389,1993-03-07,Bundesgesetz über die Erhöhung des Treibstoffzolles,2,1,19920038-4
+390,1993-03-07,Bundesbeschluss über die Aufhebung des Spielbankenverbots,1,1,19920038-6
+393,1993-06-06,Volksinitiative «für eine Schweiz ohne neue Kampfflugzeuge»,3,0,19920080-1
+392,1993-06-06,Volksinitiative «40 Waffenplätze sind genug - Umweltschutz auch beim Militär»,3,0,19910051-1
+394,1993-09-26,Bundesbeschluss gegen den Waffenmissbrauch,1,1,19910406-1
+395,1993-09-26,Bundesbeschluss über den Anschluss des bernischen Amtsbezirks Laufen an den Kanton Basel-Landschaft,1,1,19930009-1
+397,1993-09-26,Bundesbeschluss über befristete Massnahmen gegen die Kostensteigerung in der Krankenversicherung,2,1,19920067-1
+396,1993-09-26,Volksinitiative «für einen arbeitsfreien Bundesfeiertag» (1. August-Initiative),3,1,19920050-1
+398,1993-09-26,Bundesbeschluss über Massnahmen in der Arbeitslosenversicherung,2,1,19930010-1
+404,1993-11-28,Volksinitiative «zur Verminderung der Tabakprobleme»,3,0,19920031-2
+403,1993-11-28,Volksinitiative «zur Verminderung der Alkoholprobleme»,3,0,19920031-1
+399,1993-11-28,Bundesbeschluss über die Finanzordnung,1,1,19910079-1
+402,1993-11-28,Bundesbeschluss über besondere Verbrauchssteuern,1,1,19910079-3
+401,1993-11-28,Bundesbeschluss über Massnahmen zur Erhaltung der Sozialversicherung,1,1,19910079-4
+400,1993-11-28,Bundesbeschluss über einen Beitrag zur Gesundung der Bundesfinanzen,1,1,19910079-2
+408,1994-02-20,Volksinitiative «zum Schutze des Alpengebietes vor dem Transitverkehr»,3,1,19920016-1
+407,1994-02-20,Bundesbeschluss über die Einführung einer leistungs- oder verbrauchsabhängigen Schwerverkehrsabgabe,1,1,19920012-3
+409,1994-02-20,Luftfahrtgesetz,2,1,19910076-1
+405,1994-02-20,Bundesbeschluss über die Weiterführung der Nationalstrassenabgabe,1,1,19920012-2
+406,1994-02-20,Bundesbeschluss über die Weiterführung der Schwerverkehrsabgabe,1,1,19920012-1
+411,1994-06-12,Bundesbeschluss über die Revision der Bürgerrechtsregelung in der Bundesverfassung (Erleichterte Einbürgerung für junge Ausländer),1,0,19920079-1
+410,1994-06-12,Bundesbeschluss über einen Kulturförderungsartikel in der Bundesverfassung (Art. 27septies BV),1,0,19910073-1
+412,1994-06-12,Bundesgesetz über schweizerische Truppen für friedenserhaltende Operationen (BTFO),2,0,19920071-1
+414,1994-09-25,Schweizerisches Strafgesetzbuch Militärstrafgesetz,2,1,19920029-2
+413,1994-09-25,Bundesbeschluss über die Aufhebung der Verbilligung von inländischem Brotgetreide aus Zolleinnahmen,1,1,19930078-1
+415,1994-12-04,Bundesgesetz über die Krankenversicherung (KVG),2,1,19910071-1
+416,1994-12-04,Volksinitiative «für eine gesunde Krankenversicherung»,3,0,19910070-1
+417,1994-12-04,Bundesgesetz über Zwangsmassnahmen im Ausländerrecht,2,1,19930128-1
+419,1995-03-12,Milchwirtschaftsbeschluss 1988 (MWB 1988),2,0,19930039-1
+421,1995-03-12,Bundesbeschluss über eine Ausgabenbremse,1,1,19930078-2
+420,1995-03-12,Landwirtschaftsgesetz,2,0,19920416-1
+418,1995-03-12,Gegenentwurf der Bundesversammlung zur Volksinitiative «für eine umweltgerechte und leistungsfähige bäuerliche Landwirtschaft»,4,0,19920070-1
+423,1995-06-25,Volksinitiative «zum Ausbau von AHV und IV»,3,0,19930042-1
+424,1995-06-25,Bundesgesetz über den Erwerb von Grundstücken durch Personen im Ausland,2,0,19940032-1
+422,1995-06-25,Bundesgesetz über die Alters- und Hinterlassenenversicherung,2,1,19900021-1
+426,1996-03-10,Bundesbeschluss über den Uebertritt der bernischen Gemeinde Vellerat zum Kanton Jura,1,1,19950056-1
+428,1996-03-10,Bundesbeschluss über die Aufhebung der Pflicht zum Ankauf von Brennapparaten und zur Uebernahme von Branntwein,1,1,19940073-2
+425,1996-03-10,Bundesbeschluss über die Revision des Sprachenartikels in der Bundesverfassung (Art. 116 BV),1,1,19910019-1
+427,1996-03-10,Bundesbeschluss über die Aufhebung der kantonalen Zuständigkeit im Bereich der persönlichen Ausrüstung der Armeeangehörigen,1,0,19940073-1
+429,1996-03-10,Bundesbeschluss über die Aufhebung der Bundesbeiträge an Bahnhofparkplatzanlagen,1,1,19940073-3
+431,1996-06-09,Regierungs- und Verwaltungsorganisationsgesetz (RVOG),2,0,19930075-1
+430,1996-06-09,Gegenentwurf der Bundesversammlung zur Volksinitiative «Bauern und Konsumenten - für eine naturnahe Landwirtschaft»,4,1,19920070-2
+433,1996-12-01,"Bundesgesetz über die Arbeit in Industrie, Gewerbe und Handel",2,0,19940013-1
+432,1996-12-01,Volksinitiative «gegen die illegale Einwanderung»,3,0,19940061-2
+434,1997-06-08,Volksinitiative «EU-Beitrittsverhandlungen vors Volk!»,3,0,19950061-1
+436,1997-06-08,Bundesbeschluss über die Aufhebung des Pulverregals,1,1,19960034-1
+435,1997-06-08,Volksinitiative «für ein Verbot der Kriegsmaterialausfuhr»,3,0,19950015-1
+438,1997-09-28,Volksinitiative «Jugend ohne Drogen»,3,0,19950046-1
+437,1997-09-28,Bundesbeschluss über die Finanzierung der Arbeitslosenversicherung,2,0,19960079-2
+439,1998-06-07,Bundesbeschluss über Massnahmen zum Haushaltausgleich,1,1,19970042-1
+440,1998-06-07,Volksinitiative «zum Schutz von Leben und Umwelt vor Genmanipulation (Gen-Schutz-Initiative)»,3,0,19950044-1
+441,1998-06-07,Volksinitiative «S.o.S. - Schweiz ohne Schnüffelpolizei»,3,0,19940028-1
+444,1998-09-27,Volksinitiative «für die 10. AHV-Revision ohne Erhöhung des Rentenalters»,3,0,19970008-1
+442,1998-09-27,Bundesgesetz über eine leistungsabhängige Schwerverkehrsabgabe,2,1,19960077-1
+443,1998-09-27,Volksinitiative «für preisgünstige Nahrungsmittel und ökologische Bauernhöfe»,3,0,19960056-1
+448,1998-11-29,"Bundesgesetz über die Arbeit in Industrie, Gewerbe und Handel",2,1,19970447-1
+445,1998-11-29,Bundesbeschluss über Bau und Finanzierung von Infrastrukturvorhaben des öffentlichen Verkehrs,1,1,19960059-1
+447,1998-11-29,Volksinitiative «für eine vernünftige Drogenpolitik»,3,0,19950046-2
+446,1998-11-29,"Bundesbeschluss über einen befristet geltenden, neuen Getreideartikel",1,1,19960060-2
+450,1999-02-07,Bundesbeschluss betreffend die Verfassungsbestimmung über die Transplantationsmedizin,1,1,19970035-1
+449,1999-02-07,Bundesbeschluss über die Änderung der Voraussetzung für die Wählbarkeit in den Bundesrat,1,1,19930452-1
+451,1999-02-07,Volksinitiative «Wohneigentum für alle»,3,0,19950038-1
+452,1999-02-07,Bundesgesetz über die Raumplanung,2,1,19960040-1
+453,1999-04-18,Bundesbeschluss über eine neue Bundesverfassung,1,1,19960091-1
+457,1999-06-13,Bundesgesetz über die Invalidenversicherung,2,0,19970052-1
+458,1999-06-13,Bundesgesetz über die Mutterschaftsversicherung,2,0,19970055-1
+456,1999-06-13,Bundesbeschluss über die ärztliche Verschreibung von Heroin,2,1,19980015-1
+454,1999-06-13,Asylgesetz,2,1,19950088-1
+455,1999-06-13,Bundesbeschluss über dringliche Massnahmen im Asyl- und Ausländerbereich,2,1,19980028-1
+459,2000-03-12,Bundesbeschluss über die Justizreform,1,1,19960091-5
+460,2000-03-12,Volksinitiative «für Beschleunigung der direkten Demokratie (Behandlungsfristen für Volksinitiativen in Form eines ausgearbeiteten Entwurfs)»,3,0,19980065-1
+461,2000-03-12,Volksinitiative «für eine gerechte Vertretung der Frauen in den Bundesbehörden (Initiative 3. März)»,3,0,19970031-1
+462,2000-03-12,Volksinitiative «zum Schutze des Menschen vor Manipulationen in der Fortpflanzungstechnologie (Initiative für menschenwürdige Fortpflanzung [FMF])»,3,0,19960058-1
+463,2000-03-12,Volksinitiative «für die Halbierung des motorisierten Strassenverkehrs zur Erhaltung und Verbesserung von Lebensräumen (Verkehrshalbierungs-Initiative)»,3,0,19970078-1
+464,2000-05-21,Bundesbeschluss über die Genehmigung der sektoriellen Abkommen zwischen der Schweizerischen Eidgenossenschaft einerseits und der Europäischen Gemeinschaft andererseits,2,1,19990028-1
+465.1,2000-09-24,Volksinitiative «für einen Solarrappen»,3,0,19970028-2
+465.2,2000-09-24,Verfassungsartikel über eine Förderabgabe für erneuerbare Energien,4,0,19970028-3
+466,2000-09-24,Verfassungsartikel über eine Energielenkungsabgabe für die Umwelt,4,0,19970028-1
+467,2000-09-24,Volksinitiative «für eine Regelung der Zuwanderung»,3,0,19970060-1
+468,2000-09-24,Volksinitiative «Mehr Rechte für das Volk dank dem Referendum mit Gegenvorschlag»,3,0,19990021-1
+471,2000-11-26,Volksinitiative «Sparen beim Militär und der Gesamtverteidigung - für mehr Frieden und zukunftsgerichtete Arbeitsplätze»,3,0,19990022-1
+472,2000-11-26,Volksinitiative «für tiefere Spitalkosten»,3,0,19990072-1
+470,2000-11-26,Volksinitiative «für ein flexibles Rentenalter ab 62 für Frau und Mann»,3,0,19970088-2
+469,2000-11-26,Volksinitiative «für eine Flexibilisierung der AHV - gegen die Erhöhung des Rentenalters für Frauen»,3,0,19970088-1
+473,2000-11-26,Bundespersonalgesetz,2,1,19980076-1
+475,2001-03-04,Volksinitiative «für tiefere Arzneimittelpreise»,3,0,19990043-1
+474,2001-03-04,Volksinitiative «Ja zu Europa!»,3,0,19990011-2
+476,2001-03-04,Volksinitiative «für mehr Verkehrssicherheit durch Tempo 30 innerorts mit Ausnahmen (Strassen für alle)»,3,0,20000034-1
+477,2001-06-10,Bundesgesetz über die Armee und die Militärverwaltung (Bewaffnung),2,1,19990084-2
+478,2001-06-10,Bundesgesetz über die Armee und die Militärverwaltung (Ausbildungszusammenarbeit),2,1,19990084-1
+479,2001-06-10,Bundesbeschluss über die Aufhebung der Genehmigungspflicht für die Errichtung von Bistümern,1,1,20000415-1
+480,2001-12-02,Bundesbeschluss über eine Schuldenbremse,1,1,20000060-1
+481,2001-12-02,Volksinitiative «für eine gesicherte AHV - Energie statt Arbeit besteuern!»,3,0,19980029-1
+484,2001-12-02,Volksinitiative «für eine Kapitalgewinnsteuer»,3,0,20000087-1
+482,2001-12-02,Volksinitiative «für eine glaubwürdige Sicherheitspolitik und eine Schweiz ohne Armee»,3,0,20000058-1
+483,2001-12-02,Volksinitiative «Solidarität schafft Sicherheit: Für einen freiwilligen zivilen Friedensdienst (ZFD)»,3,0,20000059-1
+485,2002-03-03,Volksinitiative «für den Beitritt der Schweiz zur Organisation der Vereinten Nationen (UNO)»,3,1,20000093-1
+486,2002-03-03,Volksinitiative «für eine kürzere Arbeitszeit»,3,0,20000056-1
+488,2002-06-02,Volksinitiative «für Mutter und Kind - für den Schutz des ungeborenen Kindes und für die Hilfe an seine Mutter in Not»,3,0,20000089-1
+487,2002-06-02,"Schweizerisches Strafgesetzbuch (Schwangerschaftsabbruch, Fristenregelung)",2,1,19930434-1
+489.1,2002-09-22,Volksinitiative «Überschüssige Goldreserven in den AHV-Fonds»,3,0,20010020-1
+489.2,2002-09-22,"Gold für AHV, Kantone und Stiftung (Gegenvorschlag zur Goldinitiative)",4,0,20010020-2
+490,2002-09-22,Elektrizitätsmarktgesetz,2,0,19990055-1
+492,2002-11-24,Bundesgesetz über die obligatorische Arbeitslosenversicherung und die Insolvenzentschädigung,2,1,20010019-1
+491,2002-11-24,Volksinitiative «gegen Asylrechtsmissbrauch»,3,0,20010036-1
+494,2003-02-09,Bundesgesetz über die Anpassung der kantonalen Beiträge an Spitalbehandlungen,2,1,20020402-1
+493,2003-02-09,Bundesbeschluss über die Änderung der Volksrechte,1,1,19990436-1
+499,2003-05-18,Volksinitiative «Gesundheit muss bezahlbar bleiben»,3,0,20000046-1
+503,2003-05-18,Volksinitiative «für ein ausreichendes Berufsbildungsangebot»,3,0,20000086-1
+495,2003-05-18,Bundesgesetz über die Armee und die Militärverwaltung (Armee XXI),2,1,20010065-1
+502,2003-05-18,Volksinitiative «MoratoriumPlus - Für die Verlängerung des Atomkraftwerk-Baustopps und die Begrenzung des Atomrisikos»,3,0,20010022-1
+500,2003-05-18,Volksinitiative «Gleiche Rechte für Behinderte»,3,0,20000094-1
+497,2003-05-18,Volksinitiative «Ja zu fairen Mieten»,3,0,19990076-1
+496,2003-05-18,Bundesgesetz über den Bevölkerungsschutz und den Zivilschutz,2,1,20010062-1
+501,2003-05-18,Volksinitiative «Strom ohne Atom - Für eine Energiewende und die schrittweise Stilllegung der Atomkraftwerke»,3,0,20010022-2
+498,2003-05-18,Volksinitiative «für einen autofreien Sonntag pro Jahreszeit - ein Versuch für vier Jahre»,3,0,19990094-1
+505,2004-02-08,Obligationenrecht (Miete). Änderung,2,0,19990076-2
+504,2004-02-08,Gegenentwurf zur Volksinitiative «Avanti - für sichere und leistungsfähige Autobahnen»,4,0,20020040-1
+506,2004-02-08,"Volksinitiative «Lebenslange Verwahrung für nicht therapierbare, extrem gefährliche Sexual- und Gewaltstraftäter»",3,1,20010025-1
+509,2004-05-16,"Bundesgesetz über die Änderung von Erlassen im Bereich der Ehe- und Familienbesteuerung, der Wohneigentumsbesteuerung und der Stempelabgaben",2,0,20010021-1
+508,2004-05-16,Bundesbeschluss über die Finanzierung der AHV/IV durch Anhebung der Mehrwertsteuersätze,1,0,20000014-1
+507,2004-05-16,Bundesgesetz über die Alters- und Hinterlassenenversicherung (11. AHV-Revision),2,0,20000014-2
+513,2004-09-26,"Bundesgesetz über die Erwerbsersatzordnung für Dienstleistende in Armee, Zivildienst und Zivilschutz (Erwerbsersatzgesetz, EOG)",2,1,20010426-1
+510,2004-09-26,Bundesbeschluss über die ordentliche Einbürgerung sowie über die erleichterte Einbürgerung junger Ausländerinnen und Ausländer der zweiten Generation,1,0,20010076-1
+512,2004-09-26,Volksinitiative 'Postdienst für alle',3,0,20030026-1
+511,2004-09-26,Bundesbeschluss über den Bürgerrechtserwerb von Ausländerinnen und Ausländern der dritten Generation,1,0,20010076-3
+515,2004-11-28,Bundesbeschluss über eine neue Finanzordnung,1,1,20020078-1
+514,2004-11-28,Bundesbeschluss zur Neugestaltung des Finanzausgleichs und der Aufgabenteilung zwischen Bund und Kantonen (NFA),1,1,20010074-1
+516,2004-11-28,Bundesgesetz über die Forschung an embryonalen Stammzellen,2,1,20020083-1
+518,2005-06-05,"Bundesgesetz über die eingetragene Partnerschaft gleichgeschlechtlicher Paare (Partnerschaftsgesetz, PartG)",2,1,20020090-1
+517,2005-06-05,Bundesbeschluss über die Genehmigung und die Umsetzung der bilateralen Abkommen zwischen der Schweiz und der EU über die Assoziierung an Schengen und Dublin,2,1,20040063-6
+519,2005-09-25,Bundesbeschluss über die Ausdehnung des Personenfreizügigkeitsabkommens auf die neuen EU-Staaten und über die Revision der flankierenden Massnahmen,2,1,20040066-1
+520,2005-11-27,Volksinitiative «für Lebensmittel aus gentechnikfreier Landwirtschaft»,3,1,20040054-1
+521,2005-11-27,Arbeitsgesetz (Ladenöffnungszeiten in Zentren des öffentlichen Verkehrs),2,1,20020422-1
+522,2006-05-21,Bundesbeschluss über die Neuordnung der Verfassungsbestimmungen zur Bildung,1,1,19970419-1
+524,2006-09-24,Bundesgesetz über die Ausländerinnen und Ausländer,2,1,20020024-1
+523,2006-09-24,Volksinitiative «Nationalbankgewinne für die AHV»,3,0,20030049-2
+525,2006-09-24,Änderung des Asylgesetzes,2,1,20020060-1
+526,2006-11-26,Bundesgesetz über die Zusammenarbeit mit den Staaten Osteuropas,2,1,20040021-1
+527,2006-11-26,Bundesgesetz über die Familienzulagen,2,1,19910411-1
+528,2007-03-11,Volksinitiative «Für eine soziale Einheitskrankenkasse»,3,0,20050089-1
+529,2007-06-17,Bundesgesetz über die Invalidenversicherung,2,1,20050052-1
+531,2008-02-24,Bundesgesetz über die Verbesserung der steuerlichen Rahmenbedingungen für unternehmerische Tätigkeiten und Investitionen,2,1,20050058-1
+530,2008-02-24,Volksinitiative «Gegen Kampfjetlärm in Tourismusgebieten»,3,0,20060073-1
+534,2008-06-01,Verfassungsartikel «Für Qualität und Wirtschaftlichkeit in der Krankenversicherung»,4,0,20050055-1
+532,2008-06-01,Volksinitiative «Für demokratische Einbürgerungen»,3,0,20060086-1
+533,2008-06-01,Volksinitiative «Volkssouveränität statt Behördenpropaganda»,3,0,20050054-1
+538,2008-11-30,Volksinitiative «für eine vernünftige Hanf-Politik mit wirksamem Jugendschutz»,3,0,20060106-1
+537,2008-11-30,Volksinitiative «Verbandsbeschwerderecht: Schluss mit der Verhinderungspolitik - Mehr Wachstum für die Schweiz!»,3,0,20070046-1
+535,2008-11-30,Volksinitiative «für die Unverjährbarkeit pornografischer Straftaten an Kindern»,3,1,20070063-1
+539,2008-11-30,Bundesgesetz über die Betäubungsmittel und psychotropen Stoffe,2,1,20050470-1
+536,2008-11-30,Volksinitiative «für ein flexibles AHV-Alter»,3,0,20060107-1
+540,2009-02-08,Bundesbeschluss über die Genehmigung der Weiterführung des Freizügigkeitsabkommens zwischen der Schweiz und der Europäischen Gemeinschaft sowie über die Genehmigung des Protokolls über die Ausdehnung des Abkommens auf Bulgarien und Rumänien,2,1,20080029-1
+541,2009-05-17,Verfassungsartikel «Zukunft mit Komplementärmedizin» (Gegenentwurf zur Volksinitiative «Ja zur Komplementärmedizin»),4,1,20060066-1
+542,2009-05-17,Bundesbeschluss über die Genehmigung und Umsetzung des Notenaustauschs zwischen der Schweiz und der EG betreffend die Übernahme der Verordnung über biometrische Pässe und Reisedokumente,2,1,20070039-1
+544,2009-09-27,Bundesbeschluss über den Verzicht auf die Einführung der allgemeinen Volksinitiative,1,1,20060458-1
+543,2009-09-27,Bundesbeschluss über eine befristete Zusatzfinanzierung der Invalidenversicherung durch Anhebung der Mehrwertsteuersätze,1,1,20050053-1
+547,2009-11-29,Volksinitiative «Gegen den Bau von Minaretten»,3,1,20080061-1
+545,2009-11-29,Bundesbeschluss zur Schaffung einer Spezialfinanzierung für Aufgaben im Luftverkehr,1,1,20070066-1
+546,2009-11-29,Volksinitiative «Für ein Verbot von Kriegsmaterial-Exporten»,3,0,20080060-1
+550,2010-03-07,"Bundesgesetz über die berufliche Alters-, Hinterlassenen- und Invalidenvorsorge (BVG) (Mindestumwandlungssatz)",2,0,20060092-1
+548,2010-03-07,Verfassungsartikel über die Forschung am Menschen,1,1,20070072-1
+549,2010-03-07,Volksinitiative «Gegen Tierquälerei und für einen besseren Rechtsschutz der Tiere»,3,0,20080036-1
+551,2010-09-26,"Bundesgesetzes über die obligatorische Arbeitslosenversicherung und die Insolvenzentschädigung (Arbeitslosenversicherungsgesetz, AVIG)",2,1,20080062-1
+552.1,2010-11-28,"Volksinitiative ""Für die Ausschaffung krimineller Ausländer (Ausschaffungsinitiative)""",3,1,20090060-2
+553,2010-11-28,"Volksinitiative ""Für faire Steuern. Stopp dem Missbrauch beim Steuerwettbewerb (Steuergerechtigkeits-Initiative)""",3,0,20090031-1
+552.2,2010-11-28,Bundesbeschluss über die Aus- und Wegweisung krimineller Ausländerinnen und Ausländer (direkter Gegenentwurf zur Auschaffungsinitiative),4,0,20090060-3
+554,2011-02-13,"Volksinitiative ""Für den Schutz vor Waffengewalt""",3,0,20090098-1
+558,2012-03-11,Bundesbeschluss über die Regelung der Geldspiele zugunsten gemeinnütziger Zwecke,4,1,20100093-2
+557,2012-03-11,"Volksinitiative ""6 Wochen Ferien für alle""",3,0,20100057-1
+559,2012-03-11,Bundesgesetz über die Buchpreisbindung,2,0,20040430-1
+555,2012-03-11,"Volksinitiative ""Schluss mit uferlosem Bau von Zweitwohnungen!""",3,1,20080073-1
+556,2012-03-11,"Volksinitiative ""Für ein steuerlich begünstigtes Bausparen""",3,0,20090074-1
+560,2012-06-17,Volksinitiative «Eigene vier Wände dank Bausparen»,3,0,20090074-2
+562,2012-06-17,Änderung des Bundesgesetzes über die Krankenversicherung (Managed Care),2,0,20040062-1
+561,2012-06-17,Volksinitiative «Für die Stärkung der Volksrechte in der Aussenpolitik (Staatsverträge vors Volk!)»,3,0,20100090-1
+565,2012-09-23,Volksinitiative «Schutz vor Passivrauchen»,3,0,20110025-1
+564,2012-09-23,Volksinitiative «Sicheres Wohnen im Alter»,3,0,20100060-1
+563,2012-09-23,Bundesbeschluss über die Jugendmusikförderung (Gegenentwurf zur Volksinitiative «jugend + musik»),4,1,20090095-2
+566,2012-11-25,Tierseuchengesetz (TSG),2,1,20110059-1
+567,2013-03-03,Bundesbeschluss über die Familienpolitik,1,0,20070419-1
+568,2013-03-03,Volksinitiative «gegen die Abzockerei»,3,1,20080080-1
+569,2013-03-03,Bundesgesetz über die Raumplanung,2,1,20100019-1
+571,2013-06-09,Asylgesetz (AsylG) (Dringliche Änderungen des Asylgesetzes),2,1,20100052-3
+570,2013-06-09,Volksinitiative «Volkswahl des Bundesrates»,3,0,20120056-1
+574,2013-09-22,Arbeitsgesetz (Liberalisierung der Öffnungszeiten von Tankstellenshops),2,1,20090462-1
+573,2013-09-22,Bundesgesetz über die Bekämpfung übertragbarer Krankheiten des Menschen (Epidemiengesetz),2,1,20100107-1
+572,2013-09-22,Volksinitiative «Ja zur Aufhebung der Wehrpflicht»,3,0,20120073-1
+575,2013-11-24,Volksinitiative «1:12 – Für gerechte Löhne»,3,0,20120017-1
+576,2013-11-24,"Volksinitiative «Familieninitiative: Steuerabzüge auch für Eltern, die ihre Kinder selber betreuen»",3,0,20120068-1
+577,2013-11-24,Bundesgesetz über die Abgabe für die Benützung von Nationalstrassen,2,0,20120018-2
+578,2014-02-09,Bundesbeschluss über die Finanzierung und den Ausbau der Eisenbahninfrastruktur (direkter Gegenentwurf zur zurückgezogenen Volksinitiative «Für den öffentlichen Verkehr»),4,1,20120016-2
+579,2014-02-09,Volksinitiative «Abtreibungsfinanzierung ist Privatsache – Entlastung der Krankenversicherung durch Streichung der Kosten des Schwangerschaftsabbruchs aus der obligatorischen Grundversicherung»,3,0,20120052-1
+580,2014-02-09,Volksinitiative «Gegen Masseneinwanderung»,3,1,20120098-1
+583,2014-05-18,Volksinitiative «Für den Schutz fairer Löhne (Mindestlohn-Initiative)»,3,0,20130014-1
+584,2014-05-18,Bundesgesetz über den Fonds zur Beschaffung des Kampfflugzeugs Gripen,2,0,20120085-2
+582,2014-05-18,Volksinitiative «Pädophile sollen nicht mehr mit Kindern arbeiten dürfen»,3,1,20120076-2
+581,2014-05-18,Bundesbeschluss über die medizinische Grundversorgung (direkter Gegenentwurf zur zurückgezogenen Volksinitiative «Ja zur Hausarztmedizin»),4,1,20110062-2
+586,2014-09-28,Volksinitiative «Für eine öffentliche Krankenkasse»,3,0,20130079-1
+585,2014-09-28,Volksinitiative «Schluss mit der MwSt-Diskriminierung des Gastgewerbes!»,3,0,20120074-1
+587,2014-11-30,Volksinitiative «Schluss mit den Steuerprivilegien für Millionäre (Abschaffung der Pauschalbesteuerung)»,3,0,20130057-1
+589,2014-11-30,Volksinitiative «Rettet unser Schweizer Gold (Gold-Initiative)»,3,0,20130093-1
+588,2014-11-30,Volksinitiative «Stopp der Überbevölkerung – zur Sicherung der natürlichen Lebensgrundlagen»,3,0,20130086-1
+590,2015-03-08,Volksinitiative «Familien stärken! Steuerfreie Kinder- und Ausbildungszulagen»,3,0,20130084-1
+591,2015-03-08,Volksinitiative «Energie- statt Mehrwertsteuer»,3,0,20130095-1
+595,2015-06-14,Bundesgesetz über Radio und Fernsehen,2,1,20130048-1
+593,2015-06-14,Volksinitiative «Stipendieninitiative»,3,0,20130058-1
+592,2015-06-14,Bundesbeschluss über die Änderung der Verfassungsbestimmung zur Fortpflanzungsmedizin und Gentechnologie im Humanbereich,1,1,20130051-1
+594,2015-06-14,Volksinitiative «Millionen-Erbschaften besteuern für unsere AHV (Erbschaftssteuerreform)»,3,0,20130107-1
