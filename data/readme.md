@@ -3,7 +3,7 @@
 
 |Dataset | Codebook link | Download link|
 |------------|-----------|------------|
-|Bills        |  https://github.com/julienmjaquet/Legpro/blob/master/main%20codebook.md#bills-dataset-detailed-information     |               |
+|Bills        |  [a](https://github.com/julienmjaquet/Legpro/blob/master/main%20codebook.md#bills-dataset-detailed-information)     |               |
 | Proposals |           |      |
 | Preparliamentary phase |      |       |
 | Consultations |        |       |
