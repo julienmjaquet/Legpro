@@ -263,6 +263,8 @@ To be completed.
 | 2104 | [21. Public Lands and Water Management](#publiclandsandwater) | [Water resources development and research](#waterresources)                                                                 |
 | 2199 | [21. Public Lands and Water Management](#publiclandsandwater) | [Other](#other21)                                                                                                           |
 
+[↥ back to top](#swiss-topics-codebook)
+
 # 5. Swiss Topics Codebook: full version (includes examples)
 
 
