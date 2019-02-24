@@ -8,7 +8,7 @@
 2. [Acknowledgements](#2-acknowledgements)
 3. [Suggested citation](#3-suggested-citation)
 4. [Swiss Topics Codebook: simplified version (only codes)](#4-swiss-topics-codebook-simplified-version-only-codes)
-5. [Swiss Topics Codebook - full version (includes examples)](#5-codebook)
+5. [Swiss Topics Codebook: full version (includes examples)](#5-swiss-topics-codebook-full-version-includes-examples)
 6. [CPA Master Codebook notes](#6-cpamaster)
 
 # 1. Summary
@@ -263,7 +263,7 @@ To be completed.
 | 2104 | [21. Public Lands and Water Management](#publiclandsandwater) | [Water resources development and research](#waterresources)                                                                 |
 | 2199 | [21. Public Lands and Water Management](#publiclandsandwater) | [Other](#other21)                                                                                                           |
 
-# Swiss Topics Codebook - full version (includes examples){#codebook}
+# 5. Swiss Topics Codebook: full version (includes examples)
 
 
 - [`1.  Macroeconomics`](#macroeconomics)
