@@ -289,6 +289,7 @@ To be completed.
 - [`20. Government and Public Administration`](#20-government-and-public-administration)
 - [`21. Public Lands and Water Management`](#21-public-lands-and-water-management)
 
+[↥ back to top](#swiss-topics-codebook)
 
 ### 1. `Macroeconomics`
 
@@ -370,6 +371,7 @@ See also:
 
 Cost of regulatory requirements, short-term economic policy, stimulus programs (without reference to other macroeconomic aspects like e.g. unemployment).
 
+[↥ back to top](#swiss-topics-codebook)
 
 ### 2. `Civil Rights and Discrimination`
 
@@ -455,6 +457,7 @@ See also:
 -	[Identity cards and passports as a means of domestic identification and police law enforcement](#other12) (code 1299)  
 -	[Identity cards and passports as a means of international identification](#diplomacy) (code 1929)  
 
+[↥ back to top](#swiss-topics-codebook)
 
 ### 3. `Health`
 
@@ -584,6 +587,7 @@ See also:
 -	[Abortion as a civil rights issue](#privacy) (code 208)  
 - [Allocation and distribution of organs](#regulationsmedical) (code 321)  
 
+[↥ back to top](#swiss-topics-codebook)
 
 ### 4. `Agriculture`
 
@@ -651,6 +655,7 @@ Agricultural law, trade of veterinary medicine
 See also:  
 -	[Rural Property Law](#ruraleconomicdevelopment) (code 1405)
 
+[↥ back to top](#swiss-topics-codebook)
 
 ### 5. `Labor and Employment`
 
@@ -736,6 +741,7 @@ See also:
 
 Mass lay-offs, severance schemes in the case of lay-offs, encouragement to work part-time and share working time, costs of processes in the field of working law, pay slip, employment statistics.
 
+[↥ back to top](#swiss-topics-codebook)
 
 ### 6. `Education, culture and sports`
 
@@ -801,6 +807,7 @@ Research center for professional education, research poles on educational resear
 
 Fight against illiteracy, shortage of teachers, youth policy, youth parliament, schools for Swiss abroad, and inauguration of educational institutions.
 
+[↥ back to top](#swiss-topics-codebook)
 
 ### 7. `Environment`
 
@@ -876,6 +883,7 @@ Inter-disciplinary alpine research, evaluation of technological hazards.
 
 Ecological assessment of companies, ecological tax reform, Agenda 21, mountain tourism?s impact on the environment, responsibility in environmental law. 
 
+[↥ back to top](#swiss-topics-codebook)
 
 ### 8. `Energy`
 
@@ -939,6 +947,7 @@ Research about renewable energies
 #### `899 Other`{#other8}
 
 
+[↥ back to top](#swiss-topics-codebook)
 
 ### 9. `Immigration and integration`
 
@@ -984,6 +993,7 @@ Active and passive right to vote of foreigners.
 
 Comparable, disaggregated statistics by nationality.
 
+[↥ back to top](#swiss-topics-codebook)
 
 ### 10. `Transportation`
 
@@ -1048,6 +1058,7 @@ See also:
 
 Funiculars, cable cars, "gentle mobility", paths.
  
+[↥ back to top](#swiss-topics-codebook)
 
 
 ### 12. `Law and Order`
@@ -1174,6 +1185,8 @@ See also:
 - [Domestic military deployment in relation with natural disasters](#domesticdisasterrelief) (code 1523)   
 - [Military protection of asylum centers](#refugeesasylum) (code 931)  
 
+[↥ back to top](#swiss-topics-codebook)
+
 
 ### 13. `Social Policy`
 
@@ -1217,6 +1230,8 @@ See also:
 #### `1399 Other`{#other13}
 
 Legal process in the field of social insurances.
+
+[↥ back to top](#swiss-topics-codebook)
 
 
 ### 14. `Urban and Regional Policies`
@@ -1281,6 +1296,7 @@ Special planning law, land use, associations? right to appeal in matters of land
 
 #### `1499 Other`{#other14}
 
+[↥ back to top](#swiss-topics-codebook)
 
 
 ### 15. `Domestic Commerce`
@@ -1386,6 +1402,8 @@ Bank secrecy and tax evasion, bank secrecy and legal assistance in criminal and 
 
 Surveillance of foundations, e-commerce, informal sector, controlling of precious metal trading, business operating hours, weights and measures
 
+[↥ back to top](#swiss-topics-codebook)
+
 
 ### 16. `Defense`
 
@@ -1484,6 +1502,7 @@ Claims for compensatory damages against the army, shooting accidents and compens
 
 Guard duty with loaded weapon, revisions of the military penal code (without revisions of the penal code), referendum against military expenses, military justice, aggressions against soldiers in uniform, extremism in the army. 
 
+[↥ back to top](#swiss-topics-codebook)
 
 
 ### 17. `Science, Technology and Communications`
@@ -1528,7 +1547,7 @@ See also:
 
 #### `1708 Meteorology`{#meteorology}
 
-M?t?oSuisse, climatology,...
+MeteoSuisse, climatology,...
 
 #### `1709 Computer industry`{#computerindustry}
 
@@ -1548,6 +1567,8 @@ See also:
 #### `1799 Other`{#other17}
 
 Regulation of nanotechnology, geoinformation. 
+
+[↥ back to top](#swiss-topics-codebook)
 
 
 ### 18. `Foreign Trade`
@@ -1723,6 +1744,8 @@ See also:
 -	[Assets of potentates](#banksecrecy) (code 1550)  
 -	[Trade negotiations and trade agreements](#tradeagreements) (code 1802)  
 
+[↥ back to top](#swiss-topics-codebook)
+
 
 ### 20. `Government and Public Administration`
 
@@ -1857,6 +1880,8 @@ Swiss National Day holiday.
 
 Summertime, total revision of the Swiss Federal Constitution, revision and approval of cantonal constitutions, demographic policy, service public (general)
 
+[↥ back to top](#swiss-topics-codebook)
+
 
 ### 21. `Public Lands and Water Management`
 
@@ -1885,6 +1910,8 @@ Forest policy, forest protection and forest dieback, forestry, forest police.
 
 
 #### `2199 Other`{#other21}
+
+[↥ back to top](#swiss-topics-codebook)
 
 
 # 6. CPA Master Codebook notes
@@ -1938,6 +1965,8 @@ Forest policy, forest protection and forest dieback, forestry, forest police.
 | 1952 | [International Affairs](#internationalaffairs)                       | [Swiss membership/participation to supranational organizations: Other IOs](#swissio)                            | 1926   |
 | 1953 | [International Affairs](#internationalaffairs)                       | [Swiss membership/participation to supranational organizations: Finance and Economic development IOs](#swissiofinanceeconomic) | 1906   |
 
+[↥ back to top](#swiss-topics-codebook)
+
 
 ### 2. `US topics not used in the Swiss topics codebook`
 
@@ -1949,6 +1978,8 @@ Forest policy, forest protection and forest dieback, forestry, forest police.
 | 1598 | Banking, Finance, and Domestic Commerce | Research and Development                                  |
 | 2102 | Public lands and Natural resources      | Indigenous Affairs                                        |
 | 2105 | Public lands and Natural resources      | Dependencies and Territorial Issues (includes Devolution) |
+
+[↥ back to top](#swiss-topics-codebook)
 
 
 ### 3. `Swiss-Master codebook wording correspondence`
