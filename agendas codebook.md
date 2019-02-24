@@ -1888,8 +1888,8 @@ Forest policy, forest protection and forest dieback, forestry, forest police.
 # 6. CPA Master Codebook notes
 
 1. [`Swiss-Master codebook topics correspondence`](#1-swiss-master-codebook-topics-correspondence)
-2. [`Master/US topics not used in the Swiss topics codebook`](#masterustopicsnotused)
-3. [`Swiss-Master codebook wording correspondence`](#wordingcorrespondence)
+2. [`Master/US topics not used in the Swiss topics codebook`](#2-master-us-topics-not-used-in-the-swiss-topics-codebook)
+3. [`Swiss-Master codebook wording correspondence`](#3-swiss-master-codebook-wording-correspondence)
 
 ### 1. `Swiss-Master codebook topics correspondence`
 
@@ -1937,7 +1937,7 @@ Forest policy, forest protection and forest dieback, forestry, forest police.
 | 1953 | [International Affairs](#internationalaffairs)                       | [Swiss membership/participation to supranational organizations: Finance and Economic development IOs](#swissiofinanceeconomic) | 1906   |
 
 
-### 2. `Master/US topics not used in the Swiss topics codebook`{#masterustopicsnotused}
+### 2. `Master/US topics not used in the Swiss topics codebook`
 
 | #    | General category                        | Subtopic                                                  |
 |------|-----------------------------------------|-----------------------------------------------------------|
@@ -1949,8 +1949,7 @@ Forest policy, forest protection and forest dieback, forestry, forest police.
 | 2105 | Public lands and Natural resources      | Dependencies and Territorial Issues (includes Devolution) |
 
 
-### 3. `Swiss-Master codebook wording correspondence`{#wordingcorrespondence}
-
+### 3. `Swiss-Master codebook wording correspondence`
 
 | Swiss Code | Swiss wording                                                                                               | Master-US wording                                                                                                                       |
 |------------|-------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------|
