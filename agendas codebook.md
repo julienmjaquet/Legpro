@@ -6,11 +6,11 @@
 <b><a href="https://www.unige.ch/sciences-societe/speri/membres/template-pp-2-ass5/">Julien Jaquet</a></b><br>
 
 1. [Summary](#1-summary)
-2. [Acknowledgements](#acknowledgements)
-3. [Suggested citation](#citation)
-4. [Swiss Topics Codebook - simplified version (only codes)](#codebook2)
-5. [Swiss Topics Codebook - full version (includes examples)](#codebook)
-6. [CPA Master Codebook notes](#cpamaster)
+2. [Acknowledgements](#2-acknowledgements)
+3. [Suggested citation](#3-suggested-citation)
+4. [Swiss Topics Codebook - simplified version (only codes)](#4-codebook2)
+5. [Swiss Topics Codebook - full version (includes examples)](#5-codebook)
+6. [CPA Master Codebook notes](#6-cpamaster)
 
 # 1. Summary
 
@@ -21,10 +21,10 @@ This Swiss topics codebook includes a list of categories' names and codes, which
 For **some** of the subcategories the examples provided by the original US codebook have been retained in this document **(when they are relevant in the Swiss context) but most of the** illustrations **originate in** the Swiss case.
 
 
-# Acknowledgements{#acknowledgements}
+# 2. Acknowledgements
 This document is an output of the project Agenda-Setting in Switzerland funded by the [Swiss National Science Foundation](http://www.snf.ch/en/Pages/default.aspx) (ref. 105511-119245/1), and part of the EUROCORES project The Politics of Attention: West European Politics in Times of Change, funded by the [European Science Foundation](http://www.esf.org/home.html).
 
-# Suggested citation{#citation}
+# 3. Suggested citation
 
 To be completed 
 
