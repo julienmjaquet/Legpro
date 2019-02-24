@@ -290,25 +290,25 @@ To be completed.
 
 ### 1. `Macroeconomics`
 
-- [`100 General`](#general)
-- [`101 Inflation, prices and interest rates`](#inflation)
-- [`103 Unemployment rate`](#unemployment)
-- [`104 Monetary policy and the Swiss national bank (SNB)`](#monetarypolicysnb)
-- [`105 National budget and debt`](#budgetdebt)
-- [`107 Taxation`](#taxation)
-- [`108 Industrial policy`](#unemployment)
-- [`110 Price control`](#pricecontrol)
-- [`199 Other`](#other)
+- [`100 General`](#100-general)
+- [`101 Inflation, prices and interest rates`](#101-inflation-prices-and-interest-rates)
+- [`103 Unemployment rate`](#103-unemployment-rate)
+- [`104 Monetary policy and the Swiss national bank (SNB)`](#104-monetary-policy-and-the-swiss-national-bank-snb)
+- [`105 National budget and debt`](#105-national-budget-and-debt)
+- [`107 Taxation`](#107-taxation)
+- [`108 Industrial policy`](#108-industrial-policy)
+- [`110 Price control`](#110-price-control)
+- [`199 Other`](#199-other)
 
-#### `100 General`{#general}
+#### `100 General`
 
 General propositions to improve the economic framework, strengthening the economic stability, report on the state of the economy (e.g. by IMF, OECD, KOF Swiss Economic Institute), general economic policy.
 
-#### `101 Inflation, prices and interest rates`{#inflation}
+#### `101 Inflation, prices and interest rates`
 
 Method to measure the consumer price index.
 
-#### `103 Unemployment rate`{#unemployment}
+#### `103 Unemployment rate`
 
 Unemployment and employment statistics.
 
@@ -316,11 +316,11 @@ See also:
 -	[Measures concerning the labor market](#laborandemployment) (category 5)  
 -	[Unemployment insurance](#unemploymentinsurance) (code 512)  
 
-#### `104 Monetary policy and the Swiss national bank (SNB)`{#monetarypolicysnb}
+#### `104 Monetary policy and the Swiss national bank (SNB)`
 
 Distribution of the SNB's profits, standing rules of the SNB, gold reserves of the SNB.
 
-#### `105 National budget and debt`{#budgetdebt}
+#### `105 National budget and debt`
 
 The confederation?s finances, the "debt brake", limitation of expenses, granting of subventions (without mentioning the domain), introduction of a financial/budgetary referendum, state quota (ratio of government expenditure to GDP), annual federal budged budget plans, debt reduction, reduction of the structural deficit.
 
@@ -328,7 +328,7 @@ See also:
 -	[Swiss Federal Audit Office](#executivebureaucratic) (code 2002)  
 -	[Finance Delegation of the Federal Assembly](#executivebureaucratic) (code 2002)  
 
-#### `107 Taxation`{#taxation}
+#### `107 Taxation`
 
 Value-added-tax (VAT), reform of the VAT, direct federal tax, fiscal quote, fiscal amnesty, tax exemption, taxation models (e.g. flat tax, regressive tax, degressive tax, Easy Swiss Tax, year taxation principle), tax fines hereditary, tax appeal of Switzerland as a business location, double taxation agreements, administrative assistance in tax matters, harmonization of direct cantonal and municipal taxes, fiscal sovereignty, simplification of the fiscal system, fiscal federalism and tax competition, capital gains taxes, turnover tax, tax cuts, tax declaration, Swiss Federal Tax Administration (FTA), inheritance tax, gift tax, tax domicile, introduction of fiscal referendum, criminalization of tax evasion (reforms as to make it illegal).
 
@@ -347,7 +347,7 @@ See also:
 -	[Petroleum tax](#oilandgas) (code 803)  
 -	[Banking system (taxes on bank assets, taxation of savings income agreements)](#bankingsystem) (code 1501)  
 
-#### `108 Industrial policy`{#unemployment}
+#### `108 Industrial policy`
 
 Crisis in the iron and steel industry, crisis in the textile industry, broad strategy of management/privatization/nationalization of industries, taxation of small/medium sized companies (as part of a broad strategy to change industrial policy).
 
@@ -357,14 +357,14 @@ See also:
 -	[Programs for economic development of urban regions](#urbaneconomicdevelopment) (code 1403)  
 -	[Programs for economic development of rural or mountainous regions](#ruraleconomicdevelopment) (code 1405)  
 
-#### `110 Price control`{#pricecontrol}
+#### `110 Price control`
 
 Price monitoring, price freeze of public service tariffs.
 
 See also:  
 - [Medicine price monitoring](#costsmedicine) (code 335)
 
-#### `199 Other`{#other}
+#### `199 Other`
 
 Cost of regulatory requirements, short-term economic policy, stimulus programs (without reference to other macroeconomic aspects like e.g. unemployment).
 
