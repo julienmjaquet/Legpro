@@ -32,7 +32,7 @@ To be completed.
 
 | Code | General category                                                     | Subtopic                                                                                               |
 |------|----------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------|
-| 100  | [1. Macroeconomic](#macroeconomics)                  | [General](#general)                                                                                    |
+| 100  | [1. Macroeconomic](#1-macroeconomics)                  | [General](#general)                                                                                    |
 | 101  | [1. Macroeconomic](#macroeconomics)                  | [Inflation, prices and interest rates](#inflation)                                                     |
 | 103  | [1. Macroeconomic](#macroeconomics)                  | [Unemployment rate](#unemployment)                                                                     |
 | 104  | [1. Macroeconomic](#macroeconomics)                  | [Monetary policy and the Swiss national bank (SNB)](#monetarypolicysnb)                                |
@@ -266,7 +266,7 @@ To be completed.
 # 5. Swiss Topics Codebook: full version (includes examples)
 
 
-- [`1.  Macroeconomics`](#macroeconomics)
+- [`1.  Macroeconomics`](#1-macroeconomics)
 - [`2.  Civil Rights and Discrimination`](#rights)
 - [`3.  Health`](#health)
 - [`4.  Agriculture`](#agriculture)
@@ -288,7 +288,7 @@ To be completed.
 - [`21. Public Lands and Water Management`](#publiclandsandwater)
 
 
-### 1. `Macroeconomics`{#macroeconomics}
+### 1. `Macroeconomics`
 
 - [`100 General`](#general)
 - [`101 Inflation, prices and interest rates`](#inflation)
