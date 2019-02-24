@@ -9,7 +9,7 @@
 3. [Suggested citation](#3-suggested-citation)
 4. [Swiss Topics Codebook: simplified version (only codes)](#4-swiss-topics-codebook-simplified-version-only-codes)
 5. [Swiss Topics Codebook: full version (includes examples)](#5-swiss-topics-codebook-full-version-includes-examples)
-6. [CPA Master Codebook notes](#6-cpamaster)
+6. [CPA Master Codebook notes](#6-cpa-master-codebook-notes)
 
 # 1. Summary
 
@@ -1885,7 +1885,7 @@ Forest policy, forest protection and forest dieback, forestry, forest police.
 #### `2199 Other`{#other21}
 
 
-# CPA Master Codebook notes{#cpamaster}
+# 6. CPA Master Codebook notes
 
 1. [`Swiss-Master codebook topics correspondence`](#swissmastercorrespondence)
 2. [`Master/US topics not used in the Swiss topics codebook`](#masterustopicsnotused)
