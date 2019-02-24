@@ -5,14 +5,14 @@
 <b><a href="https://applicationspub.unil.ch/interpub/noauth/php/Un/UnPers.php?PerNum=1161654&LanCode=37">Anke Tresch</a></b><br>
 <b><a href="https://www.unige.ch/sciences-societe/speri/membres/template-pp-2-ass5/">Julien Jaquet</a></b><br>
 
-1. [Summary](#summary)
+1. [Summary](#1-summary)
 2. [Acknowledgements](#acknowledgements)
 3. [Suggested citation](#citation)
 4. [Swiss Topics Codebook - simplified version (only codes)](#codebook2)
 5. [Swiss Topics Codebook - full version (includes examples)](#codebook)
 6. [CPA Master Codebook notes](#cpamaster)
 
-# Summary{#summary}
+# 1. Summary
 
 The Research Project "Agenda-Setting in Switzerland" represents the Swiss contribution to the international ["Comparative Policy Agendas" project](http://www.comparativeagendas.org). In order to quantitatively assess the relative share of political attention to different policy issues, national teams systematically collect and code political objects in accordance to a topics codebook initially developed in the United States by the [Policy Agendas project](http://www.policyagendas.org) leaded by Frank Baumgartner and Bryan D. Jones. Largely based on the US classification scheme, the Swiss topics codebook incorporates a small number of national specificities to ultimately comprehend 20 main categories and more than 200 subcategories. 
 
