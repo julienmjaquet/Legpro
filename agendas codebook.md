@@ -3,7 +3,6 @@
 <b>Authors:</b><br>
 <b><a href="http://roygava.com/">Roy Gava</a></b><br>
 <b><a href="https://applicationspub.unil.ch/interpub/noauth/php/Un/UnPers.php?PerNum=1161654&LanCode=37">Anke Tresch</a></b><br>
-<b><a href="https://www.unige.ch/sciences-societe/speri/membres/template-pp-2-ass5/">Julien Jaquet</a></b><br>
 
 1. [Summary](#1-summary)
 2. [Acknowledgements](#2-acknowledgements)
