@@ -1,4 +1,4 @@
-# Topics Codebook
+# Swiss Topics Codebook
 
 <b>Authors:</b><br>
 <b><a href="http://roygava.com/">Roy Gava</a></b><br>
@@ -25,8 +25,7 @@ This document is an output of the project Agenda-Setting in Switzerland funded b
 
 # 3. Suggested citation
 
-To be completed 
-
+To be completed. 
 
 # Swiss Topics Codebook - simplified version (only codes){#codebook2}
 
