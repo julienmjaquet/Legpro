@@ -33,14 +33,14 @@ To be completed.
 | Code | General category                                                     | Subtopic                                                                                               |
 |------|----------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------|
 | 100  | [1. Macroeconomic](#1-macroeconomics)                  | [General](#general)                                                                                    |
-| 101  | [1. Macroeconomic](#macroeconomics)                  | [Inflation, prices and interest rates](#inflation)                                                     |
-| 103  | [1. Macroeconomic](#macroeconomics)                  | [Unemployment rate](#unemployment)                                                                     |
-| 104  | [1. Macroeconomic](#macroeconomics)                  | [Monetary policy and the Swiss national bank (SNB)](#monetarypolicysnb)                                |
-| 105  | [1. Macroeconomic](#macroeconomics)                  | [National budget and debt](#budgetdebt)                                                                |
-| 107  | [1. Macroeconomic](#macroeconomics)                  | [Taxation](#taxation)                                                       |
-| 108  | [1. Macroeconomic](#macroeconomics)                  | [Industrial policy](#unemployment)                                                                     |
-| 110  | [1. Macroeconomic](#macroeconomics)                  | [Price control](#pricecontrol)                                                                         |
-| 199  | [1. Macroeconomic](#macroeconomics)                  | [Other](#other)                                                                                        |
+| 101  | [1. Macroeconomic](#1-macroeconomics)                  | [Inflation, prices and interest rates](#inflation)                                                     |
+| 103  | [1. Macroeconomic](#1-macroeconomics)                  | [Unemployment rate](#unemployment)                                                                     |
+| 104  | [1. Macroeconomic](#1-macroeconomics)                  | [Monetary policy and the Swiss national bank (SNB)](#monetarypolicysnb)                                |
+| 105  | [1. Macroeconomic](#1-macroeconomics)                  | [National budget and debt](#budgetdebt)                                                                |
+| 107  | [1. Macroeconomic](#1-macroeconomics)                  | [Taxation](#taxation)                                                       |
+| 108  | [1. Macroeconomic](#1-macroeconomics)                  | [Industrial policy](#unemployment)                                                                     |
+| 110  | [1. Macroeconomic](#1-macroeconomics)                  | [Price control](#pricecontrol)                                                                         |
+| 199  | [1. Macroeconomic](#1-macroeconomics)                  | [Other](#other)                                                                                        |
 | 200  | [2. Civil Rights and Discrimination](#rights)     | [General](#general2)                                                                                   |
 | 201  | [2. Civil Rights and Discrimination](#rights)     | [Ethnic minority and racial group discrimination](#minority)                                           |
 | 202  | [2. Civil Rights and Discrimination](#rights)     | [Gender and sexual orientation discrimination](#genderdiscrimination)                                  |
@@ -267,25 +267,25 @@ To be completed.
 
 
 - [`1.  Macroeconomics`](#1-macroeconomics)
-- [`2.  Civil Rights and Discrimination`](#rights)
-- [`3.  Health`](#health)
-- [`4.  Agriculture`](#agriculture)
-- [`5.  Labor and Employment`](#laborandemployment)
-- [`6.  Education, culture and sports`](#education)
-- [`7.  Environment`](#environment)
-- [`8.  Energy`](#energy)
-- [`9.  Immigration and integration`](#immigration)
-- [`10. Transportation`](#transportation)
-- [`12. Law and Order`](#lawandorder)
-- [`13. Social Policy`](#socialpolicy)
-- [`14. Urban and Regional Policies`](#urbanandregional)
-- [`15. Domestic Commerce`](#economicactivities)
-- [`16. Defense`](#defense)
-- [`17. Science, Technology and Communications`](#science)
-- [`18. Foreign Trade`](#foreigntrade)
-- [`19. International Affairs`](#internationalaffairs)
-- [`20. Government and Public Administration`](#governmentadmin)
-- [`21. Public Lands and Water Management`](#publiclandsandwater)
+- [`2.  Civil Rights and Discrimination`](#2-civil-rights-and-discrimination)
+- [`3.  Health`](#3-health)
+- [`4.  Agriculture`](#4-agriculture)
+- [`5.  Labor and Employment`](#5-labor-and-employment)
+- [`6.  Education, culture and sports`](#6-education-culture-and-sports)
+- [`7.  Environment`](#7-environment)
+- [`8.  Energy`](#8-energy)
+- [`9.  Immigration and integration`](#9-immigration-and-integration)
+- [`10. Transportation`](#10-transportation)
+- [`12. Law and Order`](#12-law-and-order)
+- [`13. Social Policy`](#13-social-policy)
+- [`14. Urban and Regional Policies`](#14-urban-and-regional-policies)
+- [`15. Domestic Commerce`](#15-domestic-commerce)
+- [`16. Defense`](#16-defense)
+- [`17. Science, Technology and Communications`](#17-science-technology-and-communications)
+- [`18. Foreign Trade`](#18-foreign-trade)
+- [`19. International Affairs`](#19-international-affairs)
+- [`20. Government and Public Administration`](#20-government-and-public-administration)
+- [`21. Public Lands and Water Management`](#21-public-lands-and-water-management)
 
 
 ### 1. `Macroeconomics`
@@ -369,7 +369,7 @@ See also:
 Cost of regulatory requirements, short-term economic policy, stimulus programs (without reference to other macroeconomic aspects like e.g. unemployment).
 
 
-### 2. `Civil Rights and Discrimination`{#rights}
+### 2. `Civil Rights and Discrimination`
 
 - [`200 General`](#general2)
 - [`201 Ethnic minority and racial group discrimination`](#minority)
@@ -454,7 +454,7 @@ See also:
 -	[Identity cards and passports as a means of international identification](#diplomacy) (code 1929)  
 
 
-### 3. `Health`{#health}
+### 3. `Health`
 
 - [`300 General`](#general3)
 - [`301 Organization of the health care system`](#reformswisshealthcare)
@@ -583,7 +583,7 @@ See also:
 - [Allocation and distribution of organs](#regulationsmedical) (code 321)  
 
 
-### 4. `Agriculture`{#agriculture}
+### 4. `Agriculture`
 
 - [`400 General`](#general4)
 - [`401 Agricultural trade`](#agriculturaltrade)
@@ -650,7 +650,7 @@ See also:
 -	[Rural Property Law](#ruraleconomicdevelopment) (code 1405)
 
 
-### 5. `Labor and Employment`{#laborandemployment}
+### 5. `Labor and Employment`
 
 - [`500 General`](#general5)
 - [`501 Workers safety and protection`](#workingenvironment)
@@ -735,7 +735,7 @@ See also:
 Mass lay-offs, severance schemes in the case of lay-offs, encouragement to work part-time and share working time, costs of processes in the field of working law, pay slip, employment statistics.
 
 
-### 6. `Education, culture and sports`{#education}
+### 6. `Education, culture and sports`
 
 - [`600 General`](#general6)
 - [`601 Higher education`](#highereducation)
@@ -800,7 +800,7 @@ Research center for professional education, research poles on educational resear
 Fight against illiteracy, shortage of teachers, youth policy, youth parliament, schools for Swiss abroad, and inauguration of educational institutions.
 
 
-### 7. `Environment`{#environment}
+### 7. `Environment`
 
 - [`700 General`](#general7)
 - [`701 Drinking water`](#drinkingwater)
@@ -875,7 +875,7 @@ Inter-disciplinary alpine research, evaluation of technological hazards.
 Ecological assessment of companies, ecological tax reform, Agenda 21, mountain tourism?s impact on the environment, responsibility in environmental law. 
 
 
-### 8. `Energy`{#energy}
+### 8. `Energy`
 
 - [`800 General`](#general8)
 - [`801 Nuclear energy`](#nuclearenergy)
@@ -938,7 +938,7 @@ Research about renewable energies
 
 
 
-### 9. `Immigration and integration`{#immigration}
+### 9. `Immigration and integration`
 
 - [`900 General`](#general9)
 - [`930 Migration regulation`](#migrationregulation)
@@ -983,7 +983,7 @@ Active and passive right to vote of foreigners.
 Comparable, disaggregated statistics by nationality.
 
 
-### 10. `Transportation`{#transportation}
+### 10. `Transportation`
 
 - [`1000 General`](#general10)
 - [`1001 Public transportation`](#masstransportation)
@@ -1048,7 +1048,7 @@ Funiculars, cable cars, "gentle mobility", paths.
  
 
 
-### 12. `Law and Order`{#lawandorder}
+### 12. `Law and Order`
 
 - [`1200 General`](#general12)
 - [`1201 Law and Order Agencies`](#police)
@@ -1173,7 +1173,7 @@ See also:
 - [Military protection of asylum centers](#refugeesasylum) (code 931)  
 
 
-### 13. `Social Policy`{#socialpolicy}
+### 13. `Social Policy`
 
 - [`1300 General`](#general13)
 - [`1302 Assistance for low-income people`](#assistlowincome)
@@ -1217,7 +1217,7 @@ See also:
 Legal process in the field of social insurances.
 
 
-### 14. `Urban and Regional Policies`{#urbanandregional}
+### 14. `Urban and Regional Policies`
 
 - [`1400 General`](#general14)
 - [`1401 Urban housing`](#urbanhousing)
@@ -1281,7 +1281,7 @@ Special planning law, land use, associations? right to appeal in matters of land
 
 
 
-### 15. `Domestic Commerce`{#economicactivities}
+### 15. `Domestic Commerce`
 
 - [`1500 General`](#general15)
 - [`1501 Banking system and regulation`](#bankingsystem)
@@ -1385,7 +1385,7 @@ Bank secrecy and tax evasion, bank secrecy and legal assistance in criminal and 
 Surveillance of foundations, e-commerce, informal sector, controlling of precious metal trading, business operating hours, weights and measures
 
 
-### 16. `Defense`{#defense}
+### 16. `Defense`
 
 - [`1600 General`](#general16)
 - [`1602 Security policy and military commitments`](#securitypolicy)
@@ -1484,7 +1484,7 @@ Guard duty with loaded weapon, revisions of the military penal code (without rev
 
 
 
-### 17. `Science, Technology and Communications`{#science}
+### 17. `Science, Technology and Communications`
 
 - [`1700 General`](#general17)
 - [`1701 Space issues`](#spaceexploration)
@@ -1548,7 +1548,7 @@ See also:
 Regulation of nanotechnology, geoinformation. 
 
 
-### 18. `Foreign Trade`{#foreigntrade}
+### 18. `Foreign Trade`
 
 
 - [`1800 General`](#general18)
@@ -1600,7 +1600,7 @@ Turnover tax on currency operations, overvaluation of the Swiss franc.
 Customs enclaves.
 
 
-### 19. `International Affairs`{#internationalaffairs}
+### 19. `International Affairs`
 
 - [`1900 General`](#general19)
 - [`1901 Foreign aid`](#foreignaid)
@@ -1722,7 +1722,7 @@ See also:
 -	[Trade negotiations and trade agreements](#tradeagreements) (code 1802)  
 
 
-### 20. `Government and Public Administration`{#governmentadmin}
+### 20. `Government and Public Administration`
 
 - [`2000 General`](#general20)
 - [`2001 Intergovernmental relations`](#confederationcantonscommunes)
@@ -1856,7 +1856,7 @@ Swiss National Day holiday.
 Summertime, total revision of the Swiss Federal Constitution, revision and approval of cantonal constitutions, demographic policy, service public (general)
 
 
-### 21. `Public Lands and Water Management`{#publiclandsandwater}
+### 21. `Public Lands and Water Management`
 
 - [`2100 General`](#general21)
 - [`2101 National parks and conservation areas`](#nationalparks)
