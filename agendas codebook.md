@@ -1887,11 +1887,11 @@ Forest policy, forest protection and forest dieback, forestry, forest police.
 
 # 6. CPA Master Codebook notes
 
-1. [`Swiss-Master codebook topics correspondence`](#swissmastercorrespondence)
+1. [`Swiss-Master codebook topics correspondence`](#1-swiss-master-codebook-topics-correspondence)
 2. [`Master/US topics not used in the Swiss topics codebook`](#masterustopicsnotused)
 3. [`Swiss-Master codebook wording correspondence`](#wordingcorrespondence)
 
-### 1. `Swiss-Master codebook topics correspondence`{#swissmastercorrespondence}
+### 1. `Swiss-Master codebook topics correspondence`
 
 | CH   | General category                            | Subtopic (CH)                                                                                       | Master |
 |------|---------------------------------------------|-----------------------------------------------------------------------------------------------------|--------|
