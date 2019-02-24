@@ -7,7 +7,7 @@
 1. [Summary](#1-summary)
 2. [Acknowledgements](#2-acknowledgements)
 3. [Suggested citation](#3-suggested-citation)
-4. [Swiss Topics Codebook - simplified version (only codes)](#4-swiss-topics-codebook-simplified-version-only-codes)
+4. [Swiss Topics Codebook: simplified version (only codes)](#4-swiss-topics-codebook:-simplified-version-(only-codes))
 5. [Swiss Topics Codebook - full version (includes examples)](#5-codebook)
 6. [CPA Master Codebook notes](#6-cpamaster)
 
