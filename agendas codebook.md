@@ -52,14 +52,14 @@ To be completed.
 | 209  | [2. Civil Rights and Discrimination](#rights)     | [Anti-government activities](#antigov)                                                                 |
 | 250  | [2. Civil Rights and Discrimination](#rights)     | [State and religious communities relations](#religiousrelations)                                       |
 | 299  | [2. Civil Rights and Discrimination](#rights)     | [Other](#other2)                                                                                       |
-| 300  | [3. Health](#health)                                                 | [General](#general3)                                                                                   |
-| 301  | [3. Health](#health)                                                 | [Organization of the health care system](#reformswisshealthcare)    |
-| 302  | [3. Health](#health)                                                 | [Costs and funding of the health care system](#costsswisshealthcare)                                 |
-| 321  | [3. Health](#health)                                                 | [Regulations of the drug industry, medical devices and clinical labs](#regulationsmedical)             |
-| 322  | [3. Health](#health)                                                 | [Health care infrastructure](#healthfacilities)                                         |
-| 323  | [3. Health](#health)                                                 | [Regulation of health insurance companies](#regulationhealthinsurance) |
-| 324  | [3. Health](#health)                                                 | [Medical liability, fraud and abuse](#medicalliability)                                                |
-| 325  | [3. Health](#health)                                                 | [Health personnel, education and training](#healtheducation)                                            |
+| 300  | [3. Health](#3-health)                                                 | [General](#general3)                                                                                   |
+| 301  | [3. Health](#3-health)                                                 | [Organization of the health care system](#reformswisshealthcare)    |
+| 302  | [3. Health](#3-health)                                                 | [Costs and funding of the health care system](#costsswisshealthcare)                                 |
+| 321  | [3. Health](#3-health)                                                 | [Regulations of the drug industry, medical devices and clinical labs](#regulationsmedical)             |
+| 322  | [3. Health](#3-health)                                                 | [Health care infrastructure](#healthfacilities)                                         |
+| 323  | [3. Health](#3-health)                                                 | [Regulation of health insurance companies](#regulationhealthinsurance) |
+| 324  | [3. Health](#3-health)                                                 | [Medical liability, fraud and abuse](#medicalliability)                                                |
+| 325  | [3. Health](#3-health)                                                 | [Health personnel, education and training](#healtheducation)                                            |
 | 331  | [3. Health](#health)                                                 | [Disease prevention and health promotion](#preventionhealth)                            |
 | 332  | [3. Health](#health)                                                 | [Children health](#nutrition)                                                     |
 | 333  | [3. Health](#health)                                                 | [Mental health](#mentalhealth)                                                      |
