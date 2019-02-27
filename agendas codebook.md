@@ -186,20 +186,20 @@ To be completed.
 | 1524 | [15. Domestic Commerce](#15-domestic-commerce) | [Tourism](#1524-tourism)                                                                                    |
 | 1525 | [15. Domestic Commerce](#15-domestic-commerce) | [Consumer protection](#1525-consumer-protection)                                                             |
 | 1526 | [15. Domestic Commerce](#15-domestic-commerce) | [Gambling](#1526-gambling)                                                                                  |
-| 1550 | [15. Domestic Commerce](#15-domestic-commerce) | [Bank secrecy](#banksecrecy)                                                                           |
-| 1599 | [15. Domestic Commerce](#15-domestic-commerce) | [Other](#other15)                                                                                      |
-| 1600 | [16. Defense](#16-defense)                                              | [General](#general16)                                                                                  |
-| 1602 | [16. Defense](#16-defense)                                              | [Security policy and military commitments](#securitypolicy)                                            |
-| 1603 | [16. Defense](#16-defense)                                              | [Military intelligence and espionage](#militaryintelligence)                                           |
-| 1604 | [16. Defense](#16-defense)                                              | [Military Logistics](#administrationmilitary)                        |
-| 1605 | [16. Defense](#16-defense)                                              | [Arms control and nuclear Nonproliferation](#armscontrol)                                              |
-| 1606 | [16. Defense](#16-defense)                                              | [Military cooperation and arms export](#militarycooperation)                                        |
-| 1608 | [16. Defense](#16-defense)                                              | [Military personnel](#militarypersonnel)                                                               |
-| 1610 | [16. Defense](#16-defense)                                              | [Military procurement](#militaryprocurement)                                                           |
-| 1611 | [16. Defense](#16-defense)                                              | [Military installations](#militaryinstallations)                                                       |
-| 1612 | [16. Defense](#16-defense)                                              | [Military service and civil service](#militaryserviceandcivilservice)                                  |
-| 1614 | [16. Defense](#16-defense)                                              | [Defense and environment](#defenseandenvironment)                                                      |
-| 1615 | [16. Defense](#16-defense)                                              | [Protection and support service (P&S)](#protectionandsupport)                                          |
+| 1550 | [15. Domestic Commerce](#15-domestic-commerce) | [Bank secrecy](#1550-bank-secrecy)                                                                           |
+| 1599 | [15. Domestic Commerce](#15-domestic-commerce) | [Other](#1599-other)                                                                                      |
+| 1600 | [16. Defense](#16-defense)                                              | [General](#1600-general)                                                                                  |
+| 1602 | [16. Defense](#16-defense)                                              | [Security policy and military commitments](#1602-security-policy-and-military-commitments)                                            |
+| 1603 | [16. Defense](#16-defense)                                              | [Military intelligence and espionage](#1603-military-intelligence-and-espionage)                                           |
+| 1604 | [16. Defense](#16-defense)                                              | [Military Logistics](#1604-military-logistics)                        |
+| 1605 | [16. Defense](#16-defense)                                              | [Arms control and nuclear Nonproliferation](#1605-arms-control-and-nuclear-nonproliferation)                                              |
+| 1606 | [16. Defense](#16-defense)                                              | [Military cooperation and arms export](#1606-military-cooperation-and-arms-export)                                        |
+| 1608 | [16. Defense](#16-defense)                                              | [Military personnel](#1608-military-personnel)                                                               |
+| 1610 | [16. Defense](#16-defense)                                              | [Military procurement](#1610-military-procurement)                                                           |
+| 1611 | [16. Defense](#16-defense)                                              | [Military installations](#1611-military-installations)                                                       |
+| 1612 | [16. Defense](#16-defense)                                              | [Military service and civil service](#1612-military-service-and-civil-service)                                  |
+| 1614 | [16. Defense](#16-defense)                                              | [Defense and environment](#1614-defense-and-environment)                                                      |
+| 1615 | [16. Defense](#16-defense)                                              | [Protection and support service (P&S)](#1615-protection-and-support-service-P&S)                                          |
 | 1616 | [16. Defense](#16-defense)                                              | [Civilian military personal](#civilianmilitarypersonal)                                                |
 | 1617 | [16. Defense](#16-defense)                                              | [Oversight of defense contracts and contractors](#defensecontracts)                                    |
 | 1619 | [16. Defense](#16-defense)                                              | [Direct war related issues](#warissues)                                                                |
