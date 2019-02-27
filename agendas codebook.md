@@ -93,9 +93,9 @@ To be completed.
 | 599  | [5. Labor and Employment](#5-labor-and-employment)                       | [Other](#599-other)                                                                                       |
 | 600  | [6. Education, culture and sports](#6-education-culture-and-sports)                       | [General](#600-general)                                                                                   |
 | 601  | [6. Education, culture and sports](#6-education-culture-and-sports)                       | [Higher education](#601-higher-education)                                                                   |
-| 602  | [6. Education, culture and sports](#6-education-culture-and-sports)                       | [Nursery schools, primary and secondary education](#primarysecondaryeducation)                         |
-| 603  | [6. Education, culture and sports](#6-education-culture-and-sports)                       | [Underprivileged students and school failure](#supportstudents)               |
-| 604  | [6. Education, culture and sports](#6-education-culture-and-sports)                       | [Technical and vocational training](#vocationaltraining)                                               |
+| 602  | [6. Education, culture and sports](#6-education-culture-and-sports)                       | [Nursery schools, primary and secondary education](#602-nursery-schools-primary-and-secondary-education)                         |
+| 603  | [6. Education, culture and sports](#6-education-culture-and-sports)                       | [Underprivileged students and school failure](#603-underprivileged-students-and-school-failure)               |
+| 604  | [6. Education, culture and sports](#6-education-culture-and-sports)                       | [Technical and vocational training](#604-technical-and-vocational-training)                                               |
 | 606  | [6. Education, culture and sports](#6-education-culture-and-sports)                       | [Special education](#specialeducation)                                                                 |
 | 607  | [6. Education, culture and sports](#6-education-culture-and-sports)                       | [Education quality](#educationquality)                                        |
 | 609  | [6. Education, culture and sports](#6-education-culture-and-sports)                       | [Culture](#culture)                                                                                    |
