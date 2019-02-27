@@ -128,39 +128,39 @@ To be completed.
 | 931  | [9. Immigration and integration](#9-immigration-and-integration)                       | [Refugees and asylum](#931-refugee-and-asylum)                                                                 |
 | 932  | [9. Immigration and integration](#9-immigration-and-integration)                       | [Acquisition of Swiss citizenship](#932-acquisition-of-swiss-citizenship)                                                  |
 | 933  | [9. Immigration and integration](#9-immigration-and-integration)                       | [Immigrant's integration](#933-immigrants-integration)                                                      |
-| 934  | [9. Immigration and integration](#9-immigration-and-integration)                       | [Immigrant's voting rights](#immigrantsvotingrights)                                                   |
-| 999  | [9. Immigration and integration](#9-immigration-and-integration)                       | [Other](#other9)                                                                                       |
-| 1000 | [10. Transportation](#10-transportation)                                | [General](#general10)                                                                                  |
-| 1001 | [10. Transportation](#10-transportation)                                | [Public transportation](#masstransportation)                                                             |
-| 1002 | [10. Transportation](#10-transportation)                                | [Roads and highways](#roadshighways)                                                                   |
-| 1003 | [10. Transportation](#10-transportation)                                | [Aviation](#airports)                                                           |
-| 1005 | [10. Transportation](#10-transportation)                                | [Railroad](#railroad)                                                                   |
-| 1007 | [10. Transportation](#10-transportation)                                | [Maritime and fluvial transportation](#maritimetransport)                                                     |
-| 1010 | [10. Transportation](#10-transportation)                                | [Infrastructure development and public works](#infrastructuredevelopment)                              |
-| 1098 | [10. Transportation](#10-transportation)                                | [Research and development](#rdtransportation)                                                          |
-| 1099 | [10. Transportation](#10-transportation)                                | [Other](#other10)                                                                                      |
-| 1200 | [12. Law and Order](#12-law-and-order)                                    | [General](#general12)                                                                                  |
-| 1201 | [12. Law and Order](#12-law-and-order)                                    | [Law and Order Agencies](#police)                                                              |
-| 1202 | [12. Law and Order](#12-law-and-order)                                    | [Organized Crime](#organizedcrime)                                                                     |
-| 1203 | [12. Law and Order](#12-law-and-order)                                    | [Illegal drug](#drugtrafficking)                                            |
-| 1204 | [12. Law and Order](#12-law-and-order)                                    | [Judicial system](#judicialsystem)                                                                     |
-| 1205 | [12. Law and Order](#12-law-and-order)                                    | [Prisons](#prisons)                                                                                    |
-| 1206 | [12. Law and Order](#12-law-and-order)                                    | [Juvenile crime and the juvenile justice system](#juvenilecrime)                                       |
-| 1207 | [12. Law and Order](#12-law-and-order                                    | [Child abuse and pedophilia](#childabuse)                                                              |
-| 1208 | [12. Law and Order](#12-law-and-order)                                    | [Family law](#familylaw)                                                                               |
-| 1209 | [12. Law and Order](#12-law-and-order)                                    | [Police, fire and weapons control](#weaponscontrol)                                                    |
-| 1210 | [12. Law and Order](#12-law-and-order)                                    | [Criminal and civil code](#criminalcivilcode)                                                          |
-| 1211 | [12. Law and Order](#12-law-and-order)                                    | [Crime and Riots](#riotscrime)                                                                         |
-| 1212 | [12. Law and Order](#12-law-and-order)                                    | [Prostitution and people trafficking](#prostitution)                                                   |
-| 1213 | [12. Law and Order](#12-law-and-order)                                    | [White collar crime](#whitecollar)                                                                     |
-| 1227 | [12. Law and Order](#12-law-and-order)                                    | [Police and Other General Domestic Security Responses to Terrorism](#responsestoterrorism)            |
-| 1299 | [12. Law and Order](#12-law-and-order)                                    | [Other](#other12)                                                                                      |
-| 1300 | [13. Social Policy](#13-social-policy)                                   | [General](#general13)                                                                                  |
-| 1302 | [13. Social Policy](#13-social-policy)                                   | [Assistance for low-income people](#assistlowincome)                                                  |
-| 1303 | [13. Social Policy](#13-social-policy)                                   | [Assistance to elderly people](#assistelderly)                                                         |
-| 1304 | [13. Social Policy](#13-social-policy)                                   | [Assistance to the disabled and handicapped](#assistdisabled)                                          |
-| 1305 | [13. Social Policy](#13-social-policy)                                   | [Social services and volunteer associations](#socialservices)                                          |
-| 1350 | [13. Social Policy](#13-social-policy)                                   | [Public pensions (AHV/AVS)](#publicpensions)                                                           |
+| 934  | [9. Immigration and integration](#9-immigration-and-integration)                       | [Immigrant's voting rights](#934-immigrants-voting-rights)                                                   |
+| 999  | [9. Immigration and integration](#9-immigration-and-integration)                       | [Other](#999-other)                                                                                       |
+| 1000 | [10. Transportation](#10-transportation)                                | [General](#1000-general)                                                                                  |
+| 1001 | [10. Transportation](#10-transportation)                                | [Public transportation](#1001-public-transportation)                                                             |
+| 1002 | [10. Transportation](#10-transportation)                                | [Roads and highways](#1002-roads-and-highways)                                                                   |
+| 1003 | [10. Transportation](#10-transportation)                                | [Aviation](#1003-aviation)                                                           |
+| 1005 | [10. Transportation](#10-transportation)                                | [Railroad](#1005-railroad)                                                                   |
+| 1007 | [10. Transportation](#10-transportation)                                | [Maritime and fluvial transportation](#1007-maritime-and-fluvial-transportation)                                                     |
+| 1010 | [10. Transportation](#10-transportation)                                | [Infrastructure development and public works](#1010-infrastructure-development-and-public-works)                              |
+| 1098 | [10. Transportation](#10-transportation)                                | [Research and development](#1098-research-and-development)                                                          |
+| 1099 | [10. Transportation](#10-transportation)                                | [Other](#1099-other)                                                                                      |
+| 1200 | [12. Law and Order](#12-law-and-order)                                    | [General](#1200-general)                                                                                  |
+| 1201 | [12. Law and Order](#12-law-and-order)                                    | [Law and Order Agencies](#1201-law-and-order-agencies)                                                              |
+| 1202 | [12. Law and Order](#12-law-and-order)                                    | [Organized Crime](#1202-organized-crime)                                                                     |
+| 1203 | [12. Law and Order](#12-law-and-order)                                    | [Illegal drug](#1203-illegal-drug)                                            |
+| 1204 | [12. Law and Order](#12-law-and-order)                                    | [Judicial system](#1204-judicial-system)                                                                     |
+| 1205 | [12. Law and Order](#12-law-and-order)                                    | [Prisons](#1205-prisons)                                                                                    |
+| 1206 | [12. Law and Order](#12-law-and-order)                                    | [Juvenile crime and the juvenile justice system](#1206-juvenile-crime-and-the-juvenile-justice)                                       |
+| 1207 | [12. Law and Order](#12-law-and-order)                                    | [Child abuse and pedophilia](#1207-child-abuse-and-pedophilia)                                                              |
+| 1208 | [12. Law and Order](#12-law-and-order)                                    | [Family law](#1208-family-law)                                                                               |
+| 1209 | [12. Law and Order](#12-law-and-order)                                    | [Police, fire and weapons control](#1209-police-fire-and-weaspons-control)                                                    |
+| 1210 | [12. Law and Order](#12-law-and-order)                                    | [Criminal and civil code](#1210-criminal-and-civil-code)                                                          |
+| 1211 | [12. Law and Order](#12-law-and-order)                                    | [Crime and Riots](#1211-crime-and-riots)                                                                         |
+| 1212 | [12. Law and Order](#12-law-and-order)                                    | [Prostitution and people trafficking](#1212-prostitution-and-people-trafficking)                                                   |
+| 1213 | [12. Law and Order](#12-law-and-order)                                    | [White collar crime](#1213-white-collar-crime)                                                                     |
+| 1227 | [12. Law and Order](#12-law-and-order)                                    | [Police and Other General Domestic Security Responses to Terrorism](#1227-police-and-other-general-domestic-security-responses-to-terrorism)            |
+| 1299 | [12. Law and Order](#12-law-and-order)                                    | [Other](#1299-other)                                                                                      |
+| 1300 | [13. Social Policy](#13-social-policy)                                   | [General](#1300-general)                                                                                  |
+| 1302 | [13. Social Policy](#13-social-policy)                                   | [Assistance for low-income people](#1302-assistance-for-low-income-people)                                                  |
+| 1303 | [13. Social Policy](#13-social-policy)                                   | [Assistance to elderly people](#1303-assistance-to-elderly-people)                                                         |
+| 1304 | [13. Social Policy](#13-social-policy)                                   | [Assistance to the disabled and handicapped](#1304-assistance-to-the-disabled-and-handicapped)                                          |
+| 1305 | [13. Social Policy](#13-social-policy)                                   | [Social services and volunteer associations](#1305-social-services-and-volunteer-associations)                                          |
+| 1350 | [13. Social Policy](#13-social-policy)                                   | [Public pensions (AHV/AVS)](#1350-public-pensions-AHV-AVS)                                                           |
 | 1399 | [13. Social Policy](#13-social-policy)                                   | [Other](#other13)                                                                                      |
 | 1400 | [14. Urban and Regional Policies](#14-urban-and-regional-policies)                 | [General](#general14)                                                                                  |
 | 1401 | [14. Urban and Regional Policies](#14-urban-and-regional-policies)                 | [Urban housing](#urbanhousing)                                                                  |
