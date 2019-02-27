@@ -35,21 +35,21 @@ To be completed.
 | 100  | [1. Macroeconomic](#1-macroeconomics)                  | [General](#100-general)                                                                                    |
 | 101  | [1. Macroeconomic](#1-macroeconomics)                  | [Inflation, prices and interest rates](#101-inflation-prices-and-interest-rates)                                                     |
 | 103  | [1. Macroeconomic](#1-macroeconomics)                  | [Unemployment rate](#103-unemployment-rate)                                                                     |
-| 104  | [1. Macroeconomic](#1-macroeconomics)                  | [Monetary policy and the Swiss national bank (SNB)](#monetarypolicysnb)                                |
-| 105  | [1. Macroeconomic](#1-macroeconomics)                  | [National budget and debt](#budgetdebt)                                                                |
-| 107  | [1. Macroeconomic](#1-macroeconomics)                  | [Taxation](#taxation)                                                       |
-| 108  | [1. Macroeconomic](#1-macroeconomics)                  | [Industrial policy](#unemployment)                                                                     |
-| 110  | [1. Macroeconomic](#1-macroeconomics)                  | [Price control](#pricecontrol)                                                                         |
-| 199  | [1. Macroeconomic](#1-macroeconomics)                  | [Other](#other)                                                                                        |
-| 200  | [2. Civil Rights and Discrimination](#2-civil-rights-and-discrimination)     | [General](#general2)                                                                                   |
-| 201  | [2. Civil Rights and Discrimination](#2-civil-rights-and-discrimination)     | [Ethnic minority and racial group discrimination](#minority)                                           |
-| 202  | [2. Civil Rights and Discrimination](#2-civil-rights-and-discrimination)     | [Gender and sexual orientation discrimination](#genderdiscrimination)                                  |
-| 204  | [2. Civil Rights and Discrimination](#2-civil-rights-and-discrimination)     | [Age discrimination](#age)                                                                             |
-| 205  | [2. Civil Rights and Discrimination](#2-civil-rights-and-discrimination)     | [Handicap or disease discrimination](#handicap)                                                        |
-| 206  | [2. Civil Rights and Discrimination](#2-civil-rights-and-discrimination)     | [Voting rights and direct democracy](#votingrights)                                                    |
-| 207  | [2. Civil Rights and Discrimination](#2-civil-rights-and-discrimination)     | [Freedom of speech and religion](#freedomspeech)                                                                    |
-| 208  | [2. Civil Rights and Discrimination](#2-civil-rights-and-discrimination)     | [Right to privacy and access to government information](#privacy)                                      |
-| 209  | [2. Civil Rights and Discrimination](#2-civil-rights-and-discrimination)     | [Anti-government activities](#antigov)                                                                 |
+| 104  | [1. Macroeconomic](#1-macroeconomics)                  | [Monetary policy and the Swiss national bank (SNB)](#104-monetary-policy-and-the-swiss-national-bank-snb)                                |
+| 105  | [1. Macroeconomic](#1-macroeconomics)                  | [National budget and debt](#105-national-budget-and-debt)                                                                |
+| 107  | [1. Macroeconomic](#1-macroeconomics)                  | [Taxation](#107-taxation)                                                       |
+| 108  | [1. Macroeconomic](#1-macroeconomics)                  | [Industrial policy](#108-industrial-policy)                                                                     |
+| 110  | [1. Macroeconomic](#1-macroeconomics)                  | [Price control](#110-price-control)                                                                         |
+| 199  | [1. Macroeconomic](#1-macroeconomics)                  | [Other](#199-other)                                                                                        |
+| 200  | [2. Civil Rights and Discrimination](#2-civil-rights-and-discrimination)     | [General](#200-general)                                                                                   |
+| 201  | [2. Civil Rights and Discrimination](#2-civil-rights-and-discrimination)     | [Ethnic minority and racial group discrimination](#201-ethnic-minority-and-racial-group)                                           |
+| 202  | [2. Civil Rights and Discrimination](#2-civil-rights-and-discrimination)     | [Gender and sexual orientation discrimination](#202-gender-and-sexual-orientation-discrimination)                                  |
+| 204  | [2. Civil Rights and Discrimination](#2-civil-rights-and-discrimination)     | [Age discrimination](#204-age-discrimination)                                                                             |
+| 205  | [2. Civil Rights and Discrimination](#2-civil-rights-and-discrimination)     | [Handicap or disease discrimination](#205-handicap-or-disease-discrimination)                                                        |
+| 206  | [2. Civil Rights and Discrimination](#2-civil-rights-and-discrimination)     | [Voting rights and direct democracy](#206-voting-rights-and-direct-democracy)                                                    |
+| 207  | [2. Civil Rights and Discrimination](#2-civil-rights-and-discrimination)     | [Freedom of speech and religion](#207-freedoms-of-speech-and-religion)                                                                    |
+| 208  | [2. Civil Rights and Discrimination](#2-civil-rights-and-discrimination)     | [Right to privacy and access to government information](#208-right-to-privacy-and-access-to-government-information)                                      |
+| 209  | [2. Civil Rights and Discrimination](#2-civil-rights-and-discrimination)     | [Anti-government activities](#209-anti-government-activities)                                                                 |
 | 250  | [2. Civil Rights and Discrimination](#2-civil-rights-and-discrimination)     | [State and religious communities relations](#religiousrelations)                                       |
 | 299  | [2. Civil Rights and Discrimination](#2-civil-rights-and-discrimination)     | [Other](#other2)                                                                                       |
 | 300  | [3. Health](#3-health)                                                 | [General](#general3)                                                                                   |
