@@ -199,7 +199,7 @@ To be completed.
 | 1611 | [16. Defense](#16-defense)                                              | [Military installations](#1611-military-installations)                                                       |
 | 1612 | [16. Defense](#16-defense)                                              | [Military service and civil service](#1612-military-service-and-civil-service)                                  |
 | 1614 | [16. Defense](#16-defense)                                              | [Defense and environment](#1614-defense-and-environment)                                                      |
-| 1615 | [16. Defense](#16-defense)                                              | [Protection and support service (P&S)](#1615-protection-and-support-service-P&S)                                          |
+| 1615 | [16. Defense](#16-defense)                                              | [Protection and support service](#1615-protection-and-support-service)                                          |
 | 1616 | [16. Defense](#16-defense)                                              | [Civilian military personal](#civilianmilitarypersonal)                                                |
 | 1617 | [16. Defense](#16-defense)                                              | [Oversight of defense contracts and contractors](#defensecontracts)                                    |
 | 1619 | [16. Defense](#16-defense)                                              | [Direct war related issues](#warissues)                                                                |
@@ -1470,7 +1470,7 @@ Issues concerning military service and the mandatory character of military servi
 
 Environmental problems triggered by military actions, soil pollution around shooting ranges, ammunition on the base of lakes, noise pollution produced by combat airplanes.
 
-#### `1615 Protection and support service (P&S)`
+#### `1615 Protection and support service`
 
 Shelters for civil protection, training of P&S specialists, shelters for the protection of the population. 
 
