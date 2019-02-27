@@ -41,17 +41,17 @@ To be completed.
 | 108  | [1. Macroeconomic](#1-macroeconomics)                  | [Industrial policy](#unemployment)                                                                     |
 | 110  | [1. Macroeconomic](#1-macroeconomics)                  | [Price control](#pricecontrol)                                                                         |
 | 199  | [1. Macroeconomic](#1-macroeconomics)                  | [Other](#other)                                                                                        |
-| 200  | [2. Civil Rights and Discrimination](#rights)     | [General](#general2)                                                                                   |
-| 201  | [2. Civil Rights and Discrimination](#rights)     | [Ethnic minority and racial group discrimination](#minority)                                           |
-| 202  | [2. Civil Rights and Discrimination](#rights)     | [Gender and sexual orientation discrimination](#genderdiscrimination)                                  |
-| 204  | [2. Civil Rights and Discrimination](#rights)     | [Age discrimination](#age)                                                                             |
-| 205  | [2. Civil Rights and Discrimination](#rights)     | [Handicap or disease discrimination](#handicap)                                                        |
-| 206  | [2. Civil Rights and Discrimination](#rights)     | [Voting rights and direct democracy](#votingrights)                                                    |
-| 207  | [2. Civil Rights and Discrimination](#rights)     | [Freedom of speech and religion](#freedomspeech)                                                                    |
-| 208  | [2. Civil Rights and Discrimination](#rights)     | [Right to privacy and access to government information](#privacy)                                      |
-| 209  | [2. Civil Rights and Discrimination](#rights)     | [Anti-government activities](#antigov)                                                                 |
-| 250  | [2. Civil Rights and Discrimination](#rights)     | [State and religious communities relations](#religiousrelations)                                       |
-| 299  | [2. Civil Rights and Discrimination](#rights)     | [Other](#other2)                                                                                       |
+| 200  | [2. Civil Rights and Discrimination](#2-civil-rights-and-discrimination)     | [General](#general2)                                                                                   |
+| 201  | [2. Civil Rights and Discrimination](#2-civil-rights-and-discrimination)     | [Ethnic minority and racial group discrimination](#minority)                                           |
+| 202  | [2. Civil Rights and Discrimination](#2-civil-rights-and-discrimination)     | [Gender and sexual orientation discrimination](#genderdiscrimination)                                  |
+| 204  | [2. Civil Rights and Discrimination](#2-civil-rights-and-discrimination)     | [Age discrimination](#age)                                                                             |
+| 205  | [2. Civil Rights and Discrimination](#2-civil-rights-and-discrimination)     | [Handicap or disease discrimination](#handicap)                                                        |
+| 206  | [2. Civil Rights and Discrimination](#2-civil-rights-and-discrimination)     | [Voting rights and direct democracy](#votingrights)                                                    |
+| 207  | [2. Civil Rights and Discrimination](#2-civil-rights-and-discrimination)     | [Freedom of speech and religion](#freedomspeech)                                                                    |
+| 208  | [2. Civil Rights and Discrimination](#2-civil-rights-and-discrimination)     | [Right to privacy and access to government information](#privacy)                                      |
+| 209  | [2. Civil Rights and Discrimination](#2-civil-rights-and-discrimination)     | [Anti-government activities](#antigov)                                                                 |
+| 250  | [2. Civil Rights and Discrimination](#2-civil-rights-and-discrimination)     | [State and religious communities relations](#religiousrelations)                                       |
+| 299  | [2. Civil Rights and Discrimination](#2-civil-rights-and-discrimination)     | [Other](#other2)                                                                                       |
 | 300  | [3. Health](#3-health)                                                 | [General](#general3)                                                                                   |
 | 301  | [3. Health](#3-health)                                                 | [Organization of the health care system](#reformswisshealthcare)    |
 | 302  | [3. Health](#3-health)                                                 | [Costs and funding of the health care system](#costsswisshealthcare)                                 |
@@ -60,21 +60,21 @@ To be completed.
 | 323  | [3. Health](#3-health)                                                 | [Regulation of health insurance companies](#regulationhealthinsurance) |
 | 324  | [3. Health](#3-health)                                                 | [Medical liability, fraud and abuse](#medicalliability)                                                |
 | 325  | [3. Health](#3-health)                                                 | [Health personnel, education and training](#healtheducation)                                            |
-| 331  | [3. Health](#health)                                                 | [Disease prevention and health promotion](#preventionhealth)                            |
-| 332  | [3. Health](#health)                                                 | [Children health](#nutrition)                                                     |
-| 333  | [3. Health](#health)                                                 | [Mental health](#mentalhealth)                                                      |
-| 334  | [3. Health](#health)                                                 | [Home and palliative care](#palliativecare)         |
-| 335  | [3. Health](#health)                                                 | [Medicine costs](#costsmedicine)                              |
-| 336  | [3. Health](#health)                                                 | [Paying the costs of complementary treatments and/or alternative treatments](#costscomplementarymed)   |
-| 341  | [3. Health](#health)                                                 | [Tobacco abuse, treatment, and education](#tobacco)                                                    |
-| 342  | [3. Health](#health)                                                 | [Alcohol abuse, treatment, and education](#alcohol)                                                    |
-| 343  | [3. Health](#health)                                                 | [Drug abuse, treatment, and education](#drugs)                                                         |
-| 398  | [3. Health](#health)                                                 | [Research and development](#rdhealth)                                                                  |
-| 399  | [3. Health](#health)                                                 | [Other](#other3)                                                                                       |
-| 400  | [4. Agriculture](#agriculture)                                       | [General](#general4)                                                                                   |
-| 401  | [4. Agriculture](#agriculture)                                       | [Agricultural trade](#agriculturaltrade)                          |
-| 402  | [4. Agriculture](#agriculture)                                       | [Subsides and regulation on agriculture](#subsidesagriculture)                                         |
-| 403  | [4. Agriculture](#agriculture)                                       | [Food inspection and safety](#foodinspection)                                                  |
+| 331  | [3. Health](#3-health)                                                 | [Disease prevention and health promotion](#preventionhealth)                            |
+| 332  | [3. Health](#3-health)                                                 | [Children health](#nutrition)                                                     |
+| 333  | [3. Health](#3-health)                                                 | [Mental health](#mentalhealth)                                                      |
+| 334  | [3. Health](#3-health)                                                 | [Home and palliative care](#palliativecare)         |
+| 335  | [3. Health](#3-health)                                                 | [Medicine costs](#costsmedicine)                              |
+| 336  | [3. Health](#3-health)                                                 | [Paying the costs of complementary treatments and/or alternative treatments](#costscomplementarymed)   |
+| 341  | [3. Health](#3-health)                                                 | [Tobacco abuse, treatment, and education](#tobacco)                                                    |
+| 342  | [3. Health](#3-health)                                                 | [Alcohol abuse, treatment, and education](#alcohol)                                                    |
+| 343  | [3. Health](#3-health)                                                 | [Drug abuse, treatment, and education](#drugs)                                                         |
+| 398  | [3. Health](#3-health)                                                 | [Research and development](#rdhealth)                                                                  |
+| 399  | [3. Health](#3-health)                                                 | [Other](#other3)                                                                                       |
+| 400  | [4. Agriculture](#4-agriculture)                                       | [General](#general4)                                                                                   |
+| 401  | [4. Agriculture](##4-agriculture)                                       | [Agricultural trade](#agriculturaltrade)                          |
+| 402  | [4. Agriculture](#4-agriculture)                                       | [Subsides and regulation on agriculture](#subsidesagriculture)                                         |
+| 403  | [4. Agriculture](#4-agriculture)                                       | [Food inspection and safety](#foodinspection)                                                  |
 | 404  | [4. Agriculture](#agriculture)                                       | [Agricultural marketing and promotion](#agriculturalmarketing)                                         |
 | 405  | [4. Agriculture](#agriculture)                                       | [Animal and crop diseases](#animaldiseasescontrol)                                    |
 | 406  | [4. Agriculture](#agriculture)                                       | [Animal Welfare](#welfarelivestock)                                                              |
