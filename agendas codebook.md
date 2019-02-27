@@ -161,31 +161,31 @@ To be completed.
 | 1304 | [13. Social Policy](#13-social-policy)                                   | [Assistance to the disabled and handicapped](#1304-assistance-to-the-disabled-and-handicapped)                                          |
 | 1305 | [13. Social Policy](#13-social-policy)                                   | [Social services and volunteer associations](#1305-social-services-and-volunteer-associations)                                          |
 | 1350 | [13. Social Policy](#13-social-policy)                                   | [Public pensions (AHV/AVS)](#1350-public-pensions-AHVAVS)                                                           |
-| 1399 | [13. Social Policy](#13-social-policy)                                   | [Other](#other13)                                                                                      |
-| 1400 | [14. Urban and Regional Policies](#14-urban-and-regional-policies)                 | [General](#general14)                                                                                  |
-| 1401 | [14. Urban and Regional Policies](#14-urban-and-regional-policies)                 | [Urban housing](#urbanhousing)                                                                  |
-| 1403 | [14. Urban and Regional Policies](#14-urban-and-regional-policies)                 | [Urban economic development and policies](#urbaneconomicdevelopment)                     |
-| 1404 | [14. Urban and Regional Policies](#14-urban-and-regional-policies)                 | [Rural and mountainous housing](#housingrural)                                              |
-| 1405 | [14. Urban and Regional Policies](#14-urban-and-regional-policies)                 | [Rural and mountainous economic development](#ruraleconomicdevelopment)                     |
-| 1406 | [14. Urban and Regional Policies](#14-urban-and-regional-policies)                 | [Social housing](#socialhousing)                                                   |
-| 1408 | [14. Urban and Regional Policies](#14-urban-and-regional-policies)                 | [Elderly and handicapped housing](#elderlyhousing)                                                     |
-| 1409 | [14. Urban and Regional Policies](#14-urban-and-regional-policies)                 | [Homeless issues](#homelesshousing)                                                        |
-| 1410 | [14. Urban and Regional Policies](#14-urban-and-regional-policies)                 | [Rental housing market regulation](#housingmarketregulation)                                           |
-| 1450 | [14. Urban and Regional Policies](#14-urban-and-regional-policies)                 | [Land use and planning](#landuse)                                                                      |
-| 1499 | [14. Urban and Regional Policies](#14-urban-and-regional-policies)                 | [Other](#other14)                                                                                      |
-| 1500 | [15. Domestic Commerce](#15-domestic-commerce) | [General](#general15)                                                                                  |
-| 1501 | [15. Domestic Commerce](#15-domestic-commerce) | [Banking system and regulation](#bankingsystem)                                                                       |
-| 1502 | [15. Domestic Commerce](#15-domestic-commerce) | [Financial markets](#financialmarkets)                                                                  |
-| 1504 | [15. Domestic Commerce](#15-domestic-commerce) | [Mortgages and credit market](#creditmarket)                                                       |
-| 1505 | [15. Domestic Commerce](#15-domestic-commerce) | [Insurances regulation](#insurances)                                                                              |
-| 1507 | [15. Domestic Commerce](#15-domestic-commerce) | [Bankruptcy](#bankruptcy)                                                                              |
-| 1520 | [15. Domestic Commerce](#15-domestic-commerce) | [Competition and corporate management](#competitioncorporate)                                   |
-| 1521 | [15. Domestic Commerce](#15-domestic-commerce) | [Small business and self-employed issues](#smallbusiness)                                        |
-| 1522 | [15. Domestic Commerce](#15-domestic-commerce) | [Copyright and patents](#copyrightpatents)                                                             |
-| 1523 | [15. Domestic Commerce](#15-domestic-commerce) | [Domestic Disaster Relief](#domesticdisasterrelief)                                                    |
-| 1524 | [15. Domestic Commerce](#15-domestic-commerce) | [Tourism](#tourism)                                                                                    |
-| 1525 | [15. Domestic Commerce](#15-domestic-commerce) | [Consumer protection](#consumerprotection)                                                             |
-| 1526 | [15. Domestic Commerce](#15-domestic-commerce) | [Gambling](#gambling)                                                                                  |
+| 1399 | [13. Social Policy](#13-social-policy)                                   | [Other](#1399-other)                                                                                      |
+| 1400 | [14. Urban and Regional Policies](#14-urban-and-regional-policies)                 | [General](#1400-general)                                                                                  |
+| 1401 | [14. Urban and Regional Policies](#14-urban-and-regional-policies)                 | [Urban housing](#1401-urban-housing)                                                                  |
+| 1403 | [14. Urban and Regional Policies](#14-urban-and-regional-policies)                 | [Urban economic development and policies](#1403-urban-economic-development-and-policies)                     |
+| 1404 | [14. Urban and Regional Policies](#14-urban-and-regional-policies)                 | [Rural and mountainous housing](#1404-rural-and-mountainous-housing)                                              |
+| 1405 | [14. Urban and Regional Policies](#14-urban-and-regional-policies)                 | [Rural and mountainous economic development](#1405-rural-and-mountainous-economic-development)                     |
+| 1406 | [14. Urban and Regional Policies](#14-urban-and-regional-policies)                 | [Social housing](#1406-social-housing)                                                   |
+| 1408 | [14. Urban and Regional Policies](#14-urban-and-regional-policies)                 | [Elderly and handicapped housing](#1408-elderly-and-handicapped-housing)                                                     |
+| 1409 | [14. Urban and Regional Policies](#14-urban-and-regional-policies)                 | [Homeless issues](#1409-homeless-issues)                                                        |
+| 1410 | [14. Urban and Regional Policies](#14-urban-and-regional-policies)                 | [Rental housing market regulation](#1410-rental-housing-market)                                           |
+| 1450 | [14. Urban and Regional Policies](#14-urban-and-regional-policies)                 | [Land use and planning](#1450-land-use-and-planning)                                                                      |
+| 1499 | [14. Urban and Regional Policies](#14-urban-and-regional-policies)                 | [Other](#1499-other)                                                                                      |
+| 1500 | [15. Domestic Commerce](#15-domestic-commerce) | [General](#1500-general)                                                                                  |
+| 1501 | [15. Domestic Commerce](#15-domestic-commerce) | [Banking system and regulation](#1501-banking-system-and-regulation)                                                                       |
+| 1502 | [15. Domestic Commerce](#15-domestic-commerce) | [Financial markets](#1502-financial-markets)                                                                  |
+| 1504 | [15. Domestic Commerce](#15-domestic-commerce) | [Mortgages and credit market](#1504-mortgages-and-credit-market)                                                       |
+| 1505 | [15. Domestic Commerce](#15-domestic-commerce) | [Insurances regulation](#1505-insurances-regulation)                                                                              |
+| 1507 | [15. Domestic Commerce](#15-domestic-commerce) | [Bankruptcy](#1507-bankruptcy)                                                                              |
+| 1520 | [15. Domestic Commerce](#15-domestic-commerce) | [Competition and corporate management](#1520-competition-and-corporate-management)                                   |
+| 1521 | [15. Domestic Commerce](#15-domestic-commerce) | [Small business and self-employed issues](#1521-small-business-and-self-employed-issues)                                        |
+| 1522 | [15. Domestic Commerce](#15-domestic-commerce) | [Copyright and patents](#1522-copyright-and-patents)                                                             |
+| 1523 | [15. Domestic Commerce](#15-domestic-commerce) | [Domestic Disaster Relief](#1523-domestic-disaster-relief)                                                    |
+| 1524 | [15. Domestic Commerce](#15-domestic-commerce) | [Tourism](#1524-tourism)                                                                                    |
+| 1525 | [15. Domestic Commerce](#15-domestic-commerce) | [Consumer protection](#1525-consumer-protection)                                                             |
+| 1526 | [15. Domestic Commerce](#15-domestic-commerce) | [Gambling](#1526-gambling)                                                                                  |
 | 1550 | [15. Domestic Commerce](#15-domestic-commerce) | [Bank secrecy](#banksecrecy)                                                                           |
 | 1599 | [15. Domestic Commerce](#15-domestic-commerce) | [Other](#other15)                                                                                      |
 | 1600 | [16. Defense](#16-defense)                                              | [General](#general16)                                                                                  |
