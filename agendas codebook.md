@@ -96,34 +96,34 @@ To be completed.
 | 602  | [6. Education, culture and sports](#6-education-culture-and-sports)                       | [Nursery schools, primary and secondary education](#602-nursery-schools-primary-and-secondary-education)                         |
 | 603  | [6. Education, culture and sports](#6-education-culture-and-sports)                       | [Underprivileged students and school failure](#603-underprivileged-students-and-school-failure)               |
 | 604  | [6. Education, culture and sports](#6-education-culture-and-sports)                       | [Technical and vocational training](#604-technical-and-vocational-training)                                               |
-| 606  | [6. Education, culture and sports](#6-education-culture-and-sports)                       | [Special education](#specialeducation)                                                                 |
-| 607  | [6. Education, culture and sports](#6-education-culture-and-sports)                       | [Education quality](#educationquality)                                        |
-| 609  | [6. Education, culture and sports](#6-education-culture-and-sports)                       | [Culture](#culture)                                                                                    |
-| 610  | [6. Education, culture and sports](#6-education-culture-and-sports)                       | [Sports](#sports)                                                                                      |
-| 698  | [6. Education, culture and sports](#6-education-culture-and-sports)                       | [Research and development](#rdeducation)                                                               |
-| 699  | [6. Education, culture and sports](#6-education-culture-and-sports)                       | [Other](#other6)                                                                                       |
-| 700  | [7. Environment](#7-environment)                                       | [General](#general7)                                                                                   |
-| 701  | [7. Environment](#7-environment)                                       | [Drinking water](#drinkingwater)                                                                       |
-| 703  | [7. Environment](#7-environment)                                       | [Waste](#waste)                                                                                        |
-| 704  | [7. Environment](#7-environment)                                       | [Hazardous and toxic waste](#toxicwaste)                                      |
-| 705  | [7. Environment](#7-environment)                                       | [Climate and noise pollution](#airpollution)                                                      |
-| 707  | [7. Environment](#7-environment)                                       | [Recycling](#recycling)                                                                                |
-| 708  | [7. Environment](#7-environment)                                       | [Indoor environmental hazards](#indoorhazards)                                                         |
-| 709  | [7. Environment](#7-environment)                                       | [Animal and plant life protection](#animalplantprotection)                                             |
-| 711  | [7. Environment](#7-environment)                                       | [Land and water conservation](#landconservation)                                                  |
-| 798  | [7. Environment](#7-environment)                                       | [Research and development](#rdenvironment)                                                             |
-| 799  | [7. Environment](#7-environment)                                       | [Other](#other7)                                                                                       |
-| 800  | [8. Energy](#8-energy)                                                 | [General](#general8)                                                                                   |
-| 801  | [8. Energy](#8-energy)                                                 | [Nuclear energy](#nuclearenergy)                                                                       |
-| 802  | [8. Energy](#8-energy)                                                 | [Hydroelectricity](#hydroelectricity)                                                                  |
-| 803  | [8. Energy](#8-energy)                                                 | [Natural oil and gas](#oilandgas)                                                                      |
-| 805  | [8. Energy](#8-energy)                                                 | [Coal](#coal)                                                                                          |
-| 806  | [8. Energy](#8-energy)                                                 | [Alternative and renewable energy](#alternativeenergy)                                                 |
-| 807  | [8. Energy](#8-energy)                                                 | [Energy saving](#energysaving)                                                                         |
-| 808  | [8. Energy](#8-energy)                                                 | [Electricity](#electricity)                                                                            |
-| 898  | [8. Energy](#8-energy)                                                 | [Research and development](#rdenergy)                                                                  |
-| 899  | [8. Energy](#8-energy)                                                 | [Other](#other8)                                                                                       |
-| 900  | [9. Immigration and integration](#9-immigration-and-integration)                       | [General](#general9)                                                                                   |
+| 606  | [6. Education, culture and sports](#6-education-culture-and-sports)                       | [Special education](#606-special-education)                                                                 |
+| 607  | [6. Education, culture and sports](#6-education-culture-and-sports)                       | [Education quality](#607-education-quality)                                        |
+| 609  | [6. Education, culture and sports](#6-education-culture-and-sports)                       | [Culture](#609-culture)                                                                                    |
+| 610  | [6. Education, culture and sports](#6-education-culture-and-sports)                       | [Sports](#610-sports)                                                                                      |
+| 698  | [6. Education, culture and sports](#6-education-culture-and-sports)                       | [Research and development](#698-research-and-development)                                                               |
+| 699  | [6. Education, culture and sports](#6-education-culture-and-sports)                       | [Other](#699-other)                                                                                       |
+| 700  | [7. Environment](#7-environment)                                       | [General](#700-general)                                                                                   |
+| 701  | [7. Environment](#7-environment)                                       | [Drinking water](#701-drinking-water)                                                                       |
+| 703  | [7. Environment](#7-environment)                                       | [Waste](#703-waste)                                                                                        |
+| 704  | [7. Environment](#7-environment)                                       | [Hazardous and toxic waste](#704-hazardous-and-toxic-waste)                                      |
+| 705  | [7. Environment](#7-environment)                                       | [Climate and noise pollution](#705-climate-and-noise-pollution)                                                      |
+| 707  | [7. Environment](#7-environment)                                       | [Recycling](#707-recycling)                                                                                |
+| 708  | [7. Environment](#7-environment)                                       | [Indoor environmental hazards](#798-indoor-envirionmental-hazards)                                                         |
+| 709  | [7. Environment](#7-environment)                                       | [Animal and plant life protection](#709-animal-and-plant-life-protection)                                             |
+| 711  | [7. Environment](#7-environment)                                       | [Land and water conservation](#711-land-and-water-conservation)                                                  |
+| 798  | [7. Environment](#7-environment)                                       | [Research and development](#798-research-and-development)                                                             |
+| 799  | [7. Environment](#7-environment)                                       | [Other](#799-other)                                                                                       |
+| 800  | [8. Energy](#8-energy)                                                 | [General](#800-general)                                                                                   |
+| 801  | [8. Energy](#8-energy)                                                 | [Nuclear energy](#801-nuclear-energy)                                                                       |
+| 802  | [8. Energy](#8-energy)                                                 | [Hydroelectricity](#802-hydroelectricity)                                                                  |
+| 803  | [8. Energy](#8-energy)                                                 | [Natural oil and gas](#803-natural-oil-and-gas)                                                                      |
+| 805  | [8. Energy](#8-energy)                                                 | [Coal](#805-coal)                                                                                          |
+| 806  | [8. Energy](#8-energy)                                                 | [Alternative and renewable energy](#806-alternative-and-renewable-energy)                                                 |
+| 807  | [8. Energy](#8-energy)                                                 | [Energy saving](#807-energy-saving)                                                                         |
+| 808  | [8. Energy](#8-energy)                                                 | [Electricity](#808-electricity)                                                                            |
+| 898  | [8. Energy](#8-energy)                                                 | [Research and development](#898-reserch-and-development)                                                                  |
+| 899  | [8. Energy](#8-energy)                                                 | [Other](#899-other)                                                                                       |
+| 900  | [9. Immigration and integration](#9-immigration-and-integration)                       | [General](#900-general)                                                                                   |
 | 930  | [9. Immigration and integration](#9-immigration-and-integration)                       | [Migration regulation](#migrationregulation)                                                           |
 | 931  | [9. Immigration and integration](#9-immigration-and-integration)                       | [Refugees and asylum](#refugeesasylum)                                                                 |
 | 932  | [9. Immigration and integration](#9-immigration-and-integration)                       | [Acquisition of Swiss citizenship](#swisscitizenship)                                                  |
