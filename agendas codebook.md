@@ -160,7 +160,7 @@ To be completed.
 | 1303 | [13. Social Policy](#13-social-policy)                                   | [Assistance to elderly people](#1303-assistance-to-elderly-people)                                                         |
 | 1304 | [13. Social Policy](#13-social-policy)                                   | [Assistance to the disabled and handicapped](#1304-assistance-to-the-disabled-and-handicapped)                                          |
 | 1305 | [13. Social Policy](#13-social-policy)                                   | [Social services and volunteer associations](#1305-social-services-and-volunteer-associations)                                          |
-| 1350 | [13. Social Policy](#13-social-policy)                                   | [Public pensions (AHV/AVS)](#1350-public-pensions-AHV/AVS)                                                           |
+| 1350 | [13. Social Policy](#13-social-policy)                                   | [Public pensions (AHV/AVS)](#1350-public-pensions-AHV-AVS)                                                           |
 | 1399 | [13. Social Policy](#13-social-policy)                                   | [Other](#other13)                                                                                      |
 | 1400 | [14. Urban and Regional Policies](#14-urban-and-regional-policies)                 | [General](#general14)                                                                                  |
 | 1401 | [14. Urban and Regional Policies](#14-urban-and-regional-policies)                 | [Urban housing](#urbanhousing)                                                                  |
