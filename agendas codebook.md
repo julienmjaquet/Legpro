@@ -124,10 +124,10 @@ To be completed.
 | 898  | [8. Energy](#8-energy)                                                 | [Research and development](#898-reserch-and-development)                                                                  |
 | 899  | [8. Energy](#8-energy)                                                 | [Other](#899-other)                                                                                       |
 | 900  | [9. Immigration and integration](#9-immigration-and-integration)                       | [General](#900-general)                                                                                   |
-| 930  | [9. Immigration and integration](#9-immigration-and-integration)                       | [Migration regulation](#migrationregulation)                                                           |
-| 931  | [9. Immigration and integration](#9-immigration-and-integration)                       | [Refugees and asylum](#refugeesasylum)                                                                 |
-| 932  | [9. Immigration and integration](#9-immigration-and-integration)                       | [Acquisition of Swiss citizenship](#swisscitizenship)                                                  |
-| 933  | [9. Immigration and integration](#9-immigration-and-integration)                       | [Immigrant's integration](#immigrantsintegration)                                                      |
+| 930  | [9. Immigration and integration](#9-immigration-and-integration)                       | [Migration regulation](#930-migration-regulation)                                                           |
+| 931  | [9. Immigration and integration](#9-immigration-and-integration)                       | [Refugees and asylum](#931-refugee-and-asylum)                                                                 |
+| 932  | [9. Immigration and integration](#9-immigration-and-integration)                       | [Acquisition of Swiss citizenship](#932-acquisition-of-swiss-citizenship)                                                  |
+| 933  | [9. Immigration and integration](#9-immigration-and-integration)                       | [Immigrant's integration](#933-immigrants-integration)                                                      |
 | 934  | [9. Immigration and integration](#9-immigration-and-integration)                       | [Immigrant's voting rights](#immigrantsvotingrights)                                                   |
 | 999  | [9. Immigration and integration](#9-immigration-and-integration)                       | [Other](#other9)                                                                                       |
 | 1000 | [10. Transportation](#10-transportation)                                | [General](#general10)                                                                                  |
