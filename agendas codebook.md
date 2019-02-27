@@ -50,49 +50,49 @@ To be completed.
 | 207  | [2. Civil Rights and Discrimination](#2-civil-rights-and-discrimination)     | [Freedom of speech and religion](#207-freedoms-of-speech-and-religion)                                                                    |
 | 208  | [2. Civil Rights and Discrimination](#2-civil-rights-and-discrimination)     | [Right to privacy and access to government information](#208-right-to-privacy-and-access-to-government-information)                                      |
 | 209  | [2. Civil Rights and Discrimination](#2-civil-rights-and-discrimination)     | [Anti-government activities](#209-anti-government-activities)                                                                 |
-| 250  | [2. Civil Rights and Discrimination](#2-civil-rights-and-discrimination)     | [State and religious communities relations](#religiousrelations)                                       |
-| 299  | [2. Civil Rights and Discrimination](#2-civil-rights-and-discrimination)     | [Other](#other2)                                                                                       |
-| 300  | [3. Health](#3-health)                                                 | [General](#general3)                                                                                   |
-| 301  | [3. Health](#3-health)                                                 | [Organization of the health care system](#reformswisshealthcare)    |
-| 302  | [3. Health](#3-health)                                                 | [Costs and funding of the health care system](#costsswisshealthcare)                                 |
-| 321  | [3. Health](#3-health)                                                 | [Regulations of the drug industry, medical devices and clinical labs](#regulationsmedical)             |
-| 322  | [3. Health](#3-health)                                                 | [Health care infrastructure](#healthfacilities)                                         |
-| 323  | [3. Health](#3-health)                                                 | [Regulation of health insurance companies](#regulationhealthinsurance) |
-| 324  | [3. Health](#3-health)                                                 | [Medical liability, fraud and abuse](#medicalliability)                                                |
-| 325  | [3. Health](#3-health)                                                 | [Health personnel, education and training](#healtheducation)                                            |
-| 331  | [3. Health](#3-health)                                                 | [Disease prevention and health promotion](#preventionhealth)                            |
-| 332  | [3. Health](#3-health)                                                 | [Children health](#nutrition)                                                     |
-| 333  | [3. Health](#3-health)                                                 | [Mental health](#mentalhealth)                                                      |
-| 334  | [3. Health](#3-health)                                                 | [Home and palliative care](#palliativecare)         |
-| 335  | [3. Health](#3-health)                                                 | [Medicine costs](#costsmedicine)                              |
-| 336  | [3. Health](#3-health)                                                 | [Paying the costs of complementary treatments and/or alternative treatments](#costscomplementarymed)   |
-| 341  | [3. Health](#3-health)                                                 | [Tobacco abuse, treatment, and education](#tobacco)                                                    |
-| 342  | [3. Health](#3-health)                                                 | [Alcohol abuse, treatment, and education](#alcohol)                                                    |
-| 343  | [3. Health](#3-health)                                                 | [Drug abuse, treatment, and education](#drugs)                                                         |
-| 398  | [3. Health](#3-health)                                                 | [Research and development](#rdhealth)                                                                  |
-| 399  | [3. Health](#3-health)                                                 | [Other](#other3)                                                                                       |
-| 400  | [4. Agriculture](#4-agriculture)                                       | [General](#general4)                                                                                   |
-| 401  | [4. Agriculture](##4-agriculture)                                       | [Agricultural trade](#agriculturaltrade)                          |
-| 402  | [4. Agriculture](#4-agriculture)                                       | [Subsides and regulation on agriculture](#subsidesagriculture)                                         |
-| 403  | [4. Agriculture](#4-agriculture)                                       | [Food inspection and safety](#foodinspection)                                                  |
-| 404  | [4. Agriculture](#4-agriculture)                                       | [Agricultural marketing and promotion](#agriculturalmarketing)                                         |
-| 405  | [4. Agriculture](4-agriculture)                                       | [Animal and crop diseases](#animaldiseasescontrol)                                    |
-| 406  | [4. Agriculture](4-agriculture)                                       | [Animal Welfare](#welfarelivestock)                                                              |
-| 498  | [4. Agriculture](4-agriculture)                                       | [Agriculture research and development](#agriculturesearch)                                             |
-| 499  | [4. Agriculture](4-agriculture)                                       | [Other](#other4)                                                                                       |
-| 500  | [5. Labor and Employment](#5-labor-and-employment)                       | [General](#general5)                                                                                   |
-| 501  | [5. Labor and Employment](#5-labor-and-employment)                       | [Working Safety and Protection](#workingenvironment)                                      |
-| 502  | [5. Labor and Employment](#5-labor-and-employment)                       | [Employment training and workforce development](#employmenttraining)                                   |
-| 503  | [5. Labor and Employment](#5-labor-and-employment)                       | [Employee Benefits](#employeebenefits)                                                        |
-| 504  | [5. Labor and Employment](#5-labor-and-employment)                       | [Employee relations and trade unions](#employeerelations)                                              |
-| 505  | [5. Labor and Employment](#5-labor-and-employment)                       | [Labor law](#laborlaw)                                                                                 |
-| 506  | [5. Labor and Employment](#5-labor-and-employment)                       | [Youth employment](#youthemployment)                                                                   |
-| 508  | [5. Labor and Employment](#5-labor-and-employment)                       | [Parental leave, childcare and work-life balance](#parentalleave)                                      |
-| 512  | [5. Labor and Employment](#5-labor-and-employment)                       | [Unemployment insurance](#unemploymentinsurance)                                                       |
-| 529  | [5. Labor and Employment](#5-labor-and-employment)                       | [Seasonal workers and rural labor](#seasonalworkers)                                            |
-| 599  | [5. Labor and Employment](#5-labor-and-employment)                       | [Other](#other5)                                                                                       |
-| 600  | [6. Education, culture and sports](#6-education-culture-and-sports)                       | [General](#general6)                                                                                   |
-| 601  | [6. Education, culture and sports](#6-education-culture-and-sports)                       | [Higher education](#highereducation)                                                                   |
+| 250  | [2. Civil Rights and Discrimination](#2-civil-rights-and-discrimination)     | [State and religious communities relations](#250-state-and-religious-communities-relations)                                       |
+| 299  | [2. Civil Rights and Discrimination](#2-civil-rights-and-discrimination)     | [Other](#299-other)                                                                                       |
+| 300  | [3. Health](#3-health)                                                 | [General](#300-general)                                                                                   |
+| 301  | [3. Health](#3-health)                                                 | [Organization of the health care system](#301-organization-of-the-health-care-system)    |
+| 302  | [3. Health](#3-health)                                                 | [Costs and funding of the health care system](#302-costs-and-funding-of-the-health-care-system)                                 |
+| 321  | [3. Health](#3-health)                                                 | [Regulations of the drug industry, medical devices and clinical labs](#321-regulations-of-the-drug-industry-medical-devices-and-clinical-labs)             |
+| 322  | [3. Health](#3-health)                                                 | [Health care infrastructure](#322-health-care-infrastructure)                                         |
+| 323  | [3. Health](#3-health)                                                 | [Regulation of health insurance companies](#323-regulation-of-health-insurance-companies) |
+| 324  | [3. Health](#3-health)                                                 | [Medical liability, fraud and abuse](#324-medical-liability-fraud-and-abuse)                                                |
+| 325  | [3. Health](#3-health)                                                 | [Health personnel, education and training](#325-health-personnel-education-and-training)                                            |
+| 331  | [3. Health](#3-health)                                                 | [Disease prevention and health promotion](#331-disease-prevention-and-health-promotion)                            |
+| 332  | [3. Health](#3-health)                                                 | [Children health](#332-children-health)                                                     |
+| 333  | [3. Health](#3-health)                                                 | [Mental health](#333-mental-health)                                                      |
+| 334  | [3. Health](#3-health)                                                 | [Home and palliative care](#334-home-and-palliative-care)         |
+| 335  | [3. Health](#3-health)                                                 | [Medicine costs](#335-medicine-costs)                              |
+| 336  | [3. Health](#3-health)                                                 | [Paying the costs of complementary treatments and/or alternative treatments](#336-paying-the-costs-of-complementary-treatments)   |
+| 341  | [3. Health](#3-health)                                                 | [Tobacco abuse, treatment, and education](#341-tobacco-abuse-treatment-and-education)                                                    |
+| 342  | [3. Health](#3-health)                                                 | [Alcohol abuse, treatment, and education](#342-alcohol-abuse-treatment-and-education)                                                    |
+| 343  | [3. Health](#3-health)                                                 | [Drug abuse, treatment, and education](#343-drug-abuse-treatment-and-education)                                                         |
+| 398  | [3. Health](#3-health)                                                 | [Research and development](#398-research-and-development)                                                                  |
+| 399  | [3. Health](#3-health)                                                 | [Other](#399-other)                                                                                       |
+| 400  | [4. Agriculture](#4-agriculture)                                       | [General](#400-general)                                                                                   |
+| 401  | [4. Agriculture](##4-agriculture)                                       | [Agricultural trade](#401-agricultural-trade)                          |
+| 402  | [4. Agriculture](#4-agriculture)                                       | [Subsides and regulation on agriculture](#402-subsides-and-regulation-on-agriculture)                                         |
+| 403  | [4. Agriculture](#4-agriculture)                                       | [Food inspection and safety](#403-food-inspection-and-safety)                                                  |
+| 404  | [4. Agriculture](#4-agriculture)                                       | [Agricultural marketing and promotion](#404-agricultural-marketing-and-promotion)                                         |
+| 405  | [4. Agriculture](4-agriculture)                                       | [Animal and crop diseases](#405-animal-and-crop-diseases)                                    |
+| 406  | [4. Agriculture](4-agriculture)                                       | [Animal Welfare](#406-animal-welfare)                                                              |
+| 498  | [4. Agriculture](4-agriculture)                                       | [Agriculture research and development](#498-agriculture-research-and-development)                                             |
+| 499  | [4. Agriculture](4-agriculture)                                       | [Other](#499-other)                                                                                       |
+| 500  | [5. Labor and Employment](#5-labor-and-employment)                       | [General](#500-general)                                                                                   |
+| 501  | [5. Labor and Employment](#5-labor-and-employment)                       | [Working Safety and Protection](#501-working-safety-and-protection)                                      |
+| 502  | [5. Labor and Employment](#5-labor-and-employment)                       | [Employment training and workforce development](#502-employment-training-and-workforce)                                   |
+| 503  | [5. Labor and Employment](#5-labor-and-employment)                       | [Employee Benefits](#503-employee-benefits)                                                        |
+| 504  | [5. Labor and Employment](#5-labor-and-employment)                       | [Employee relations and trade unions](#504-employee-relations-and-trade-unions)                                              |
+| 505  | [5. Labor and Employment](#5-labor-and-employment)                       | [Labor law](#505-labor-law)                                                                                 |
+| 506  | [5. Labor and Employment](#5-labor-and-employment)                       | [Youth employment](#506-youth-employment)                                                                   |
+| 508  | [5. Labor and Employment](#5-labor-and-employment)                       | [Parental leave, childcare and work-life balance](#508-parental-leave-childcare-and-work-life)                                      |
+| 512  | [5. Labor and Employment](#5-labor-and-employment)                       | [Unemployment insurance](#512-unemployment-insurance)                                                       |
+| 529  | [5. Labor and Employment](#5-labor-and-employment)                       | [Seasonal workers and rural labor](#529-seasonal-workers-and-rural-labor)                                            |
+| 599  | [5. Labor and Employment](#5-labor-and-employment)                       | [Other](#599-other)                                                                                       |
+| 600  | [6. Education, culture and sports](#6-education-culture-and-sports)                       | [General](#600-general)                                                                                   |
+| 601  | [6. Education, culture and sports](#6-education-culture-and-sports)                       | [Higher education](#601-higher-education)                                                                   |
 | 602  | [6. Education, culture and sports](#6-education-culture-and-sports)                       | [Nursery schools, primary and secondary education](#primarysecondaryeducation)                         |
 | 603  | [6. Education, culture and sports](#6-education-culture-and-sports)                       | [Underprivileged students and school failure](#supportstudents)               |
 | 604  | [6. Education, culture and sports](#6-education-culture-and-sports)                       | [Technical and vocational training](#vocationaltraining)                                               |
@@ -121,147 +121,147 @@ To be completed.
 | 806  | [8. Energy](#8-energy)                                                 | [Alternative and renewable energy](#alternativeenergy)                                                 |
 | 807  | [8. Energy](#8-energy)                                                 | [Energy saving](#energysaving)                                                                         |
 | 808  | [8. Energy](#8-energy)                                                 | [Electricity](#electricity)                                                                            |
-| 898  | [8. Energy](#energy)                                                 | [Research and development](#rdenergy)                                                                  |
-| 899  | [8. Energy](#energy)                                                 | [Other](#other8)                                                                                       |
-| 900  | [9. Immigration and integration](#immigration)                       | [General](#general9)                                                                                   |
-| 930  | [9. Immigration and integration](#immigration)                       | [Migration regulation](#migrationregulation)                                                           |
-| 931  | [9. Immigration and integration](#immigration)                       | [Refugees and asylum](#refugeesasylum)                                                                 |
-| 932  | [9. Immigration and integration](#immigration)                       | [Acquisition of Swiss citizenship](#swisscitizenship)                                                  |
-| 933  | [9. Immigration and integration](#immigration)                       | [Immigrant's integration](#immigrantsintegration)                                                      |
-| 934  | [9. Immigration and integration](#immigration)                       | [Immigrant's voting rights](#immigrantsvotingrights)                                                   |
-| 999  | [9. Immigration and integration](#immigration)                       | [Other](#other9)                                                                                       |
-| 1000 | [10. Transportation](#transportation)                                | [General](#general10)                                                                                  |
-| 1001 | [10. Transportation](#transportation)                                | [Public transportation](#masstransportation)                                                             |
-| 1002 | [10. Transportation](#transportation)                                | [Roads and highways](#roadshighways)                                                                   |
-| 1003 | [10. Transportation](#transportation)                                | [Aviation](#airports)                                                           |
-| 1005 | [10. Transportation](#transportation)                                | [Railroad](#railroad)                                                                   |
-| 1007 | [10. Transportation](#transportation)                                | [Maritime and fluvial transportation](#maritimetransport)                                                     |
-| 1010 | [10. Transportation](#transportation)                                | [Infrastructure development and public works](#infrastructuredevelopment)                              |
-| 1098 | [10. Transportation](#transportation)                                | [Research and development](#rdtransportation)                                                          |
-| 1099 | [10. Transportation](#transportation)                                | [Other](#other10)                                                                                      |
-| 1200 | [12. Law and Order](#lawandorder)                                    | [General](#general12)                                                                                  |
-| 1201 | [12. Law and Order](#lawandorder)                                    | [Law and Order Agencies](#police)                                                              |
-| 1202 | [12. Law and Order](#lawandorder)                                    | [Organized Crime](#organizedcrime)                                                                     |
-| 1203 | [12. Law and Order](#lawandorder)                                    | [Illegal drug](#drugtrafficking)                                            |
-| 1204 | [12. Law and Order](#lawandorder)                                    | [Judicial system](#judicialsystem)                                                                     |
-| 1205 | [12. Law and Order](#lawandorder)                                    | [Prisons](#prisons)                                                                                    |
-| 1206 | [12. Law and Order](#lawandorder)                                    | [Juvenile crime and the juvenile justice system](#juvenilecrime)                                       |
-| 1207 | [12. Law and Order](#lawandorder)                                    | [Child abuse and pedophilia](#childabuse)                                                              |
-| 1208 | [12. Law and Order](#lawandorder)                                    | [Family law](#familylaw)                                                                               |
-| 1209 | [12. Law and Order](#lawandorder)                                    | [Police, fire and weapons control](#weaponscontrol)                                                    |
-| 1210 | [12. Law and Order](#lawandorder)                                    | [Criminal and civil code](#criminalcivilcode)                                                          |
-| 1211 | [12. Law and Order](#lawandorder)                                    | [Crime and Riots](#riotscrime)                                                                         |
-| 1212 | [12. Law and Order](#lawandorder)                                    | [Prostitution and people trafficking](#prostitution)                                                   |
-| 1213 | [12. Law and Order](#lawandorder)                                    | [White collar crime](#whitecollar)                                                                     |
-| 1227 | [12. Law and Order](#lawandorder)                                    | [Police and Other General Domestic Security Responses to Terrorism`](#responsestoterrorism)            |
-| 1299 | [12. Law and Order](#lawandorder)                                    | [Other](#other12)                                                                                      |
-| 1300 | [13. Social Policy](#socialpolicy)                                   | [General](#general13)                                                                                  |
-| 1302 | [13. Social Policy](#socialpolicy)                                   | [Assistance for low-income people](#assistlowincome)                                                  |
-| 1303 | [13. Social Policy](#socialpolicy)                                   | [Assistance to elderly people](#assistelderly)                                                         |
-| 1304 | [13. Social Policy](#socialpolicy)                                   | [Assistance to the disabled and handicapped](#assistdisabled)                                          |
-| 1305 | [13. Social Policy](#socialpolicy)                                   | [Social services and volunteer associations](#socialservices)                                          |
-| 1350 | [13. Social Policy](#socialpolicy)                                   | [Public pensions (AHV/AVS)](#publicpensions)                                                           |
-| 1399 | [13. Social Policy](#socialpolicy)                                   | [Other](#other13)                                                                                      |
-| 1400 | [14. Urban and Regional Policies](#urbanandregional)                 | [General](#general14)                                                                                  |
-| 1401 | [14. Urban and Regional Policies](#urbanandregional)                 | [Urban housing](#urbanhousing)                                                                  |
-| 1403 | [14. Urban and Regional Policies](#urbanandregional)                 | [Urban economic development and policies](#urbaneconomicdevelopment)                     |
-| 1404 | [14. Urban and Regional Policies](#urbanandregional)                 | [Rural and mountainous housing](#housingrural)                                              |
-| 1405 | [14. Urban and Regional Policies](#urbanandregional)                 | [Rural and mountainous economic development](#ruraleconomicdevelopment)                     |
-| 1406 | [14. Urban and Regional Policies](#urbanandregional)                 | [Social housing](#socialhousing)                                                   |
-| 1408 | [14. Urban and Regional Policies](#urbanandregional)                 | [Elderly and handicapped housing](#elderlyhousing)                                                     |
-| 1409 | [14. Urban and Regional Policies](#urbanandregional)                 | [Homeless issues](#homelesshousing)                                                        |
-| 1410 | [14. Urban and Regional Policies](#urbanandregional)                 | [Rental housing market regulation](#housingmarketregulation)                                           |
-| 1450 | [14. Urban and Regional Policies](#urbanandregional)                 | [Land use and planning](#landuse)                                                                      |
-| 1499 | [14. Urban and Regional Policies](#urbanandregional)                 | [Other](#other14)                                                                                      |
-| 1500 | [15. Domestic Commerce](#economicactivities) | [General](#general15)                                                                                  |
-| 1501 | [15. Domestic Commerce](#economicactivities)(#economicactivities) | [Banking system and regulation](#bankingsystem)                                                                       |
-| 1502 | [15. Domestic Commerce](#economicactivities) | [Financial markets](#financialmarkets)                                                                  |
-| 1504 | [15. Domestic Commerce](#economicactivities) | [Mortgages and credit market](#creditmarket)                                                       |
-| 1505 | [15. Domestic Commerce](#economicactivities) | [Insurances regulation](#insurances)                                                                              |
-| 1507 | [15. Domestic Commerce](#economicactivities) | [Bankruptcy](#bankruptcy)                                                                              |
-| 1520 | [15. Domestic Commerce](#economicactivities) | [Competition and corporate management](#competitioncorporate)                                   |
-| 1521 | [15. Domestic Commerce](#economicactivities) | [Small business and self-employed issues](#smallbusiness)                                        |
-| 1522 | [15. Domestic Commerce](#economicactivities) | [Copyright and patents](#copyrightpatents)                                                             |
-| 1523 | [15. Domestic Commerce](#economicactivities) | [Domestic Disaster Relief](#domesticdisasterrelief)                                                    |
-| 1524 | [15. Domestic Commerce](#economicactivities) | [Tourism](#tourism)                                                                                    |
-| 1525 | [15. Domestic Commerce](#economicactivities) | [Consumer protection](#consumerprotection)                                                             |
-| 1526 | [15. Domestic Commerce](#economicactivities) | [Gambling](#gambling)                                                                                  |
-| 1550 | [15. Domestic Commerce](#economicactivities) | [Bank secrecy](#banksecrecy)                                                                           |
-| 1599 | [15. Domestic Commerce](#economicactivities) | [Other](#other15)                                                                                      |
-| 1600 | [16. Defense](#defense)                                              | [General](#general16)                                                                                  |
-| 1602 | [16. Defense](#defense)                                              | [Security policy and military commitments](#securitypolicy)                                            |
-| 1603 | [16. Defense](#defense)                                              | [Military intelligence and espionage](#militaryintelligence)                                           |
-| 1604 | [16. Defense](#defense)                                              | [Military Logistics](#administrationmilitary)                        |
-| 1605 | [16. Defense](#defense)                                              | [Arms control and nuclear Nonproliferation](#armscontrol)                                              |
-| 1606 | [16. Defense](#defense)                                              | [Military cooperation and arms export](#militarycooperation)                                        |
-| 1608 | [16. Defense](#defense)                                              | [Military personnel](#militarypersonnel)                                                               |
-| 1610 | [16. Defense](#defense)                                              | [Military procurement](#militaryprocurement)                                                           |
-| 1611 | [16. Defense](#defense)                                              | [Military installations](#militaryinstallations)                                                       |
-| 1612 | [16. Defense](#defense)                                              | [Military service and civil service](#militaryserviceandcivilservice)                                  |
-| 1614 | [16. Defense](#defense)                                              | [Defense and environment](#defenseandenvironment)                                                      |
-| 1615 | [16. Defense](#defense)                                              | [Protection and support service (P&S)](#protectionandsupport)                                          |
-| 1616 | [16. Defense](#defense)                                              | [Civilian military personal](#civilianmilitarypersonal)                                                |
-| 1617 | [16. Defense](#defense)                                              | [Oversight of defense contracts and contractors](#defensecontracts)                                    |
-| 1619 | [16. Defense](#defense)                                              | [Direct war related issues](#warissues)                                                                |
-| 1620 | [16. Defense](#defense)                                              | [Claims against the Swiss army](#claimsvsswissarmy)                                                    |
-| 1698 | [16. Defense](#defense)                                              | [Research and development](#rddefense)                                                                 |
-| 1699 | [16. Defense](#defense)                                              | [Other](#other16)                                                                                      |
-| 1700 | [17. Science, Technology and Communications](#science)               | [General](#general17)                                                                                  |
-| 1701 | [17. Science, Technology and Communications](#science)               | [Space issues](#spaceexploration)                                                                 |
-| 1704 | [17. Science, Technology and Communications](#science)               | [Commercial use of space and satellites](#commcercialusespace)                                         |
-| 1705 | [17. Science, Technology and Communications](#science)               | [Science technology transfer, international scientific cooperation](#technologytransfer)               |
-| 1706 | [17. Science, Technology and Communications](#science)               | [Telecommunications](#telecommunication)                                 |
-| 1707 | [17. Science, Technology and Communications](#science)               | [Media](#mediacontent)                                                                       |
-| 1708 | [17. Science, Technology and Communications](#science)               | [Meteorology](#meteorology)                                                                            |
-| 1709 | [17. Science, Technology and Communications](#science)               | [Computer industry](#computerindustry)                                                    |
-| 1798 | [17. Science, Technology and Communications](#science)        | [Research and development](#rdsciencetechnology)                                                                            |
-| 1799 | [17. Science, Technology and Communications](#science)        | [Other](#other17)                                                                                                           |
-| 1800 | [18. Foreign Trade](#foreigntrade)                            | [General](#general18)                                                                                                       |
-| 1802 | [18. Foreign Trade](#foreigntrade)                            | [Trade negotiations and agreements](#tradeagreements)                                                                 |
-| 1803 | [18. Foreign Trade](#foreigntrade)                            | [Export promotion and regulation](#exportpromotion)                                                                         |
-| 1804 | [18. Foreign Trade](#foreigntrade)                            | [International private business investments](#privatebusiness)                                                              |
-| 1806 | [18. Foreign Trade](#foreigntrade)                            | [National Productivity and competitiveness](#competitivenssswitzerland)                             |
-| 1807 | [18. Foreign Trade](#foreigntrade)                            | [Import regulation](#importregulation)                                                                |
-| 1808 | [18. Foreign Trade](#foreigntrade)                            | [Exchange rates](#exchangerates)                                                                                            |
-| 1899 | [18. Foreign Trade](#foreigntrade)                            | [Other](#other18)                                                                                                           |
-| 1900 | [19. International Affairs](#internationalaffairs)            | [General](#general19)                                                                                                       |
-| 1901 | [19. International Affairs](#internationalaffairs)            | [Foreign aid](#foreignaid)                                                                                                  |
-| 1902 | [19. International Affairs](#internationalaffairs)            | [Natural resources and international agreements](#naturalinternationalagreements)                                           |
-| 1905 | [19. International Affairs](#internationalaffairs)            | [Developing countries issues](#developingcountries)                                                                         |
-| 1906 | [19. International Affairs](#internationalaffairs)            | [International Finance and Economic Development)](#iofinanceeconomic)                                        |
-| 1910 | [19. International Affairs](#internationalaffairs)            | [European Union](#eu)                                                                                                       |
-| 1921 | [19. International Affairs](#internationalaffairs)            | [Specific Country / Region](#specificcountry)                                                                               |
-| 1925 | [19. International Affairs](#internationalaffairs)            | [Human rights](#humanrights)                                                                                                |
-| 1926 | [19. International Affairs](#internationalaffairs)            | [International organizations](#io)                                                                                          |
-| 1927 | [19. International Affairs](#internationalaffairs)            | [Terrorism and hijacking](#terrorism)                                                                                       |
-| 1929 | [19. International Affairs](#internationalaffairs)            | [Diplomacy and consular affairs](#diplomacy)                                                                                |
-| 1951 | [19. International Affairs](#internationalaffairs)            | [Swiss-European Union relations](#swisseu)                                                                                  |
-| 1952 | [19. International Affairs](#internationalaffairs)            | [Swiss membership/participation to international organizations](#swissio)                                                   |
-| 1953 | [19. International Affairs](#internationalaffairs)            | [Swiss membership/participation to international organizations (finance and economic development)](#swissiofinanceeconomic) |
-| 1999 | [19. International Affairs](#internationalaffairs)            | [Other](#other19)                                                                                                           |
-| 2000 | [20. Government and Public Administration](#governmentadmin)  | [General](#general20)                                                                                                       |
-| 2001 | [20. Government and Public Administration](#governmentadmin)  | [Intergovernmental relations](#confederationcantonscommunes)                                |
-| 2002 | [20. Government and Public Administration](#governmentadmin)  | [Government Organization and Bureaucratic Oversight](#executivebureaucratic)                                          |
-| 2003 | [20. Government and Public Administration](#governmentadmin)  | [Postal service](#post)                                                                                                       |
-| 2004 | [20. Government and Public Administration](#governmentadmin)  | [Government employees](#governmentofficials)                                                                  |
-| 2005 | [20. Government and Public Administration](#governmentadmin)  | [Nominations and appointments](#nominations)                                                                                |
-| 2006 | [20. Government and Public Administration](#governmentadmin)  | [Currency, commemorative coins, medals, mint](#currencycoins)                                                               |
-| 2007 | [20. Government and Public Administration](#governmentadmin)  | [Government procurement](#govcontracts)                                                         |
-| 2008 | [20. Government and Public Administration](#governmentadmin)  | [Government property management](#govproperty)                                                                              |
-| 2009 | [20. Government and Public Administration](#governmentadmin)  | [Federal tax administration](#federaltax)                                                                                   |
-| 2010 | [20. Government and Public Administration](#governmentadmin)  | [Government scandals](#executivescandals)                                                                             |
-| 2011 | [20. Government and Public Administration](#governmentadmin)  | [Parliamentary affairs and Government branch relations](#parliamentaryaffairs)                                   |
-| 2012 | [20. Government and Public Administration](#governmentadmin)  | [Political activities](#politicalactivities)                                                                                |
-| 2013 | [20. Government and Public Administration](#governmentadmin)  | [Census and Statistics](#census)                                                                                                           |
-| 2014 | [20. Government and Public Administration](#governmentadmin)  | [Capital city affairs](#capitalcity)                                                                                        |
-| 2015 | [20. Government and Public Administration](#governmentadmin)  | [Relief of claims against the government](#reliefofclaims)                                                                  |
-| 2030 | [20. Government and Public Administration](#governmentadmin)  | [Federal holidays](#federalholidays)                                                                                        |
-| 2099 | [20. Government and Public Administration](#governmentadmin)  | [Other](#other20)                                                                                                           |
-| 2100 | [21. Public Lands and Water Management](#publiclandsandwater) | [General](#general21)                                                                                                       |
-| 2101 | [21. Public Lands and Water Management](#publiclandsandwater) | [National parks and conservation areas](#nationalparks)                                                                     |
-| 2103 | [21. Public Lands and Water Management](#publiclandsandwater) | [Natural resources management](#naturalresourcesforests)                                                     |
-| 2104 | [21. Public Lands and Water Management](#publiclandsandwater) | [Water resources development and research](#waterresources)                                                                 |
-| 2199 | [21. Public Lands and Water Management](#publiclandsandwater) | [Other](#other21)                                                                                                           |
+| 898  | [8. Energy](#8-energy)                                                 | [Research and development](#rdenergy)                                                                  |
+| 899  | [8. Energy](#8-energy)                                                 | [Other](#other8)                                                                                       |
+| 900  | [9. Immigration and integration](#9-immigration-and-integration)                       | [General](#general9)                                                                                   |
+| 930  | [9. Immigration and integration](#9-immigration-and-integration)                       | [Migration regulation](#migrationregulation)                                                           |
+| 931  | [9. Immigration and integration](#9-immigration-and-integration)                       | [Refugees and asylum](#refugeesasylum)                                                                 |
+| 932  | [9. Immigration and integration](#9-immigration-and-integration)                       | [Acquisition of Swiss citizenship](#swisscitizenship)                                                  |
+| 933  | [9. Immigration and integration](#9-immigration-and-integration)                       | [Immigrant's integration](#immigrantsintegration)                                                      |
+| 934  | [9. Immigration and integration](#9-immigration-and-integration)                       | [Immigrant's voting rights](#immigrantsvotingrights)                                                   |
+| 999  | [9. Immigration and integration](#9-immigration-and-integration)                       | [Other](#other9)                                                                                       |
+| 1000 | [10. Transportation](#10-transportation)                                | [General](#general10)                                                                                  |
+| 1001 | [10. Transportation](#10-transportation)                                | [Public transportation](#masstransportation)                                                             |
+| 1002 | [10. Transportation](#10-transportation)                                | [Roads and highways](#roadshighways)                                                                   |
+| 1003 | [10. Transportation](#10-transportation)                                | [Aviation](#airports)                                                           |
+| 1005 | [10. Transportation](#10-transportation)                                | [Railroad](#railroad)                                                                   |
+| 1007 | [10. Transportation](#10-transportation)                                | [Maritime and fluvial transportation](#maritimetransport)                                                     |
+| 1010 | [10. Transportation](#10-transportation)                                | [Infrastructure development and public works](#infrastructuredevelopment)                              |
+| 1098 | [10. Transportation](#10-transportation)                                | [Research and development](#rdtransportation)                                                          |
+| 1099 | [10. Transportation](#10-transportation)                                | [Other](#other10)                                                                                      |
+| 1200 | [12. Law and Order](#12-law-and-order)                                    | [General](#general12)                                                                                  |
+| 1201 | [12. Law and Order](#12-law-and-order)                                    | [Law and Order Agencies](#police)                                                              |
+| 1202 | [12. Law and Order](#12-law-and-order)                                    | [Organized Crime](#organizedcrime)                                                                     |
+| 1203 | [12. Law and Order](#12-law-and-order)                                    | [Illegal drug](#drugtrafficking)                                            |
+| 1204 | [12. Law and Order](#12-law-and-order)                                    | [Judicial system](#judicialsystem)                                                                     |
+| 1205 | [12. Law and Order](#12-law-and-order)                                    | [Prisons](#prisons)                                                                                    |
+| 1206 | [12. Law and Order](#12-law-and-order)                                    | [Juvenile crime and the juvenile justice system](#juvenilecrime)                                       |
+| 1207 | [12. Law and Order](#12-law-and-order                                    | [Child abuse and pedophilia](#childabuse)                                                              |
+| 1208 | [12. Law and Order](#12-law-and-order)                                    | [Family law](#familylaw)                                                                               |
+| 1209 | [12. Law and Order](#12-law-and-order)                                    | [Police, fire and weapons control](#weaponscontrol)                                                    |
+| 1210 | [12. Law and Order](#12-law-and-order)                                    | [Criminal and civil code](#criminalcivilcode)                                                          |
+| 1211 | [12. Law and Order](#12-law-and-order)                                    | [Crime and Riots](#riotscrime)                                                                         |
+| 1212 | [12. Law and Order](#12-law-and-order)                                    | [Prostitution and people trafficking](#prostitution)                                                   |
+| 1213 | [12. Law and Order](#12-law-and-order)                                    | [White collar crime](#whitecollar)                                                                     |
+| 1227 | [12. Law and Order](#12-law-and-order)                                    | [Police and Other General Domestic Security Responses to Terrorism](#responsestoterrorism)            |
+| 1299 | [12. Law and Order](#12-law-and-order)                                    | [Other](#other12)                                                                                      |
+| 1300 | [13. Social Policy](#13-social-policy)                                   | [General](#general13)                                                                                  |
+| 1302 | [13. Social Policy](#13-social-policy)                                   | [Assistance for low-income people](#assistlowincome)                                                  |
+| 1303 | [13. Social Policy](#13-social-policy)                                   | [Assistance to elderly people](#assistelderly)                                                         |
+| 1304 | [13. Social Policy](#13-social-policy)                                   | [Assistance to the disabled and handicapped](#assistdisabled)                                          |
+| 1305 | [13. Social Policy](#13-social-policy)                                   | [Social services and volunteer associations](#socialservices)                                          |
+| 1350 | [13. Social Policy](#13-social-policy)                                   | [Public pensions (AHV/AVS)](#publicpensions)                                                           |
+| 1399 | [13. Social Policy](#13-social-policy)                                   | [Other](#other13)                                                                                      |
+| 1400 | [14. Urban and Regional Policies](#14-urban-and-regional-policies)                 | [General](#general14)                                                                                  |
+| 1401 | [14. Urban and Regional Policies](#14-urban-and-regional-policies)                 | [Urban housing](#urbanhousing)                                                                  |
+| 1403 | [14. Urban and Regional Policies](#14-urban-and-regional-policies)                 | [Urban economic development and policies](#urbaneconomicdevelopment)                     |
+| 1404 | [14. Urban and Regional Policies](#14-urban-and-regional-policies)                 | [Rural and mountainous housing](#housingrural)                                              |
+| 1405 | [14. Urban and Regional Policies](#14-urban-and-regional-policies)                 | [Rural and mountainous economic development](#ruraleconomicdevelopment)                     |
+| 1406 | [14. Urban and Regional Policies](#14-urban-and-regional-policies)                 | [Social housing](#socialhousing)                                                   |
+| 1408 | [14. Urban and Regional Policies](#14-urban-and-regional-policies)                 | [Elderly and handicapped housing](#elderlyhousing)                                                     |
+| 1409 | [14. Urban and Regional Policies](#14-urban-and-regional-policies)                 | [Homeless issues](#homelesshousing)                                                        |
+| 1410 | [14. Urban and Regional Policies](#14-urban-and-regional-policies)                 | [Rental housing market regulation](#housingmarketregulation)                                           |
+| 1450 | [14. Urban and Regional Policies](#14-urban-and-regional-policies)                 | [Land use and planning](#landuse)                                                                      |
+| 1499 | [14. Urban and Regional Policies](#14-urban-and-regional-policies)                 | [Other](#other14)                                                                                      |
+| 1500 | [15. Domestic Commerce](#15-domestic-commerce) | [General](#general15)                                                                                  |
+| 1501 | [15. Domestic Commerce](#15-domestic-commerce) | [Banking system and regulation](#bankingsystem)                                                                       |
+| 1502 | [15. Domestic Commerce](#15-domestic-commerce) | [Financial markets](#financialmarkets)                                                                  |
+| 1504 | [15. Domestic Commerce](#15-domestic-commerce) | [Mortgages and credit market](#creditmarket)                                                       |
+| 1505 | [15. Domestic Commerce](#15-domestic-commerce) | [Insurances regulation](#insurances)                                                                              |
+| 1507 | [15. Domestic Commerce](#15-domestic-commerce) | [Bankruptcy](#bankruptcy)                                                                              |
+| 1520 | [15. Domestic Commerce](#15-domestic-commerce) | [Competition and corporate management](#competitioncorporate)                                   |
+| 1521 | [15. Domestic Commerce](#15-domestic-commerce) | [Small business and self-employed issues](#smallbusiness)                                        |
+| 1522 | [15. Domestic Commerce](#15-domestic-commerce) | [Copyright and patents](#copyrightpatents)                                                             |
+| 1523 | [15. Domestic Commerce](#15-domestic-commerce) | [Domestic Disaster Relief](#domesticdisasterrelief)                                                    |
+| 1524 | [15. Domestic Commerce](#15-domestic-commerce) | [Tourism](#tourism)                                                                                    |
+| 1525 | [15. Domestic Commerce](#15-domestic-commerce) | [Consumer protection](#consumerprotection)                                                             |
+| 1526 | [15. Domestic Commerce](#15-domestic-commerce) | [Gambling](#gambling)                                                                                  |
+| 1550 | [15. Domestic Commerce](#15-domestic-commerce) | [Bank secrecy](#banksecrecy)                                                                           |
+| 1599 | [15. Domestic Commerce](#15-domestic-commerce) | [Other](#other15)                                                                                      |
+| 1600 | [16. Defense](#16-defense)                                              | [General](#general16)                                                                                  |
+| 1602 | [16. Defense](#16-defense)                                              | [Security policy and military commitments](#securitypolicy)                                            |
+| 1603 | [16. Defense](#16-defense)                                              | [Military intelligence and espionage](#militaryintelligence)                                           |
+| 1604 | [16. Defense](#16-defense)                                              | [Military Logistics](#administrationmilitary)                        |
+| 1605 | [16. Defense](#16-defense)                                              | [Arms control and nuclear Nonproliferation](#armscontrol)                                              |
+| 1606 | [16. Defense](#16-defense)                                              | [Military cooperation and arms export](#militarycooperation)                                        |
+| 1608 | [16. Defense](#16-defense)                                              | [Military personnel](#militarypersonnel)                                                               |
+| 1610 | [16. Defense](#16-defense)                                              | [Military procurement](#militaryprocurement)                                                           |
+| 1611 | [16. Defense](#16-defense)                                              | [Military installations](#militaryinstallations)                                                       |
+| 1612 | [16. Defense](#16-defense)                                              | [Military service and civil service](#militaryserviceandcivilservice)                                  |
+| 1614 | [16. Defense](#16-defense)                                              | [Defense and environment](#defenseandenvironment)                                                      |
+| 1615 | [16. Defense](#16-defense)                                              | [Protection and support service (P&S)](#protectionandsupport)                                          |
+| 1616 | [16. Defense](#16-defense)                                              | [Civilian military personal](#civilianmilitarypersonal)                                                |
+| 1617 | [16. Defense](#16-defense)                                              | [Oversight of defense contracts and contractors](#defensecontracts)                                    |
+| 1619 | [16. Defense](#16-defense)                                              | [Direct war related issues](#warissues)                                                                |
+| 1620 | [16. Defense](#16-defense)                                              | [Claims against the Swiss army](#claimsvsswissarmy)                                                    |
+| 1698 | [16. Defense](#16-defense)                                              | [Research and development](#rddefense)                                                                 |
+| 1699 | [16. Defense](#16-defense)                                              | [Other](#other16)                                                                                      |
+| 1700 | [17. Science, Technology and Communications](#17-science-technology-and-communications)               | [General](#general17)                                                                                  |
+| 1701 | [17. Science, Technology and Communications](#17-science-technology-and-communications)               | [Space issues](#spaceexploration)                                                                 |
+| 1704 | [17. Science, Technology and Communications](#17-science-technology-and-communications)               | [Commercial use of space and satellites](#commcercialusespace)                                         |
+| 1705 | [17. Science, Technology and Communications](#17-science-technology-and-communications)               | [Science technology transfer, international scientific cooperation](#technologytransfer)               |
+| 1706 | [17. Science, Technology and Communications](#17-science-technology-and-communications)               | [Telecommunications](#telecommunication)                                 |
+| 1707 | [17. Science, Technology and Communications](#17-science-technology-and-communications)               | [Media](#mediacontent)                                                                       |
+| 1708 | [17. Science, Technology and Communications](#17-science-technology-and-communications)               | [Meteorology](#meteorology)                                                                            |
+| 1709 | [17. Science, Technology and Communications](#17-science-technology-and-communications)               | [Computer industry](#computerindustry)                                                    |
+| 1798 | [17. Science, Technology and Communications](#17-science-technology-and-communications)        | [Research and development](#rdsciencetechnology)                                                                            |
+| 1799 | [17. Science, Technology and Communications](#17-science-technology-and-communications)        | [Other](#other17)                                                                                                           |
+| 1800 | [18. Foreign Trade](#18-foreign-trade)                            | [General](#general18)                                                                                                       |
+| 1802 | [18. Foreign Trade](#18-foreign-trade))                            | [Trade negotiations and agreements](#tradeagreements)                                                                 |
+| 1803 | [18. Foreign Trade](#18-foreign-trade))                            | [Export promotion and regulation](#exportpromotion)                                                                         |
+| 1804 | [18. Foreign Trade](#18-foreign-trade))                            | [International private business investments](#privatebusiness)                                                              |
+| 1806 | [18. Foreign Trade](#18-foreign-trade))                            | [National Productivity and competitiveness](#competitivenssswitzerland)                             |
+| 1807 | [18. Foreign Trade](#18-foreign-trade))                            | [Import regulation](#importregulation)                                                                |
+| 1808 | [18. Foreign Trade](#18-foreign-trade))                            | [Exchange rates](#exchangerates)                                                                                            |
+| 1899 | [18. Foreign Trade](#18-foreign-trade))                            | [Other](#other18)                                                                                                           |
+| 1900 | [19. International Affairs](#19-international-affairs)            | [General](#general19)                                                                                                       |
+| 1901 | [19. International Affairs](#19-international-affairs)            | [Foreign aid](#foreignaid)                                                                                                  |
+| 1902 | [19. International Affairs](#19-international-affairs)            | [Natural resources and international agreements](#naturalinternationalagreements)                                           |
+| 1905 | [19. International Affairs](#19-international-affairs)            | [Developing countries issues](#developingcountries)                                                                         |
+| 1906 | [19. International Affairs](#19-international-affairs)            | [International Finance and Economic Development)](#iofinanceeconomic)                                        |
+| 1910 | [19. International Affairs](#19-international-affairs)            | [European Union](#eu)                                                                                                       |
+| 1921 | [19. International Affairs](#19-international-affairs)            | [Specific Country / Region](#specificcountry)                                                                               |
+| 1925 | [19. International Affairs](#19-international-affairs)            | [Human rights](#humanrights)                                                                                                |
+| 1926 | [19. International Affairs](#19-international-affairs)            | [International organizations](#io)                                                                                          |
+| 1927 | [19. International Affairs](#19-international-affairs)            | [Terrorism and hijacking](#terrorism)                                                                                       |
+| 1929 | [19. International Affairs](#19-international-affairs)            | [Diplomacy and consular affairs](#diplomacy)                                                                                |
+| 1951 | [19. International Affairs](#19-international-affairs)            | [Swiss-European Union relations](#swisseu)                                                                                  |
+| 1952 | [19. International Affairs](#19-international-affairs)            | [Swiss membership/participation to international organizations](#swissio)                                                   |
+| 1953 | [19. International Affairs](#19-international-affairs)            | [Swiss membership/participation to international organizations (finance and economic development)](#swissiofinanceeconomic) |
+| 1999 | [19. International Affairs](#19-international-affairs)            | [Other](#other19)                                                                                                           |
+| 2000 | [20. Government and Public Administration](#20-government-and-public-administration)  | [General](#general20)                                                                                                       |
+| 2001 | [20. Government and Public Administration](#20-government-and-public-administration)  | [Intergovernmental relations](#confederationcantonscommunes)                                |
+| 2002 | [20. Government and Public Administration](#20-government-and-public-administration)  | [Government Organization and Bureaucratic Oversight](#executivebureaucratic)                                          |
+| 2003 | [20. Government and Public Administration](#20-government-and-public-administration)  | [Postal service](#post)                                                                                                       |
+| 2004 | [20. Government and Public Administration](#20-government-and-public-administration)  | [Government employees](#governmentofficials)                                                                  |
+| 2005 | [20. Government and Public Administration](#20-government-and-public-administration)  | [Nominations and appointments](#nominations)                                                                                |
+| 2006 | [20. Government and Public Administration](#20-government-and-public-administration)  | [Currency, commemorative coins, medals, mint](#currencycoins)                                                               |
+| 2007 | [20. Government and Public Administration](#20-government-and-public-administration)  | [Government procurement](#govcontracts)                                                         |
+| 2008 | [20. Government and Public Administration](#20-government-and-public-administration)  | [Government property management](#govproperty)                                                                              |
+| 2009 | [20. Government and Public Administration](#20-government-and-public-administration)  | [Federal tax administration](#federaltax)                                                                                   |
+| 2010 | [20. Government and Public Administration](#20-government-and-public-administration)  | [Government scandals](#executivescandals)                                                                             |
+| 2011 | [20. Government and Public Administration](#20-government-and-public-administration)  | [Parliamentary affairs and Government branch relations](#parliamentaryaffairs)                                   |
+| 2012 | [20. Government and Public Administration](#20-government-and-public-administration)  | [Political activities](#politicalactivities)                                                                                |
+| 2013 | [20. Government and Public Administration](#20-government-and-public-administration)  | [Census and Statistics](#census)                                                                                                           |
+| 2014 | [20. Government and Public Administration](#20-government-and-public-administration)  | [Capital city affairs](#capitalcity)                                                                                        |
+| 2015 | [20. Government and Public Administration](#20-government-and-public-administration)  | [Relief of claims against the government](#reliefofclaims)                                                                  |
+| 2030 | [20. Government and Public Administration](#20-government-and-public-administration)  | [Federal holidays](#federalholidays)                                                                                        |
+| 2099 | [20. Government and Public Administration](#20-government-and-public-administration)  | [Other](#other20)                                                                                                           |
+| 2100 | [21. Public Lands and Water Management](#21-public-lands-and-water-management) | [General](#2100-general)                                                                                                       |
+| 2101 | [21. Public Lands and Water Management](#21-public-lands-and-water-management) | [National parks and conservation areas](#nationalparks)                                                                     |
+| 2103 | [21. Public Lands and Water Management](#21-public-lands-and-water-management) | [Natural resources management](#naturalresourcesforests)                                                     |
+| 2104 | [21. Public Lands and Water Management](#21-public-lands-and-water-management) | [Water resources development and research](#waterresources)                                                                 |
+| 2199 | [21. Public Lands and Water Management](#21-public-lands-and-water-management) | [Other](#2199-other)                                                                                                           |
 
 [↥ back to top](#swiss-topics-codebook)
 
