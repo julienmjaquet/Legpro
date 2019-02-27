@@ -1219,7 +1219,7 @@ Disability insurance (AI), coordination of AI and benefits of the accident insur
 
 Aid organizations, work for voluntary associations, charities.
 
-#### `1350 Public pensions (AVS)`
+#### `1350 Public pensions (AHV/AVS)`
 
 Old age pension and surviving dependants' insurance (AVS), retirement age, taxes on AVS pensions, calculations of pensions.
  
