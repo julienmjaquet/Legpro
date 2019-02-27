@@ -32,9 +32,9 @@ To be completed.
 
 | Code | General category                                                     | Subtopic                                                                                               |
 |------|----------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------|
-| 100  | [1. Macroeconomic](#1-macroeconomics)                  | [General](#general)                                                                                    |
-| 101  | [1. Macroeconomic](#1-macroeconomics)                  | [Inflation, prices and interest rates](#inflation)                                                     |
-| 103  | [1. Macroeconomic](#1-macroeconomics)                  | [Unemployment rate](#unemployment)                                                                     |
+| 100  | [1. Macroeconomic](#1-macroeconomics)                  | [General](#100-general)                                                                                    |
+| 101  | [1. Macroeconomic](#1-macroeconomics)                  | [Inflation, prices and interest rates](#101-inflation-prices-and-interest-rates)                                                     |
+| 103  | [1. Macroeconomic](#1-macroeconomics)                  | [Unemployment rate](#103-unemployment-rate)                                                                     |
 | 104  | [1. Macroeconomic](#1-macroeconomics)                  | [Monetary policy and the Swiss national bank (SNB)](#monetarypolicysnb)                                |
 | 105  | [1. Macroeconomic](#1-macroeconomics)                  | [National budget and debt](#budgetdebt)                                                                |
 | 107  | [1. Macroeconomic](#1-macroeconomics)                  | [Taxation](#taxation)                                                       |
@@ -75,52 +75,52 @@ To be completed.
 | 401  | [4. Agriculture](##4-agriculture)                                       | [Agricultural trade](#agriculturaltrade)                          |
 | 402  | [4. Agriculture](#4-agriculture)                                       | [Subsides and regulation on agriculture](#subsidesagriculture)                                         |
 | 403  | [4. Agriculture](#4-agriculture)                                       | [Food inspection and safety](#foodinspection)                                                  |
-| 404  | [4. Agriculture](#agriculture)                                       | [Agricultural marketing and promotion](#agriculturalmarketing)                                         |
-| 405  | [4. Agriculture](#agriculture)                                       | [Animal and crop diseases](#animaldiseasescontrol)                                    |
-| 406  | [4. Agriculture](#agriculture)                                       | [Animal Welfare](#welfarelivestock)                                                              |
-| 498  | [4. Agriculture](#agriculture)                                       | [Agriculture research and development](#agriculturesearch)                                             |
-| 499  | [4. Agriculture](#agriculture)                                       | [Other](#other4)                                                                                       |
-| 500  | [5. Labor and Employment](#laborandemployment)                       | [General](#general5)                                                                                   |
-| 501  | [5. Labor and Employment](#laborandemployment)                       | [Working Safety and Protection](#workingenvironment)                                      |
-| 502  | [5. Labor and Employment](#laborandemployment)                       | [Employment training and workforce development](#employmenttraining)                                   |
-| 503  | [5. Labor and Employment](#laborandemployment)                       | [Employee Benefits](#employeebenefits)                                                        |
-| 504  | [5. Labor and Employment](#laborandemployment)                       | [Employee relations and trade unions](#employeerelations)                                              |
-| 505  | [5. Labor and Employment](#laborandemployment)                       | [Labor law](#laborlaw)                                                                                 |
-| 506  | [5. Labor and Employment](#laborandemployment)                       | [Youth employment](#youthemployment)                                                                   |
-| 508  | [5. Labor and Employment](#laborandemployment)                       | [Parental leave, childcare and work-life balance](#parentalleave)                                      |
-| 512  | [5. Labor and Employment](#laborandemployment)                       | [Unemployment insurance](#unemploymentinsurance)                                                       |
-| 529  | [5. Labor and Employment](#laborandemployment)                       | [Seasonal workers and rural labor](#seasonalworkers)                                            |
-| 599  | [5. Labor and Employment](#laborandemployment)                       | [Other](#other5)                                                                                       |
-| 600  | [6. Education, culture and sports](#education)                       | [General](#general6)                                                                                   |
-| 601  | [6. Education, culture and sports](#education)                       | [Higher education](#highereducation)                                                                   |
-| 602  | [6. Education, culture and sports](#education)                       | [Nursery schools, primary and secondary education](#primarysecondaryeducation)                         |
-| 603  | [6. Education, culture and sports](#education)                       | [Underprivileged students and school failure](#supportstudents)               |
-| 604  | [6. Education, culture and sports](#education)                       | [Technical and vocational training](#vocationaltraining)                                               |
-| 606  | [6. Education, culture and sports](#education)                       | [Special education](#specialeducation)                                                                 |
-| 607  | [6. Education, culture and sports](#education)                       | [Education quality](#educationquality)                                        |
-| 609  | [6. Education, culture and sports](#education)                       | [Culture](#culture)                                                                                    |
-| 610  | [6. Education, culture and sports](#education)                       | [Sports](#sports)                                                                                      |
-| 698  | [6. Education, culture and sports](#education)                       | [Research and development](#rdeducation)                                                               |
-| 699  | [6. Education, culture and sports](#education)                       | [Other](#other6)                                                                                       |
-| 700  | [7. Environment](#environment)                                       | [General](#general7)                                                                                   |
-| 701  | [7. Environment](#environment)                                       | [Drinking water](#drinkingwater)                                                                       |
-| 703  | [7. Environment](#environment)                                       | [Waste](#waste)                                                                                        |
-| 704  | [7. Environment](#environment)                                       | [Hazardous and toxic waste](#toxicwaste)                                      |
-| 705  | [7. Environment](#environment)                                       | [Climate and noise pollution](#airpollution)                                                      |
-| 707  | [7. Environment](#environment)                                       | [Recycling](#recycling)                                                                                |
-| 708  | [7. Environment](#environment)                                       | [Indoor environmental hazards](#indoorhazards)                                                         |
-| 709  | [7. Environment](#environment)                                       | [Animal and plant life protection](#animalplantprotection)                                             |
-| 711  | [7. Environment](#environment)                                       | [Land and water conservation](#landconservation)                                                  |
-| 798  | [7. Environment](#environment)                                       | [Research and development](#rdenvironment)                                                             |
-| 799  | [7. Environment](#environment)                                       | [Other](#other7)                                                                                       |
-| 800  | [8. Energy](#energy)                                                 | [General](#general8)                                                                                   |
-| 801  | [8. Energy](#energy)                                                 | [Nuclear energy](#nuclearenergy)                                                                       |
-| 802  | [8. Energy](#energy)                                                 | [Hydroelectricity](#hydroelectricity)                                                                  |
-| 803  | [8. Energy](#energy)                                                 | [Natural oil and gas](#oilandgas)                                                                      |
-| 805  | [8. Energy](#energy)                                                 | [Coal](#coal)                                                                                          |
-| 806  | [8. Energy](#energy)                                                 | [Alternative and renewable energy](#alternativeenergy)                                                 |
-| 807  | [8. Energy](#energy)                                                 | [Energy saving](#energysaving)                                                                         |
-| 808  | [8. Energy](#energy)                                                 | [Electricity](#electricity)                                                                            |
+| 404  | [4. Agriculture](#4-agriculture)                                       | [Agricultural marketing and promotion](#agriculturalmarketing)                                         |
+| 405  | [4. Agriculture](4-agriculture)                                       | [Animal and crop diseases](#animaldiseasescontrol)                                    |
+| 406  | [4. Agriculture](4-agriculture)                                       | [Animal Welfare](#welfarelivestock)                                                              |
+| 498  | [4. Agriculture](4-agriculture)                                       | [Agriculture research and development](#agriculturesearch)                                             |
+| 499  | [4. Agriculture](4-agriculture)                                       | [Other](#other4)                                                                                       |
+| 500  | [5. Labor and Employment](#5-labor-and-employment)                       | [General](#general5)                                                                                   |
+| 501  | [5. Labor and Employment](#5-labor-and-employment)                       | [Working Safety and Protection](#workingenvironment)                                      |
+| 502  | [5. Labor and Employment](#5-labor-and-employment)                       | [Employment training and workforce development](#employmenttraining)                                   |
+| 503  | [5. Labor and Employment](#5-labor-and-employment)                       | [Employee Benefits](#employeebenefits)                                                        |
+| 504  | [5. Labor and Employment](#5-labor-and-employment)                       | [Employee relations and trade unions](#employeerelations)                                              |
+| 505  | [5. Labor and Employment](#5-labor-and-employment)                       | [Labor law](#laborlaw)                                                                                 |
+| 506  | [5. Labor and Employment](#5-labor-and-employment)                       | [Youth employment](#youthemployment)                                                                   |
+| 508  | [5. Labor and Employment](#5-labor-and-employment)                       | [Parental leave, childcare and work-life balance](#parentalleave)                                      |
+| 512  | [5. Labor and Employment](#5-labor-and-employment)                       | [Unemployment insurance](#unemploymentinsurance)                                                       |
+| 529  | [5. Labor and Employment](#5-labor-and-employment)                       | [Seasonal workers and rural labor](#seasonalworkers)                                            |
+| 599  | [5. Labor and Employment](#5-labor-and-employment)                       | [Other](#other5)                                                                                       |
+| 600  | [6. Education, culture and sports](#6-education-culture-and-sports)                       | [General](#general6)                                                                                   |
+| 601  | [6. Education, culture and sports](#6-education-culture-and-sports)                       | [Higher education](#highereducation)                                                                   |
+| 602  | [6. Education, culture and sports](#6-education-culture-and-sports)                       | [Nursery schools, primary and secondary education](#primarysecondaryeducation)                         |
+| 603  | [6. Education, culture and sports](#6-education-culture-and-sports)                       | [Underprivileged students and school failure](#supportstudents)               |
+| 604  | [6. Education, culture and sports](#6-education-culture-and-sports)                       | [Technical and vocational training](#vocationaltraining)                                               |
+| 606  | [6. Education, culture and sports](#6-education-culture-and-sports)                       | [Special education](#specialeducation)                                                                 |
+| 607  | [6. Education, culture and sports](#6-education-culture-and-sports)                       | [Education quality](#educationquality)                                        |
+| 609  | [6. Education, culture and sports](#6-education-culture-and-sports)                       | [Culture](#culture)                                                                                    |
+| 610  | [6. Education, culture and sports](#6-education-culture-and-sports)                       | [Sports](#sports)                                                                                      |
+| 698  | [6. Education, culture and sports](#6-education-culture-and-sports)                       | [Research and development](#rdeducation)                                                               |
+| 699  | [6. Education, culture and sports](#6-education-culture-and-sports)                       | [Other](#other6)                                                                                       |
+| 700  | [7. Environment](#7-environment)                                       | [General](#general7)                                                                                   |
+| 701  | [7. Environment](#7-environment)                                       | [Drinking water](#drinkingwater)                                                                       |
+| 703  | [7. Environment](#7-environment)                                       | [Waste](#waste)                                                                                        |
+| 704  | [7. Environment](#7-environment)                                       | [Hazardous and toxic waste](#toxicwaste)                                      |
+| 705  | [7. Environment](#7-environment)                                       | [Climate and noise pollution](#airpollution)                                                      |
+| 707  | [7. Environment](#7-environment)                                       | [Recycling](#recycling)                                                                                |
+| 708  | [7. Environment](#7-environment)                                       | [Indoor environmental hazards](#indoorhazards)                                                         |
+| 709  | [7. Environment](#7-environment)                                       | [Animal and plant life protection](#animalplantprotection)                                             |
+| 711  | [7. Environment](#7-environment)                                       | [Land and water conservation](#landconservation)                                                  |
+| 798  | [7. Environment](#7-environment)                                       | [Research and development](#rdenvironment)                                                             |
+| 799  | [7. Environment](#7-environment)                                       | [Other](#other7)                                                                                       |
+| 800  | [8. Energy](#8-energy)                                                 | [General](#general8)                                                                                   |
+| 801  | [8. Energy](#8-energy)                                                 | [Nuclear energy](#nuclearenergy)                                                                       |
+| 802  | [8. Energy](#8-energy)                                                 | [Hydroelectricity](#hydroelectricity)                                                                  |
+| 803  | [8. Energy](#8-energy)                                                 | [Natural oil and gas](#oilandgas)                                                                      |
+| 805  | [8. Energy](#8-energy)                                                 | [Coal](#coal)                                                                                          |
+| 806  | [8. Energy](#8-energy)                                                 | [Alternative and renewable energy](#alternativeenergy)                                                 |
+| 807  | [8. Energy](#8-energy)                                                 | [Energy saving](#energysaving)                                                                         |
+| 808  | [8. Energy](#8-energy)                                                 | [Electricity](#electricity)                                                                            |
 | 898  | [8. Energy](#energy)                                                 | [Research and development](#rdenergy)                                                                  |
 | 899  | [8. Energy](#energy)                                                 | [Other](#other8)                                                                                       |
 | 900  | [9. Immigration and integration](#immigration)                       | [General](#general9)                                                                                   |
