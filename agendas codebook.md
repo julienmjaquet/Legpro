@@ -1237,16 +1237,16 @@ Legal process in the field of social insurances.
 ### 14. `Urban and Regional Policies`
 
 - [`1400 General`](#1400-general)
-- [`1401 Urban housing`](#urbanhousing)
-- [`1403 Urban economic development and policies`](#urbaneconomicdevelopment)
-- [`1404 Rural and mountainous housing`](#housingrural)
-- [`1405 Rural and mountainous economic development`](#ruraleconomicdevelopment)
-- [`1406 Social housing`](#socialhousing)
-- [`1408 Elderly and handicapped housing`](#elderlyhousing)
-- [`1409 Homeless issues`](#homelesshousing)
-- [`1410 Rental housing market regulation`](#housingmarketregulation)
-- [`1450 Land use and planning`](#landuse)
-- [`1499 Other`](#other14)
+- [`1401 Urban housing`](#1401-urban-housing)
+- [`1403 Urban economic development and policies`](#1403-urban-economic-development-and-policies)
+- [`1404 Rural and mountainous housing`](#1404-housing-and-mountainous-housing)
+- [`1405 Rural and mountainous economic development`](#1405-rural-and-mountainous-economic-development)
+- [`1406 Social housing`](#1406-social-housing)
+- [`1408 Elderly and handicapped housing`](#1408-elderly-and-handicapped-housing)
+- [`1409 Homeless issues`](#1409-homeless-issues)
+- [`1410 Rental housing market regulation`](#1410-rental-housing-market-regulation)
+- [`1450 Land use and planning`](#1450-land-use-and-planning)
+- [`1499 Other`](#1499-other)
 
 #### `1400 General`
 
@@ -1750,8 +1750,8 @@ See also:
 
 ### 20. `Government and Public Administration`
 
-- [`2000 General`](#general20)
-- [`2001 Intergovernmental relations`](#confederationcantonscommunes)
+- [`2000 General`](#2000-general)
+- [`2001 Intergovernmental relations`](#2001-intergovernmental-relations)
 - [`2002 Government organization and bureaucratic oversight`](#executivebureaucratic)
 - [`2003 Postal service`](#post)
 - [`2004 Government employees`](#governmentofficials)
