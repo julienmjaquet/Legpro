@@ -1063,22 +1063,22 @@ Funiculars, cable cars, "gentle mobility", paths.
 
 ### 12. `Law and Order`
 
-- [`1200 General`](#general12)
-- [`1201 Law and Order Agencies`](#police)
-- [`1202 Organized Crime`](#organizedcrime)
-- [`1203 Illegal drug`](#drugtrafficking)
-- [`1204 Judicial system`](#judicialsystem)
-- [`1205 Prisons`](#prisons)
-- [`1206 Juvenile crime and the juvenile justice system`](#juvenilecrime)
-- [`1207 Child abuse and pedophilia`](#childabuse)
-- [`1208 Family law`](#familylaw)
-- [`1209 Police, fire and weapons control`](#weaponscontrol)
-- [`1210 Criminal and civil code`](#criminalcivilcode)
-- [`1211 Crime and Riots`](#riotscrime)
-- [`1212 Prostitution and people trafficking`](#prostitution)
-- [`1213 White collar crime`](#whitecollar)
-- [`1227 Police and Other General Domestic Security Responses to Terrorism`](#responsestoterrorism)
-- [`1299 Other`](#other12)
+- [`1200 General`](#1200-general)
+- [`1201 Law and Order Agencies`](#1201-law-and-order-agencies)
+- [`1202 Organized Crime`](#1202-organized-crime)
+- [`1203 Illegal drug`](#1203-illegal-drug)
+- [`1204 Judicial system`](#1204-judicial-system)
+- [`1205 Prisons`](#1205-prisons)
+- [`1206 Juvenile crime and the juvenile justice system`](#1206-juvenile-crime-and-the-juvenile-justice-system)
+- [`1207 Child abuse and pedophilia`](#1207-child-abuse-and-pedophilia)
+- [`1208 Family law`](#1208-family-law)
+- [`1209 Police, fire and weapons control`](#1209-police-fire-and-weapons-control)
+- [`1210 Criminal and civil code`](#1210-criminal-and-civil-code)
+- [`1211 Crime and Riots`](#1211-crime-and-riots)
+- [`1212 Prostitution and people trafficking`](#1212-prostitution-and-people-trafficking)
+- [`1213 White collar crime`](#1213-white-collar-crime)
+- [`1227 Police and Other General Domestic Security Responses to Terrorism`](#1227-police-and-other-general-domestic-security-responses-to-terrorism)
+- [`1299 Other`](#1299-other)
 
 #### `1200 General`
 
@@ -1088,7 +1088,7 @@ Funiculars, cable cars, "gentle mobility", paths.
 Organization and functioning of federal and cantonal offices, surveillance and control of borders and border crossing points, international police cooperation, coordination of different security institutions, working condition of border policemen, policemen and customs officers, (military participation in) security measures for exceptional events (i.e. the World Economic Forum).  
 
 See also:  
--	[Participation of the Army in domestic security](#other16) (code 1699).  
+-	[Participation of the Army in domestic security](#1699-other) (code 1699).  
 
 #### `1202 Organized Crime`
 
@@ -1190,13 +1190,13 @@ See also:
 
 ### 13. `Social Policy`
 
-- [`1300 General`](#general13)
-- [`1302 Assistance for low-income people`](#assistlowincome)
-- [`1303 Assistance to elderly people`](#assistelderly)
-- [`1304 Assistance to the disabled and handicapped`](#assistdisabled)
-- [`1305 Social services and volunteer associations`](#socialservices)
-- [`1350 Public pensions (AVS)`](#publicpensions)
-- [`1399 Other`](#other13)
+- [`1300 General`](#1300-general)
+- [`1302 Assistance for low-income people`](#1302-assistance-for-low-income-people)
+- [`1303 Assistance to elderly people`](#1303-assistance-to-elderly-people)
+- [`1304 Assistance to the disabled and handicapped`](#1304-assistance-to-the-disabled-and-handicapped)
+- [`1305 Social services and volunteer associations`](#1305-social-services-and-volunteer-associations)
+- [`1350 Public pensions (AVS)`](#1350-public-pensions-AVS)
+- [`1399 Other`](#1399-other)
 
 
 #### `1300 General`
@@ -1236,7 +1236,7 @@ Legal process in the field of social insurances.
 
 ### 14. `Urban and Regional Policies`
 
-- [`1400 General`](#general14)
+- [`1400 General`](#1400-general)
 - [`1401 Urban housing`](#urbanhousing)
 - [`1403 Urban economic development and policies`](#urbaneconomicdevelopment)
 - [`1404 Rural and mountainous housing`](#housingrural)
