@@ -317,7 +317,7 @@ Unemployment and employment statistics.
 
 See also:  
 -	[Measures concerning the labor market](#5-labor-and-employment) (category 5)  
--	[Unemployment insurance](512-unemployment-insurance) (code 512)  
+-	[Unemployment insurance](#512-unemployment-insurance) (code 512)  
 
 #### `104 Monetary policy and the Swiss national bank (SNB)`
 
