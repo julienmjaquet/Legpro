@@ -236,8 +236,8 @@ To be completed.
 | 1927 | [19. International Affairs](#19-international-affairs)            | [Terrorism and hijacking](#1927-terrorism-and-hijacking)                                                                                       |
 | 1929 | [19. International Affairs](#19-international-affairs)            | [Diplomacy and consular affairs](#1929-diplomacy-and-consular-affairs)                                                                                |
 | 1951 | [19. International Affairs](#19-international-affairs)            | [Swiss-European Union relations](#1951-swiss-european-union-relations)                                                                                  |
-| 1952 | [19. International Affairs](#19-international-affairs)            | [Swiss membership/participation to international organizations](#1952-swiss-membership-participation-to-international-organizations)                                                   |
-| 1953 | [19. International Affairs](#19-international-affairs)            | [Swiss membership/participation to international organizations (finance and economic development)](#1953-swiss-membership-participation-to-international-organizations-finance-and-economic-development) |
+| 1952 | [19. International Affairs](#19-international-affairs)            | [Swiss membership, participation to international organizations](#1952-swiss-membership-participation-to-international-organizations)                                                   |
+| 1953 | [19. International Affairs](#19-international-affairs)            | [Swiss membership, participation to international organizations (finance and economic development)](#1953-swiss-membership-participation-to-international-organizations-finance-and-economic-development) |
 | 1999 | [19. International Affairs](#19-international-affairs)            | [Other](#1999-other)                                                                                                           |
 | 2000 | [20. Government and Public Administration](#20-government-and-public-administration)  | [General](#2000-general)                                                                                                       |
 | 2001 | [20. Government and Public Administration](#20-government-and-public-administration)  | [Intergovernmental relations](#2001-intergovernmental-relations)                                |
@@ -1727,11 +1727,11 @@ Switzerland's European policy, bilateral treaties, negotiations about the adhesi
 See also:  
 -	The specific bilateral treaties are coded on the basis of the relevant policy sector + Europeanization variable.
 
-#### `1952 Swiss membership/participation to international organizations`
+#### `1952 Swiss membership, participation to international organizations`
 
 Swiss adhesion to the UN, Swiss participation in the UN, Swiss adhesion to the Latin Union, Swiss contributions to international organizations  (e.g. Centre William Rappard, International Red Cross and Red Crescent Museum), Foundation for Buildings for International Organizations (FIPOI), Switzerland as host state for international organizations, tax exemptions to international organizations.
 
-#### `1953 Swiss membership/participation to international organizations (finance and economic development)`
+#### `1953 Swiss membership, participation to international organizations (finance and economic development)`
 
 
 Switzerland's role in international financial organizations.
