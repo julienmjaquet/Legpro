@@ -42,7 +42,7 @@ To be completed.
 | 110  | [1. Macroeconomic](#1-macroeconomics)                  | [Price control](#110-price-control)                                                                         |
 | 199  | [1. Macroeconomic](#1-macroeconomics)                  | [Other](#199-other)                                                                                        |
 | 200  | [2. Civil Rights and Discrimination](#2-civil-rights-and-discrimination)     | [General](#200-general)                                                                                   |
-| 201  | [2. Civil Rights and Discrimination](#2-civil-rights-and-discrimination)     | [Ethnic minority and racial group discrimination](#201-ethnic-minority-and-racial-group)                                           |
+| 201  | [2. Civil Rights and Discrimination](#2-civil-rights-and-discrimination)     | [Ethnic minority and racial group discrimination](#201-ethnic-minority-and-racial-group-discrimination)                                           |
 | 202  | [2. Civil Rights and Discrimination](#2-civil-rights-and-discrimination)     | [Gender and sexual orientation discrimination](#202-gender-and-sexual-orientation-discrimination)                                  |
 | 204  | [2. Civil Rights and Discrimination](#2-civil-rights-and-discrimination)     | [Age discrimination](#204-age-discrimination)                                                                             |
 | 205  | [2. Civil Rights and Discrimination](#2-civil-rights-and-discrimination)     | [Handicap or disease discrimination](#205-handicap-or-disease-discrimination)                                                        |
