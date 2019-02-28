@@ -375,17 +375,17 @@ Cost of regulatory requirements, short-term economic policy, stimulus programs (
 
 ### 2. `Civil Rights and Discrimination`
 
-- [`200 General`](#general2)
-- [`201 Ethnic minority and racial group discrimination`](#minority)
-- [`202 Gender and sexual orientation discrimination`](#genderdiscrimination)
-- [`204 Age discrimination`](#age)
-- [`205 Handicap or disease discrimination`](#handicap)
-- [`206 Voting rights and direct democracy`](#votingrights)
-- [`207 Freedom of speech and religion`](#freedomspeech)
-- [`208 Right to privacy and access to government information`](#privacy)
-- [`209 Anti-government activities`](#antigov)
-- [`250 State and religious communities relations`](#religiousrelations)
-- [`299 Other`](#other2)
+- [`200 General`](#200-general)
+- [`201 Ethnic minority and racial group discrimination`](#201-ethnic-minority-and-racial-group-discrimination)
+- [`202 Gender and sexual orientation discrimination`](#202-gender-and-sexual-orientation-discrimination)
+- [`204 Age discrimination`](#204-age-discrimination)
+- [`205 Handicap or disease discrimination`](#205-handicap-or-disease-discrimination)
+- [`206 Voting rights and direct democracy`](#206-voting-rights-and-direct-democracy)
+- [`207 Freedom of speech and religion`](#207-freedom-of-speech-and-religion)
+- [`208 Right to privacy and access to government information`](#208-right-to-privacy-and-access-to-government-information)
+- [`209 Anti-government activities`](#209-anti-government-activities)
+- [`250 State and religious communities relations`](#250-state-and-religious-communities-relations)
+- [`299 Other`](#299-other)
 
 #### `200 General`
 
@@ -461,7 +461,7 @@ See also:
 
 ### 3. `Health`
 
-- [`300 General`](#general3)
+- [`300 General`](#300-general)
 - [`301 Organization of the health care system`](#reformswisshealthcare)
 - [`302 Costs and funding of the health care system`](#costsswisshealthcare)
 - [`321 Regulations of the drug industry, medical devices and clinical labs`](#regulationsmedical)
