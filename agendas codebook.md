@@ -887,16 +887,16 @@ Ecological assessment of companies, ecological tax reform, Agenda 21, mountain t
 
 ### 8. `Energy`
 
-- [`800 General`](#general8)
-- [`801 Nuclear energy`](#nuclearenergy)
-- [`802 Hydroelectricity`](#hydroelectricity)
-- [`803 Natural oil and gas`](#oilandgas)
-- [`805 Coal`](#coal)
-- [`806 Alternative and renewable energy`](#alternativeenergy)
-- [`807 Energy saving`](#energysaving)
-- [`808 Electricity`](#electricity)
-- [`898 Research and development`](#rdenergy)
-- [`899 Other`](#other8)
+- [`800 General`](#800-general)
+- [`801 Nuclear energy`](#801-nuclear-energy)
+- [`802 Hydroelectricity`](#802-hydroelectricity)
+- [`803 Natural oil and gas`](#803-natural-oil-and-gas)
+- [`805 Coal`](#805-coal)
+- [`806 Alternative and renewable energy`](#806-alternative-and-renewable-energy)
+- [`807 Energy saving`](#807-energy-saving)
+- [`808 Electricity`](#808-electricity)
+- [`898 Research and development`](#898-research-and-development)
+- [`899 Other`](#899-other)
 
 #### `800 General`
 
@@ -951,13 +951,13 @@ Research about renewable energies
 
 ### 9. `Immigration and integration`
 
-- [`900 General`](#general9)
-- [`930 Migration regulation`](#migrationregulation)
-- [`931 Refugees and asylum`](#refugeesasylum)
-- [`932 Acquisition of Swiss citizenship`](#swisscitizenship)
-- [`933 Immigrant's integration`](#immigrantsintegration)
-- [`934 Immigrant's voting rights`](#immigrantsvotingrights)
-- [`999 Other`](#other9)
+- [`900 General`](#900-general)
+- [`930 Migration regulation`](#930-migration-regulation)
+- [`931 Refugees and asylum`](#931-refugees-and-asylum)
+- [`932 Acquisition of Swiss citizenship`](#932-acquisition-of-swiss-citizenship)
+- [`933 Immigrant's integration`](#933-immigrants-integration)
+- [`934 Immigrant's voting rights`](#934-immigrants-voting-rights)
+- [`999 Other`](#999-other)
 
 
 #### `900 General`
@@ -997,15 +997,15 @@ Comparable, disaggregated statistics by nationality.
 
 ### 10. `Transportation`
 
-- [`1000 General`](#general10)
-- [`1001 Public transportation`](#masstransportation)
-- [`1002 Roads and highways`](#roadshighways)
-- [`1003 Aviation`](#airports)
-- [`1005 Railroad`](#railroad)
-- [`1007 Maritime and fluvial transportation`](#maritimetransport)
-- [`1010 Infrastructure development and public works`](#infrastructuredevelopment)
-- [`1098 Research and development`](#rdtransportation)
-- [`1099 Other`](#other10)
+- [`1000 General`](#1000-general)
+- [`1001 Public transportation`](#1001-public-transportation)
+- [`1002 Roads and highways`](#1002-roads-and-highways)
+- [`1003 Aviation`](#1003-aviation)
+- [`1005 Railroad`](#1005-railroad)
+- [`1007 Maritime and fluvial transportation`](#1007-maritime-and-fluvial-transportation)
+- [`1010 Infrastructure development and public works`](#1010-infrastructure-development-and-public-works)
+- [`1098 Research and development`](#1098-research-and-development)
+- [`1099 Other`](#1099-other)
 
 #### `1000 General`
 
