@@ -328,8 +328,8 @@ Distribution of the SNB's profits, standing rules of the SNB, gold reserves of t
 The confederation?s finances, the "debt brake", limitation of expenses, granting of subventions (without mentioning the domain), introduction of a financial/budgetary referendum, state quota (ratio of government expenditure to GDP), annual federal budged budget plans, debt reduction, reduction of the structural deficit.
 
 See also:  
--	[Swiss Federal Audit Office](#executivebureaucratic) (code 2002)  
--	[Finance Delegation of the Federal Assembly](#executivebureaucratic) (code 2002)  
+-	[Swiss Federal Audit Office](#2002-government-organization-and-bureaucratic-oversight) (code 2002)  
+-	[Finance Delegation of the Federal Assembly](#2002-government-organization-and-bureaucratic-oversight) (code 2002)  
 
 #### `107 Taxation`
 
@@ -338,14 +338,14 @@ Value-added-tax (VAT), reform of the VAT, direct federal tax, fiscal quote, fisc
 Special note: specific tax changes are coded based upon the subject matter.
 
 See also:  
--	[Criminal enforcement of tax evasion / tax fraud](#whitecollar) (code 1213)  
--	[Tobacco tax](#tobacco) (code 341)  
--	[Beer tax, alcohol tax](#alcohol) (code 342)  
--	[Fiscal equalization](#confederationcantonscommunes) (code 2001)  
--	[Exemption of people with disabilities from the military taxes](#handicap) (code 205)  
--	[Tax exemption for donations to cultural institutions](#culture) (code 609)  
--	[Tax exemption on the vital minimum](#assistlowincome) (code 1302)  
--	[Tax exemptions to international organizations](#swissio) (code 1952)  
+-	[Criminal enforcement of tax evasion / tax fraud](#1213-white-collar-crime) (code 1213)  
+-	[Tobacco tax](#341-tobacco-abuse-treatment-and-education) (code 341)  
+-	[Beer tax, alcohol tax](#342-alcohol-abuse-treatment-and-education) (code 342)  
+-	[Fiscal equalization](#2001-intergovernmental-relations) (code 2001)  
+-	[Exemption of people with disabilities from the military taxes](#205-handicap-or-disease-discrimination) (code 205)  
+-	[Tax exemption for donations to cultural institutions](#609-culture) (code 609)  
+-	[Tax exemption on the vital minimum](#1302-assistance-for-low-income-people) (code 1302)  
+-	[Tax exemptions to international organizations](#1952-swissio) (code 1952)  
 -	[Swiss Federal Tax Administration (FTA)](#federaltax) (code 2009)  
 -	[Petroleum tax](#oilandgas) (code 803)  
 -	[Banking system (taxes on bank assets, taxation of savings income agreements)](#bankingsystem) (code 1501)  
