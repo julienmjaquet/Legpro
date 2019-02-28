@@ -462,24 +462,24 @@ See also:
 ### 3. `Health`
 
 - [`300 General`](#300-general)
-- [`301 Organization of the health care system`](#reformswisshealthcare)
-- [`302 Costs and funding of the health care system`](#costsswisshealthcare)
-- [`321 Regulations of the drug industry, medical devices and clinical labs`](#regulationsmedical)
-- [`322 Health care infrastructure`](#healthfacilities)
-- [`323 Regulation of health insurance companies`](#regulationhealthinsurance)
-- [`324 Medical liability, fraud and abuse`](#medicalliability)
-- [`325 Health personnel, education and training`](#healtheducation)
-- [`331 Disease prevention and health promotion`](#preventionhealth)
-- [`332 Children health`](#nutrition)
-- [`333 Mental health`](#mentalhealth)
-- [`334 Home and palliative care`](#palliativecare)
-- [`335 Medicine costs`](#costsmedicine)
-- [`336 Complementary and alternative medicine costs`](#costscomplementarymed)
-- [`341 Tobacco abuse, treatment, and education`](#tobacco)
-- [`342 Alcohol abuse, treatment, and education`](#alcohol)
-- [`343 Drug abuse, treatment, and education`](#drugs)
-- [`398 Research and development`](#rdhealth)
-- [`399 Other`](#other3)
+- [`301 Organization of the health care system`](#301-organization-of-the-health-care-system)
+- [`302 Costs and funding of the health care system`](#302-costs-and-funding-of-the-health-care-system)
+- [`321 Regulations of the drug industry, medical devices and clinical labs`](#321-regulations-of-the-drug-industry-medical-devices-and-clinical-labs)
+- [`322 Health care infrastructure`](#322-health-care-infrastructure)
+- [`323 Regulation of health insurance companies`](#323-regulation-of-health-insurance-companies)
+- [`324 Medical liability, fraud and abuse`](#324-medical-liability-fraud-and-abuse)
+- [`325 Health personnel, education and training`](#325-health-personnel-education-and-training)
+- [`331 Disease prevention and health promotion`](#331-disease-prevention-and-health-promotion)
+- [`332 Children health`](#332-children-health)
+- [`333 Mental health`](#333-mental-health)
+- [`334 Home and palliative care`](#334-home-and-palliative-care)
+- [`335 Medicine costs`](#335-medicine-costs)
+- [`336 Complementary and alternative medicine costs`](#336-complementary-and-alternative-medecine-costs)
+- [`341 Tobacco abuse, treatment, and education`](#341-tobacco-abuse-treatment-and-education)
+- [`342 Alcohol abuse, treatment, and education`](#342-alcohol-abuse-treatment-and-education)
+- [`343 Drug abuse, treatment, and education`](#343-drugs-abuse-treatment-and-education)
+- [`398 Research and development`](#398-research-and-development)
+- [`399 Other`](#399-other)
 
 #### `300 General`
 
@@ -591,15 +591,15 @@ See also:
 
 ### 4. `Agriculture`
 
-- [`400 General`](#general4)
-- [`401 Agricultural trade`](#agriculturaltrade)
-- [`402 Subsides and regulation on agriculture`](#subsidesagriculture)
-- [`403 Food inspection and safety`](#foodinspection)
-- [`404 Agricultural marketing and promotion`](#agriculturalmarketing)
-- [`405 Animal and crop diseases`](#animaldiseasescontrol)
-- [`406 Animal Welfare`](#welfarelivestock)
-- [`498 Agriculture research and development`](#agriculturesearch)
-- [`499 Other`](#other4)
+- [`400 General`](#400-general)
+- [`401 Agricultural trade`](#401-agricultural-trade)
+- [`402 Subsides and regulation on agriculture`](#402-subsides-and-regulation-on-agriculture)
+- [`403 Food inspection and safety`](#403-food-inspection-and-safety)
+- [`404 Agricultural marketing and promotion`](#404-agricultural-marketing-and-promotion)
+- [`405 Animal and crop diseases`](#405-animal-and-crop-diseases)
+- [`406 Animal Welfare`](#406-animal-welfare)
+- [`498 Agriculture research and development`](#498-agriculture-research-and-development)
+- [`499 Other`](#499-other)
 
 #### `400 General`
 
@@ -659,17 +659,17 @@ See also:
 
 ### 5. `Labor and Employment`
 
-- [`500 General`](#general5)
-- [`501 Workers safety and protection`](#workingenvironment)
-- [`502 Employment training and workforce development`](#employmenttraining)
-- [`503 Employee Benefits`](#employeebenefits)
-- [`504 Employee relations and trade unions`](#employeerelations)
-- [`505 Labor law`](#laborlaw)
-- [`506 Youth employment`](#youthemployment)
-- [`508 Parental leave, childcare and work-life balance`](#parentalleave)
-- [`512 Unemployment insurance`](#unemploymentinsurance)
-- [`529 Seasonal workers and rural labor`](#seasonalworkers)
-- [`599 Other`](#other5)
+- [`500 General`](#500-general)
+- [`501 Workers safety and protection`](#501-workers-safety-and-protection)
+- [`502 Employment training and workforce development`](#502-employment-training-and-workforce-development)
+- [`503 Employee Benefits`](#503-employee-benefits)
+- [`504 Employee relations and trade unions`](#504-employee-relations-and-trade-unions)
+- [`505 Labor law`](#505-labor-law)
+- [`506 Youth employment`](#506-youth-employment)
+- [`508 Parental leave, childcare and work-life balance`](#507-parental-leave-childcare-and-work-life-balance)
+- [`512 Unemployment insurance`](#508-unemployment-insurance)
+- [`529 Seasonal workers and rural labor`](#529-seasonal-workers-and-rural-labor)
+- [`599 Other`](#599-other)
 
 #### `500 General`{#general5}
 
@@ -745,17 +745,17 @@ Mass lay-offs, severance schemes in the case of lay-offs, encouragement to work 
 
 ### 6. `Education, culture and sports`
 
-- [`600 General`](#general6)
-- [`601 Higher education`](#highereducation)
-- [`602 Nursery schools, primary and secondary education`](#primarysecondaryeducation)
-- [`603 Underprivileged students and school failure`](#supportstudents)
-- [`604 Technical and vocational training`](#vocationaltraining)
-- [`606 Special education`](#specialeducation)
-- [`607 Education quality`](#educationquality)
-- [`609 Culture`](#culture)
-- [`610 Sports`](#sports)
-- [`698 Research and development`](#rdeducation)
-- [`699 Other`](#other6)
+- [`600 General`](#600-general)
+- [`601 Higher education`](#601-higher-education)
+- [`602 Nursery schools, primary and secondary education`](#602-nursery-schools-primary-and-secondary-education)
+- [`603 Underprivileged students and school failure`](#603-underprivileged-students-and-school-failure)
+- [`604 Technical and vocational training`](#604-technical-and-vocational-training)
+- [`606 Special education`](#606-special-education)
+- [`607 Education quality`](#607-education-quality)
+- [`609 Culture`](#609-culture)
+- [`610 Sports`](#610-sports)
+- [`698 Research and development`](#698-research-and-development)
+- [`699 Other`](#699-other)
 
 #### `600 General`
 
@@ -811,17 +811,17 @@ Fight against illiteracy, shortage of teachers, youth policy, youth parliament, 
 
 ### 7. `Environment`
 
-- [`700 General`](#general7)
-- [`701 Drinking water`](#drinkingwater)
-- [`703 Waste`](#waste)
-- [`704 Hazardous and toxic waste`](#toxicwaste)
-- [`705 Climate and noise pollution `](#airpollution)
-- [`707 Recycling`](#recycling)
-- [`708 Indoor environmental hazards`](#indoorhazards)
-- [`709 Animal and plant life protection`](#animalplantprotection)
-- [`711 Land and water conservation`](#landconservation)
-- [`798 Research and development`](#rdenvironment)
-- [`799 Other`](#other7)
+- [`700 General`](#700-general)
+- [`701 Drinking water`](#701-drinking-water)
+- [`703 Waste`](#703-waste)
+- [`704 Hazardous and toxic waste`](#704-hazardous-and-toxic-waste)
+- [`705 Climate and noise pollution `](#705-climate-and-noise-pollution)
+- [`707 Recycling`](#707-recycling)
+- [`708 Indoor environmental hazards`](#708-indoor-environmental-hazards)
+- [`709 Animal and plant life protection`](#709-animal-and-plant-life-protection)
+- [`711 Land and water conservation`](#711-land-and-water-conservation)
+- [`798 Research and development`](#798-research-and-development)
+- [`799 Other`](#799-other)
 
 
 #### `700 General`
