@@ -230,7 +230,7 @@ To be completed.
 | 1905 | [19. International Affairs](#19-international-affairs)            | [Developing countries issues](#1905-developing-countries-issues)                                                                         |
 | 1906 | [19. International Affairs](#19-international-affairs)            | [International Finance and Economic Development](#1906-international-finance-and-economic-development)                                        |
 | 1910 | [19. International Affairs](#19-international-affairs)            | [European Union](#1910-european-union)                                                                                                       |
-| 1921 | [19. International Affairs](#19-international-affairs)            | [Specific Country/Region](#1921-specific-country-region)                                                                               |
+| 1921 | [19. International Affairs](#19-international-affairs)            | [Specific Country or Region](#1921-specific-country-or-region)                                                                               |
 | 1925 | [19. International Affairs](#19-international-affairs)            | [Human rights](#1925-human-rights)                                                                                                |
 | 1926 | [19. International Affairs](#19-international-affairs)            | [International organizations](#1926-international-organizations)                                                                                          |
 | 1927 | [19. International Affairs](#19-international-affairs)            | [Terrorism and hijacking](#1927-terrorism-and-hijacking)                                                                                       |
@@ -1681,7 +1681,7 @@ See also:
 -	[Relations between Switzerland and the EU](#swisseu) (code 1951)  
 -	[Bilateral treaties between Switzerland and the EU](#swisseu) (code 1951)  
 
-#### `1921 Specific Country / Region`
+#### `1921 Specific Country or Region`
 
 Bilateral and multilateral relations with western European countries (without reference to the process of European integration), border issues between Switzerland and its neighbor countries (Austria, Germany, France, Italy, Lichtenstein). 
 
