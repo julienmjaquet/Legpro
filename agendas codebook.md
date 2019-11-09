@@ -347,7 +347,7 @@ See also:
 -	[Tax exemption for donations to cultural institutions](#609-culture) (code 609)  
 -	[Tax exemption on the vital minimum](#1302-assistance-for-low-income-people) (code 1302)  
 -	[Tax exemptions to international organizations](#1952-swissio) (code 1952)  
--	[Swiss Federal Tax Administration (FTA)](#federaltax) (code 2009)  
+-	[Swiss Federal Tax Administration (FTA)](#2009-federal-tax-administration) (code 2009)  
 -	[Petroleum tax](#oilandgas) (code 803)  
 -	[Banking system (taxes on bank assets, taxation of savings income agreements)](#bankingsystem) (code 1501)  
 
