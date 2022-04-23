@@ -33,15 +33,15 @@ To be completed.
 
 | Code | General category                                                     | Subtopic                                                                                               |
 |------|----------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------|
-| 100  | [1. Macroeconomic](#1-macroeconomics)                  | [General](#100-general)                                                                                    |
-| 101  | [1. Macroeconomic](#1-macroeconomics)                  | [Inflation, prices and interest rates](#101-inflation-prices-and-interest-rates)                                                     |
-| 103  | [1. Macroeconomic](#1-macroeconomics)                  | [Unemployment rate](#103-unemployment-rate)                                                                     |
-| 104  | [1. Macroeconomic](#1-macroeconomics)                  | [Monetary policy and the Swiss national bank (SNB)](#104-monetary-policy-and-the-swiss-national-bank-snb)                                |
-| 105  | [1. Macroeconomic](#1-macroeconomics)                  | [National budget and debt](#105-national-budget-and-debt)                                                                |
-| 107  | [1. Macroeconomic](#1-macroeconomics)                  | [Taxation](#107-taxation)                                                       |
-| 108  | [1. Macroeconomic](#1-macroeconomics)                  | [Industrial policy](#108-industrial-policy)                                                                     |
-| 110  | [1. Macroeconomic](#1-macroeconomics)                  | [Price control](#110-price-control)                                                                         |
-| 199  | [1. Macroeconomic](#1-macroeconomics)                  | [Other](#199-other)                                                                                        |
+| 100  | [1. Macroeconomics](#1-macroeconomics)                  | [General](#100-general)                                                                                    |
+| 101  | [1. Macroeconomics](#1-macroeconomics)                  | [Inflation, prices and interest rates](#101-inflation-prices-and-interest-rates)                                                     |
+| 103  | [1. Macroeconomics](#1-macroeconomics)                  | [Unemployment rate](#103-unemployment-rate)                                                                     |
+| 104  | [1. Macroeconomics](#1-macroeconomics)                  | [Monetary policy and the Swiss national bank (SNB)](#104-monetary-policy-and-the-swiss-national-bank-snb)                                |
+| 105  | [1. Macroeconomics](#1-macroeconomics)                  | [National budget and debt](#105-national-budget-and-debt)                                                                |
+| 107  | [1. Macroeconomics](#1-macroeconomics)                  | [Taxation](#107-taxation)                                                       |
+| 108  | [1. Macroeconomics](#1-macroeconomics)                  | [Industrial policy](#108-industrial-policy)                                                                     |
+| 110  | [1. Macroeconomics](#1-macroeconomics)                  | [Price control](#110-price-control)                                                                         |
+| 199  | [1. Macroeconomics](#1-macroeconomics)                  | [Other](#199-other)                                                                                        |
 | 200  | [2. Civil Rights and Discrimination](#2-civil-rights-and-discrimination)     | [General](#200-general)                                                                                   |
 | 201  | [2. Civil Rights and Discrimination](#2-civil-rights-and-discrimination)     | [Ethnic minority and racial group discrimination](#201-ethnic-minority-and-racial-group-discrimination)                                           |
 | 202  | [2. Civil Rights and Discrimination](#2-civil-rights-and-discrimination)     | [Gender and sexual orientation discrimination](#202-gender-and-sexual-orientation-discrimination)                                  |
